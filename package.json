@@ -1,0 +1,27 @@
+{
+  "name": "node-server-project",
+  "version": "1.0.0",
+  "description": "A Node.js server project that runs a daily job to scrape a list of companies from a website.",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "test": "jest",
+    "dev": "nodemon src/server.js"
+  },
+  "dependencies": {
+    "axios": "^1.8.1",
+    "cheerio": "^1.0.0",
+    "dotenv": "^16.4.7",
+    "express": "^4.17.1",
+    "jsdom": "^26.0.0",
+    "node-cron": "^2.0.3",
+    "pdf-parse": "^1.1.1",
+    "xml2js": "^0.6.2"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "nodemon": "^3.1.9"
+  }
+}
