@@ -1,5 +1,5 @@
 const cron = require('node-cron');
-const { scrapeCompanies } = require('../utils/scraper');
+const { scrapeData } = require('../utils/scraper');
 const fs = require('fs');
 const path = require('path');
 
@@ -14,19 +14,21 @@ const websites = require('../data/websites.json').websites;
 const runDailyJob = () => {
     // Schedule the job to run daily at the specified time
     cron.schedule(scheduleTime, async () => {
-        try {
-            let allCompanies = [];
-            for (const url of websites) {
-                const companies = await scrapeCompanies(url);
-                allCompanies = allCompanies.concat(companies);
-            }
-            const filePath = path.join(__dirname, dataStoragePath);
+        const filePath = path.join(__dirname, 'data/websites.json');
 
-            // Store the companies list locally
-            fs.writeFileSync(filePath, JSON.stringify(allCompanies, null, 2));
-            console.log('Daily job completed: Companies list updated.');
-        } catch (error) {
-            console.error('Error running daily job:', error);
+        // Read the websites.json file
+        const rawData = fs.readFileSync(filePath);
+        const websites = JSON.parse(rawData);
+
+        for (const site of websites) {
+            try {
+                console.log(`Scraping data from: ${site.url}`);
+                const result = await scrapeData(site);
+                console.log('Scraped data');
+
+            } catch (error) {
+                console.error(`Error scraping ${site.url}:`, error);
+            }
         }
     });
 };
