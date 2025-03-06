@@ -1,0 +1,593 @@
+{
+  "CONSOLIDATED_LIST": {
+    "$": {
+      "dateGenerated": "2025-03-06T00:00:03.429Z"
+    },
+    "INDIVIDUALS": {
+      "INDIVIDUAL": [
+        {
+          "DATAID": "6908457",
+          "VERSIONNUM": "1",
+          "FIRST_NAME": "GABRIEL",
+          "TITLE": {
+            "VALUE": "Lieutenant General"
+          },
+          "SECOND_NAME": "JOK RIAK",
+          "THIRD_NAME": "MAKOL",
+          "UN_LIST_TYPE": "SouthSudan",
+          "REFERENCE_NUMBER": "SSi.001",
+          "LISTED_ON": "2015-07-01-04:00",
+          "COMMENTS1": "Appointed as Chief of Defence Forces on 2 May 2018. Commanded SPLA Sector One, which operates primarily within Unity State, since January 2013. In his position as the SPLA Sector One commander, he has expanded or extended the conflict in South Sudan through breaches of the Cessation of Hostilities Agreement. The SPLA is a South Sudanese military entity that has engaged in actions that have extended the conflict in South Sudan, including breaches of the January 2014 Cessation of Hostilities Agreement and the May 9, 2014 Agreement to Resolve the Crisis in South Sudan, which was a re-commitment to the CoHA and has obstructed the activities of IGAD’s Monitoring and Verification Mechanism.  INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals",
+          "DESIGNATION": {
+            "VALUE": [
+              "Former Sudan People’s Liberation Army’s (SPLA) Sector One\nCommander",
+              "Chief of Defence Forces"
+            ]
+          },
+          "DESIG": "true",
+          "GOODQUALITY": "true",
+          "PASSPORT": "true",
+          "NATIONALITY": {
+            "VALUE": "South Sudan"
+          },
+          "LIST_TYPE": {
+            "VALUE": "UN List"
+          },
+          "LAST_DAY_UPDATED": {
+            "VALUE": "2018-11-21"
+          },
+          "INDIVIDUAL_ALIAS": [
+            {
+              "QUALITY": "Good",
+              "ALIAS_NAME": "Gabriel Jok"
+            },
+            {
+              "QUALITY": "Good",
+              "ALIAS_NAME": "Jok Riak"
+            },
+            {
+              "QUALITY": "Good",
+              "ALIAS_NAME": "Jock Riak"
+            }
+          ],
+          "INDIVIDUAL_ADDRESS": [
+            {
+              "COUNTRY": "South Sudan",
+              "STATE_PROVINCE": "Unity State"
+            },
+            {
+              "COUNTRY": "South Sudan",
+              "CITY": "Wau",
+              "STATE_PROVINCE": "Western Bahr El Ghazal"
+            }
+          ],
+          "INDIVIDUAL_DATE_OF_BIRTH": {
+            "TYPE_OF_DATE": "EXACT",
+            "DATE": "1966-01-01"
+          },
+          "INDIVIDUAL_PLACE_OF_BIRTH": [
+            {
+              "CITY": "Bor",
+              "COUNTRY": "Sudan"
+            },
+            {
+              "CITY": "Bor",
+              "COUNTRY": "South Sudan"
+            }
+          ],
+          "INDIVIDUAL_DOCUMENT": [
+            {
+              "TYPE_OF_DOCUMENT": "Passport",
+              "NUMBER": "D00008623",
+              "ISSUING_COUNTRY": "South Sudan"
+            },
+            {
+              "TYPE_OF_DOCUMENT": "National Identification Number",
+              "NUMBER": "M6600000258472"
+            }
+          ],
+          "SORT_KEY": "",
+          "SORT_KEY_LAST_MOD": ""
+        },
+        {
+          "DATAID": "6908458",
+          "VERSIONNUM": "1",
+          "FIRST_NAME": "SIMON",
+          "TITLE": {
+            "VALUE": "Major General"
+          },
+          "SECOND_NAME": "GATWECH",
+          "THIRD_NAME": "DUAL",
+          "UN_LIST_TYPE": "SouthSudan",
+          "REFERENCE_NUMBER": "SSi.002",
+          "LISTED_ON": "2015-07-01-04:00",
+          "COMMENTS1": "Is the SPLM-IO Chief of General Staff and was previously the commander of\nopposition forces in Jonglei State. His forces conducted an early February 2015 attack\nin Jonglei State, and as of March 2015, he had tried to destroy the peace in Jonglei\nState through attacks on the civilian population. Photograph available for inclusion in the INTERPOL-UN Security Council Special Notice.  INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals",
+          "DESIGNATION": {
+            "VALUE": "Chief of General Staff, SPLA in Opposition"
+          },
+          "DESIG": "true",
+          "GOODQUALITY": "true",
+          "LIST_TYPE": {
+            "VALUE": "UN List"
+          },
+          "LAST_DAY_UPDATED": {
+            "VALUE": "2016-11-03"
+          },
+          "INDIVIDUAL_ALIAS": [
+            {
+              "QUALITY": "Good",
+              "ALIAS_NAME": "Simon Gatwich Dual"
+            },
+            {
+              "QUALITY": "Good",
+              "ALIAS_NAME": "Simon Getwech Dual"
+            },
+            {
+              "QUALITY": "Good",
+              "ALIAS_NAME": "Simon Gatwec Duel"
+            },
+            {
+              "QUALITY": "Good",
+              "ALIAS_NAME": "Simon Gatweach"
+            },
+            {
+              "QUALITY": "Good",
+              "ALIAS_NAME": "Simon Gatwick"
+            },
+            {
+              "QUALITY": "Good",
+              "ALIAS_NAME": "Simon Gatwech"
+            },
+            {
+              "QUALITY": "Good",
+              "ALIAS_NAME": "Simon Garwich"
+            },
+            {
+              "QUALITY": "Low",
+              "ALIAS_NAME": "General Gaduel"
+            },
+            {
+              "QUALITY": "Low",
+              "ALIAS_NAME": "Dhual"
+            },
+            {
+              "QUALITY": "",
+              "ALIAS_NAME": ""
+            }
+          ],
+          "INDIVIDUAL_ADDRESS": [
+            {
+              "COUNTRY": "Sudan",
+              "STATE_PROVINCE": "Jonglei State"
+            },
+            {
+              "COUNTRY": "South Sudan",
+              "STATE_PROVINCE": "Jonglei State"
+            }
+          ],
+          "INDIVIDUAL_DATE_OF_BIRTH": {
+            "TYPE_OF_DATE": "EXACT",
+            "YEAR": "1953"
+          },
+          "INDIVIDUAL_PLACE_OF_BIRTH": [
+            {
+              "CITY": "Akobo, Jonglei State",
+              "COUNTRY": "Sudan"
+            },
+            {
+              "CITY": "Akobo, Jonglei State",
+              "COUNTRY": "South Sudan"
+            }
+          ],
+          "INDIVIDUAL_DOCUMENT": "",
+          "SORT_KEY": "",
+          "SORT_KEY_LAST_MOD": ""
+        },
+        {
+          "DATAID": "6908461",
+          "VERSIONNUM": "1",
+          "FIRST_NAME": "JAMES",
+          "TITLE": {
+            "VALUE": "Major General"
+          },
+          "SECOND_NAME": "KOANG",
+          "THIRD_NAME": "CHUOL",
+          "UN_LIST_TYPE": "SouthSudan",
+          "REFERENCE_NUMBER": "SSi.003",
+          "LISTED_ON": "2015-07-01-04:00",
+          "COMMENTS1": "Appointed commander of the Sudan People’s Liberation Army in Opposition\n(SPLA-IO) Special Division in December 2014. His forces have been engaged in attacks\nagainst civilians. In February 2014, forces under his command attacked United Nations\ncamps, hospitals, churches, and schools, engaging in widespread rape, torture, and the\ndestruction of property, in an attempt to flush out civilians, soldiers, and policemen\nallied with the government. INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals",
+          "GOODQUALITY": "true",
+          "PASSPORT": "true",
+          "NATIONALITY": {
+            "VALUE": "South Sudan"
+          },
+          "LIST_TYPE": {
+            "VALUE": "UN List"
+          },
+          "LAST_DAY_UPDATED": {
+            "VALUE": ""
+          },
+          "INDIVIDUAL_ALIAS": [
+            {
+              "QUALITY": "Good",
+              "ALIAS_NAME": "James Koang Chol Ranley"
+            },
+            {
+              "QUALITY": "Good",
+              "ALIAS_NAME": "James Koang Chol"
+            },
+            {
+              "QUALITY": "Good",
+              "ALIAS_NAME": "Koang Chuol Ranley"
+            },
+            {
+              "QUALITY": "Good",
+              "ALIAS_NAME": "James Koang Chual"
+            }
+          ],
+          "INDIVIDUAL_ADDRESS": "",
+          "ADDRESS": "true",
+          "INDIVIDUAL_DATE_OF_BIRTH": {
+            "TYPE_OF_DATE": "EXACT",
+            "YEAR": "1961"
+          },
+          "INDIVIDUAL_PLACE_OF_BIRTH": {
+            "COUNTRY": ""
+          },
+          "INDIVIDUAL_DOCUMENT": {
+            "TYPE_OF_DOCUMENT": "Passport",
+            "NUMBER": "R00012098, South Sudan"
+          },
+          "SORT_KEY": "",
+          "SORT_KEY_LAST_MOD": ""
+        },
+        {
+          "DATAID": "6908459",
+          "VERSIONNUM": "1",
+          "FIRST_NAME": "SANTINO",
+          "TITLE": {
+            "VALUE": "Major General"
+          },
+          "SECOND_NAME": "DENG",
+          "THIRD_NAME": "WOL",
+          "UN_LIST_TYPE": "SouthSudan",
+          "REFERENCE_NUMBER": "SSi.004",
+          "LISTED_ON": "2015-07-01-04:00",
+          "COMMENTS1": "Has led and directed military actions against opposition forces and\nconducted confrontational troop movements in violation of the CoHA. During May 2015,\nforces under his command killed children, women and old men, burned property, and stole\nlivestock as they advanced through Unity State towards Thorjath oil field. INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals",
+          "DESIGNATION": {
+            "VALUE": "Commander of the SPLA’s Third Division"
+          },
+          "DESIG": "true",
+          "GOODQUALITY": "true",
+          "LIST_TYPE": {
+            "VALUE": "UN List"
+          },
+          "LAST_DAY_UPDATED": {
+            "VALUE": ""
+          },
+          "INDIVIDUAL_ALIAS": [
+            {
+              "QUALITY": "Good",
+              "ALIAS_NAME": "Santino Deng Wuol"
+            },
+            {
+              "QUALITY": "Good",
+              "ALIAS_NAME": "Santino Deng Kuol"
+            }
+          ],
+          "INDIVIDUAL_ADDRESS": "",
+          "ADDRESS": "true",
+          "INDIVIDUAL_DATE_OF_BIRTH": {
+            "TYPE_OF_DATE": "EXACT",
+            "DATE": "1962-11-09"
+          },
+          "INDIVIDUAL_PLACE_OF_BIRTH": [
+            {
+              "CITY": "Aweil",
+              "COUNTRY": "Sudan"
+            },
+            {
+              "CITY": "Aweil",
+              "COUNTRY": "South Sudan"
+            }
+          ],
+          "INDIVIDUAL_DOCUMENT": "",
+          "SORT_KEY": "",
+          "SORT_KEY_LAST_MOD": ""
+        },
+        {
+          "DATAID": "6908460",
+          "VERSIONNUM": "1",
+          "FIRST_NAME": "MARIAL",
+          "FOURTH_NAME": "MANGOK",
+          "SECOND_NAME": "CHANUONG",
+          "THIRD_NAME": "YOL",
+          "UN_LIST_TYPE": "SouthSudan",
+          "REFERENCE_NUMBER": "SSi.005",
+          "LISTED_ON": "2015-07-01-04:00",
+          "COMMENTS1": "His Presidential Guard led the slaughter of Nuer civilians in and around\nJuba, many who were buried in mass graves. One such grave was purported to contain\n200-300 civilians. INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals",
+          "DESIGNATION": {
+            "VALUE": [
+              "Sudan People’s Liberation Army Major General",
+              "Commander, Presidential Guard Unit"
+            ]
+          },
+          "DESIG": "true",
+          "GOODQUALITY": "true",
+          "PASSPORT": "true",
+          "NATIONALITY": {
+            "VALUE": "South Sudan"
+          },
+          "LIST_TYPE": {
+            "VALUE": "UN List"
+          },
+          "LAST_DAY_UPDATED": {
+            "VALUE": ""
+          },
+          "INDIVIDUAL_ALIAS": [
+            {
+              "QUALITY": "Good",
+              "ALIAS_NAME": "Marial Chinuong"
+            },
+            {
+              "QUALITY": "Good",
+              "ALIAS_NAME": "Marial Chan"
+            },
+            {
+              "QUALITY": "Good",
+              "ALIAS_NAME": "Marial Chanoung Yol"
+            },
+            {
+              "QUALITY": "Good",
+              "ALIAS_NAME": "Marial Chinoum"
+            }
+          ],
+          "INDIVIDUAL_ADDRESS": "",
+          "ADDRESS": "true",
+          "INDIVIDUAL_DATE_OF_BIRTH": {
+            "TYPE_OF_DATE": "EXACT",
+            "DATE": "1960-01-01"
+          },
+          "INDIVIDUAL_PLACE_OF_BIRTH": {
+            "COUNTRY": ""
+          },
+          "INDIVIDUAL_DOCUMENT": {
+            "TYPE_OF_DOCUMENT": "Passport",
+            "NUMBER": "R00005943, South Sudan"
+          },
+          "SORT_KEY": "",
+          "SORT_KEY_LAST_MOD": ""
+        },
+        {
+          "DATAID": "6908462",
+          "VERSIONNUM": "1",
+          "FIRST_NAME": "PETER",
+          "TITLE": {
+            "VALUE": [
+              "General",
+              "Major General"
+            ]
+          },
+          "SECOND_NAME": "GADET",
+          "UN_LIST_TYPE": "SouthSudan",
+          "REFERENCE_NUMBER": "SSi.006",
+          "LISTED_ON": "2015-07-01-04:00",
+          "COMMENTS1": "Appointed the SPLA-IO’s Deputy Chief of Staff for Operations on December\n21, 2014. Forces under his command targeted civilians, including women, in April 2014\nduring an assault on Bentiu, including targeted killings on the basis of\nethnicity. INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals",
+          "GOODQUALITY": "true",
+          "LIST_TYPE": {
+            "VALUE": "UN List"
+          },
+          "LAST_DAY_UPDATED": {
+            "VALUE": ""
+          },
+          "INDIVIDUAL_ALIAS": [
+            {
+              "QUALITY": "Good",
+              "ALIAS_NAME": "Peter Gatdet Yaka"
+            },
+            {
+              "QUALITY": "Good",
+              "ALIAS_NAME": "Peter Gadet Yak"
+            },
+            {
+              "QUALITY": "Good",
+              "ALIAS_NAME": "Peter Gadet Yaak"
+            },
+            {
+              "QUALITY": "Good",
+              "ALIAS_NAME": "Peter Gatdet Yaak"
+            },
+            {
+              "QUALITY": "Good",
+              "ALIAS_NAME": "Peter Gatdet"
+            },
+            {
+              "QUALITY": "Good",
+              "ALIAS_NAME": "Peter Gatdeet Yaka"
+            },
+            {
+              "QUALITY": "",
+              "ALIAS_NAME": ""
+            }
+          ],
+          "INDIVIDUAL_ADDRESS": "",
+          "ADDRESS": "true",
+          "INDIVIDUAL_DATE_OF_BIRTH": {
+            "TYPE_OF_DATE": "BETWEEN",
+            "FROM_YEAR": "1957",
+            "TO_YEAR": "1959"
+          },
+          "INDIVIDUAL_PLACE_OF_BIRTH": {
+            "COUNTRY": ""
+          },
+          "INDIVIDUAL_DOCUMENT": "",
+          "SORT_KEY": "",
+          "SORT_KEY_LAST_MOD": ""
+        },
+        {
+          "DATAID": "6908711",
+          "VERSIONNUM": "1",
+          "FIRST_NAME": "MALEK",
+          "FOURTH_NAME": "RENGU",
+          "TITLE": {
+            "VALUE": "Lieutenant General"
+          },
+          "SECOND_NAME": "REUBEN",
+          "THIRD_NAME": "RIAK",
+          "UN_LIST_TYPE": "SouthSudan",
+          "REFERENCE_NUMBER": "SSi.007",
+          "LISTED_ON": "2018-07-13",
+          "COMMENTS1": "As SPLA Deputy Chief of Staff for Logistics, Riak was one of the senior officials of the Government of South Sudan who planned and oversaw an offensive in Unity state in 2015 that resulted in widespread destruction and large population displacement.",
+          "DESIGNATION": {
+            "VALUE": [
+              "Deputy Chief of General Staff for Logistics",
+              "Deputy Chief of Defence Staff and Inspector General of the Army"
+            ]
+          },
+          "DESIG": "true",
+          "GOODQUALITY": "true",
+          "NATIONALITY": {
+            "VALUE": "South Sudan"
+          },
+          "LIST_TYPE": {
+            "VALUE": "UN List"
+          },
+          "LAST_DAY_UPDATED": {
+            "VALUE": ""
+          },
+          "INDIVIDUAL_ALIAS": {
+            "QUALITY": "Good",
+            "ALIAS_NAME": "Malek Ruben"
+          },
+          "INDIVIDUAL_ADDRESS": "",
+          "ADDRESS": "true",
+          "INDIVIDUAL_DATE_OF_BIRTH": {
+            "TYPE_OF_DATE": "EXACT",
+            "DATE": "1960-01-01"
+          },
+          "INDIVIDUAL_PLACE_OF_BIRTH": {
+            "CITY": "Yei",
+            "COUNTRY": "South Sudan"
+          },
+          "INDIVIDUAL_DOCUMENT": "",
+          "SORT_KEY": "",
+          "SORT_KEY_LAST_MOD": ""
+        },
+        {
+          "DATAID": "6908714",
+          "VERSIONNUM": "1",
+          "FIRST_NAME": "PAUL",
+          "FOURTH_NAME": "ANEI",
+          "TITLE": {
+            "VALUE": "General"
+          },
+          "SECOND_NAME": "MALONG",
+          "THIRD_NAME": "AWAN",
+          "UN_LIST_TYPE": "SouthSudan",
+          "REFERENCE_NUMBER": "SSi.008",
+          "LISTED_ON": "2018-07-13",
+          "COMMENTS1": "As Chief of General Staff of the SPLA, Malong expanded or extended the conflict in South Sudan through breaches of the Cessation of Hostilities Agreement and breaches of the 2015 Agreement on the Resolution of the Conflict in South Sudan (ARCSS). He reportedly directed efforts to kill opposition leader Riek Machar. He ordered SPLA units to prevent the transport of humanitarian supplies. Under Malong’s leadership, the SPLA attacked civilians, schools and hospitals; forced the displacement of civilians; carried out enforced disappearances; arbitrarily detained civilians; and conducted acts of torture, and rape. He mobilized the Mathiang Anyoor Dinka tribal militia, which uses child soldiers. Under his leadership, the SPLA restricted UNMISS, the Joint Monitoring and Evaluation Commission (JMEC), and CTSAMM access to sites to investigate and document abuses.",
+          "DESIGNATION": {
+            "VALUE": [
+              "Former Chief of Staff of the Sudan People’s Liberation Army (SPLA)",
+              "Former Governor, Northern Bahr el-Ghazal State"
+            ]
+          },
+          "DESIG": "true",
+          "GOODQUALITY": "true",
+          "PASSPORT": "true",
+          "NATIONALITY": {
+            "VALUE": [
+              "South Sudan",
+              "Uganda"
+            ]
+          },
+          "LIST_TYPE": {
+            "VALUE": "UN List"
+          },
+          "LAST_DAY_UPDATED": {
+            "VALUE": "2019-06-25"
+          },
+          "INDIVIDUAL_ALIAS": [
+            {
+              "QUALITY": "Good",
+              "ALIAS_NAME": "Paul Malong Awan Anei"
+            },
+            {
+              "QUALITY": "Good",
+              "ALIAS_NAME": "Paul Malong"
+            },
+            {
+              "QUALITY": "Good",
+              "ALIAS_NAME": "Bol Malong"
+            },
+            {
+              "QUALITY": "",
+              "ALIAS_NAME": "",
+              "DATE_OF_BIRTH": "1960-12-04"
+            },
+            {
+              "QUALITY": "",
+              "ALIAS_NAME": "",
+              "DATE_OF_BIRTH": "1960-04-12"
+            },
+            {
+              "QUALITY": "",
+              "ALIAS_NAME": "",
+              "DATE_OF_BIRTH": "1962-01-01"
+            },
+            {
+              "QUALITY": "",
+              "ALIAS_NAME": ""
+            }
+          ],
+          "INDIVIDUAL_ADDRESS": "",
+          "ADDRESS": "true",
+          "INDIVIDUAL_DATE_OF_BIRTH": {
+            "TYPE_OF_DATE": "EXACT",
+            "YEAR": "1962"
+          },
+          "INDIVIDUAL_PLACE_OF_BIRTH": {
+            "CITY": "Malualkon",
+            "COUNTRY": "South Sudan"
+          },
+          "INDIVIDUAL_DOCUMENT": [
+            {
+              "TYPE_OF_DOCUMENT": "Passport",
+              "NUMBER": "S00004370",
+              "ISSUING_COUNTRY": "South Sudan"
+            },
+            {
+              "TYPE_OF_DOCUMENT": "Passport",
+              "NUMBER": "D00001369",
+              "ISSUING_COUNTRY": "South Sudan"
+            },
+            {
+              "TYPE_OF_DOCUMENT": "Passport",
+              "NUMBER": "003606",
+              "ISSUING_COUNTRY": "Sudan"
+            },
+            {
+              "TYPE_OF_DOCUMENT": "Passport",
+              "NUMBER": "00606",
+              "ISSUING_COUNTRY": "Sudan"
+            },
+            {
+              "TYPE_OF_DOCUMENT": "Passport",
+              "NUMBER": "B002606",
+              "ISSUING_COUNTRY": "Sudan"
+            },
+            {
+              "TYPE_OF_DOCUMENT": "Passport",
+              "NUMBER": "DA025963",
+              "ISSUING_COUNTRY": "Uganda"
+            }
+          ],
+          "SORT_KEY": "",
+          "SORT_KEY_LAST_MOD": ""
+        }
+      ]
+    },
+    "ENTITIES": ""
+  }
+}

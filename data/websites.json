@@ -1,12 +1,8 @@
 [
   {
-    "siteName": "UN 1718 List | Democratic People’s Republic of Korea",
-    "url": "https://scsanctions.un.org/xml/en/dprk",
-    "lastCheckedDate": "2025-03-04T07-01-31-303Z"
-  },
-  {
-    "siteName": "UN 1533 List | Democratic Republic of the Congo",
-    "url": "https://scsanctions.un.org/xml/en/drc",
-    "lastCheckedDate": "2025-03-04T07-01-36-847Z"
+    "siteName": "EU | Consolidated list of persons, groups and entities subject to EU financial sanctions",
+    "url": "https://webgate.ec.europa.eu/fsd/fsf/public/files/xmlFullSanctionsList_1_1/content?token=dG9rZW4tMjAxNw",
+    "lastCheckedDate": "2025-03-04T08-56-31-632Z",
+    "transformDataFunction": "transformEUToUN"
   }
 ]

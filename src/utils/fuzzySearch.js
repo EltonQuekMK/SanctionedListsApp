@@ -136,9 +136,7 @@ const fuzzySearch = (data, query) => {
         keys: [
             'FIRST_NAME',
             'SECOND_NAME',
-            'COMMENTS1',
-            'DESIGNATION.VALUE',
-            'NATIONALITY.VALUE'
+            'ENTITY_ALIAS.ALIAS_NAME'
         ],
         threshold: 0.3, // Adjust the threshold for fuzzy matching
         includeScore: true,

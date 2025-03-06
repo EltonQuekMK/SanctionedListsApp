@@ -1,0 +1,651 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "type": "object",
+    "properties": {
+        "CONSOLIDATED_LIST": {
+            "type": "object",
+            "properties": {
+                "$": {
+                    "type": "object",
+                    "properties": {
+                        "xmlns:xsi": {
+                            "type": "string"
+                        },
+                        "xsi:noNamespaceSchemaLocation": {
+                            "type": "string"
+                        },
+                        "dateGenerated": {
+                            "type": "string",
+                            "format": "date-time"
+                        }
+                    },
+                    "required": [
+                        "dateGenerated"
+                    ]
+                },
+                "INDIVIDUALS": {
+                    "type": "object",
+                    "properties": {
+                        "INDIVIDUAL": {
+                            "type": "array",
+                            "items": {
+                                "type": "object",
+                                "properties": {
+                                    "DATAID": {
+                                        "type": "string"
+                                    },
+                                    "VERSIONNUM": {
+                                        "type": "string"
+                                    },
+                                    "FIRST_NAME": {
+                                        "type": "string"
+                                    },
+                                    "SECOND_NAME": {
+                                        "type": "string"
+                                    },
+                                    "THIRD_NAME": {
+                                        "type": "string"
+                                    },
+                                    "UN_LIST_TYPE": {
+                                        "type": "string"
+                                    },
+                                    "REFERENCE_NUMBER": {
+                                        "type": "string"
+                                    },
+                                    "LISTED_ON": {
+                                        "type": "string"
+                                    },
+                                    "NAME_ORIGINAL_SCRIPT": {
+                                        "type": "string"
+                                    },
+                                    "COMMENTS1": {
+                                        "type": "string"
+                                    },
+                                    "TITLE": {
+                                        "type": "object",
+                                        "properties": {
+                                            "VALUE": {
+                                                "oneOf": [
+                                                    {
+                                                        "type": "array",
+                                                        "items": {
+                                                            "type": "string"
+                                                        }
+                                                    },
+                                                    {
+                                                        "type": "string"
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        "required": [
+                                            "VALUE"
+                                        ]
+                                    },
+                                    "DESIGNATION": {
+                                        "type": "object",
+                                        "properties": {
+                                            "VALUE": {
+                                                "oneOf": [
+                                                    {
+                                                        "type": "array",
+                                                        "items": {
+                                                            "type": "string"
+                                                        }
+                                                    },
+                                                    {
+                                                        "type": "string"
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        "required": [
+                                            "VALUE"
+                                        ]
+                                    },
+                                    "NATIONALITY": {
+                                        "type": "object",
+                                        "properties": {
+                                            "VALUE": {
+                                                "oneOf": [
+                                                    {
+                                                        "type": "array",
+                                                        "items": {
+                                                            "type": "string"
+                                                        }
+                                                    },
+                                                    {
+                                                        "type": "string"
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        "required": [
+                                            "VALUE"
+                                        ]
+                                    },
+                                    "LIST_TYPE": {
+                                        "type": "object",
+                                        "properties": {
+                                            "VALUE": {
+                                                "type": "string"
+                                            }
+                                        },
+                                        "required": [
+                                            "VALUE"
+                                        ]
+                                    },
+                                    "LAST_DAY_UPDATED": {
+                                        "oneOf": [
+                                            {
+                                                "type": "object",
+                                                "properties": {
+                                                    "VALUE": {
+                                                        "oneOf": [
+                                                            {
+                                                                "type": "object",
+                                                                "items": {
+                                                                    "type": "string",
+                                                                    "format": "date"
+                                                                }
+                                                            },
+                                                            {
+                                                                "type": "array",
+                                                                "items": {
+                                                                    "type": "string",
+                                                                    "format": "date"
+                                                                }
+                                                            },
+                                                            {
+                                                                "type": "string"
+                                                            }
+                                                        ]
+                                                    }
+                                                },
+                                                "required": [
+                                                    "VALUE"
+                                                ]
+                                            },
+                                            {
+                                                "type": "string",
+                                                "enum": [
+                                                    ""
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    "INDIVIDUAL_ALIAS": {
+                                        "oneOf": [
+                                            {
+                                                "type": "array",
+                                                "items": {
+                                                    "type": "object",
+                                                    "properties": {
+                                                        "QUALITY": {
+                                                            "type": "string"
+                                                        },
+                                                        "ALIAS_NAME": {
+                                                            "type": "string"
+                                                        }
+                                                    },
+                                                    "required": [
+                                                        "QUALITY",
+                                                        "ALIAS_NAME"
+                                                    ]
+                                                }
+                                            },
+                                            {
+                                                "type": "object"
+                                            },
+                                            {
+                                                "type": "string",
+                                                "enum": [
+                                                    ""
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    "INDIVIDUAL_ADDRESS": {
+                                        "oneOf": [
+                                            {
+                                                "type": "array",
+                                                "items": {
+                                                    "type": "object",
+                                                    "properties": {
+                                                        "COUNTRY": {
+                                                            "type": "string"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "type": "object",
+                                                "properties": {
+                                                    "COUNTRY": {
+                                                        "type": "string"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "type": "string",
+                                                "enum": [
+                                                    ""
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    "INDIVIDUAL_DATE_OF_BIRTH": {
+                                        "oneOf": [
+                                            {
+                                                "type": "array",
+                                                "items": {
+                                                    "type": "object",
+                                                    "properties": {
+                                                        "TYPE_OF_DATE": {
+                                                            "type": "string"
+                                                        },
+                                                        "YEAR": {
+                                                            "type": "string"
+                                                        },
+                                                        "DATE": {
+                                                            "type": "string"
+                                                        }
+                                                    },
+                                                    "required": [
+                                                        "TYPE_OF_DATE"
+                                                    ]
+                                                }
+                                            },
+                                            {
+                                                "type": "object",
+                                                "properties": {
+                                                    "TYPE_OF_DATE": {
+                                                        "type": "string"
+                                                    },
+                                                    "YEAR": {
+                                                        "type": "string"
+                                                    },
+                                                    "DATE": {
+                                                        "type": "string"
+                                                    }
+                                                },
+                                                "required": [
+                                                    "TYPE_OF_DATE"
+                                                ]
+                                            },
+                                            {
+                                                "type": "string",
+                                                "enum": [
+                                                    ""
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    "INDIVIDUAL_PLACE_OF_BIRTH": {
+                                        "oneOf": [
+                                            {
+                                                "type": "object",
+                                                "properties": {
+                                                    "CITY": {
+                                                        "type": "string"
+                                                    },
+                                                    "STATE_PROVINCE": {
+                                                        "type": "string"
+                                                    },
+                                                    "COUNTRY": {
+                                                        "type": "string"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "type": "array",
+                                                "items": {
+                                                    "type": "object",
+                                                    "properties": {
+                                                        "CITY": {
+                                                            "type": "string"
+                                                        },
+                                                        "STATE_PROVINCE": {
+                                                            "type": "string"
+                                                        },
+                                                        "COUNTRY": {
+                                                            "type": "string"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "type": "string",
+                                                "enum": [
+                                                    ""
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    "INDIVIDUAL_DOCUMENT": {
+                                        "oneOf": [
+                                            {
+                                                "type": "array",
+                                                "items": {
+                                                    "type": "object"
+                                                }
+                                            },
+                                            {
+                                                "type": "object"
+                                            },
+                                            {
+                                                "type": "string",
+                                                "enum": [
+                                                    ""
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    "SORT_KEY": {
+                                        "type": "string"
+                                    },
+                                    "SORT_KEY_LAST_MOD": {
+                                        "type": "string"
+                                    }
+                                },
+                                "required": [
+                                    "DATAID",
+                                    "VERSIONNUM",
+                                    "FIRST_NAME",
+                                    "UN_LIST_TYPE",
+                                    "REFERENCE_NUMBER",
+                                    "LISTED_ON",
+                                    "LIST_TYPE",
+                                    "LAST_DAY_UPDATED"
+                                ]
+                            }
+                        }
+                    },
+                    "required": [
+                        "INDIVIDUAL"
+                    ]
+                },
+                "ENTITIES": {
+                    "oneOf": [
+                        {
+                            "type": "string"
+                        },
+                        {
+                            "type": "object",
+                            "properties": {
+                                "ENTITY": {
+                                    "oneOf": [
+                                        {
+                                            "type": "object",
+                                            "properties": {
+                                                "DATAID": {
+                                                    "type": "string"
+                                                },
+                                                "VERSIONNUM": {
+                                                    "type": "string"
+                                                },
+                                                "FIRST_NAME": {
+                                                    "type": "string"
+                                                },
+                                                "UN_LIST_TYPE": {
+                                                    "type": "string"
+                                                },
+                                                "REFERENCE_NUMBER": {
+                                                    "type": "string"
+                                                },
+                                                "LISTED_ON": {
+                                                    "type": "string"
+                                                },
+                                                "COMMENTS1": {
+                                                    "type": "string"
+                                                },
+                                                "LIST_TYPE": {
+                                                    "type": "object",
+                                                    "properties": {
+                                                        "VALUE": {
+                                                            "type": "string"
+                                                        }
+                                                    },
+                                                    "required": [
+                                                        "VALUE"
+                                                    ]
+                                                },
+                                                "ENTITY_ALIAS": {
+                                                    "oneOf": [
+                                                        {
+                                                            "type": "array",
+                                                            "items": {
+                                                                "type": "object",
+                                                                "properties": {
+                                                                    "QUALITY": {
+                                                                        "type": "string"
+                                                                    },
+                                                                    "ALIAS_NAME": {
+                                                                        "type": "string"
+                                                                    }
+                                                                }
+                                                            }
+                                                        },
+                                                        {
+                                                            "type": "object",
+                                                            "properties": {
+                                                                "QUALITY": {
+                                                                    "type": "string"
+                                                                },
+                                                                "ALIAS_NAME": {
+                                                                    "type": "string"
+                                                                }
+                                                            }
+                                                        }
+                                                    ]
+                                                },
+                                                "ENTITY_ADDRESS": {
+                                                    "oneOf": [
+                                                        {
+                                                            "type": "object",
+                                                            "properties": {
+                                                                "COUNTRY": {
+                                                                    "type": "string"
+                                                                },
+                                                                "STREET": {
+                                                                    "type": "string"
+                                                                },
+                                                                "CITY": {
+                                                                    "type": "string"
+                                                                },
+                                                                "ZIP_CODE": {
+                                                                    "type": "string"
+                                                                }
+                                                            }
+                                                        },
+                                                        {
+                                                            "type": "array",
+                                                            "items": {
+                                                                "type": "object",
+                                                                "properties": {
+                                                                    "COUNTRY": {
+                                                                        "type": "string"
+                                                                    },
+                                                                    "STREET": {
+                                                                        "type": "string"
+                                                                    },
+                                                                    "CITY": {
+                                                                        "type": "string"
+                                                                    },
+                                                                    "ZIP_CODE": {
+                                                                        "type": "string"
+                                                                    }
+                                                                }
+                                                            }
+                                                        },
+                                                        {
+                                                            "type": "string"
+                                                        }
+                                                    ]
+                                                },
+                                                "SORT_KEY": {
+                                                    "type": "string"
+                                                },
+                                                "SORT_KEY_LAST_MOD": {
+                                                    "type": "string"
+                                                }
+                                            },
+                                            "required": [
+                                                "DATAID",
+                                                "VERSIONNUM",
+                                                "FIRST_NAME",
+                                                "UN_LIST_TYPE",
+                                                "REFERENCE_NUMBER",
+                                                "LISTED_ON",
+                                                "COMMENTS1",
+                                                "LIST_TYPE"
+                                            ]
+                                        },
+                                        {
+                                            "type": "array",
+                                            "items": {
+                                                "type": "object",
+                                                "properties": {
+                                                    "DATAID": {
+                                                        "type": "string"
+                                                    },
+                                                    "VERSIONNUM": {
+                                                        "type": "string"
+                                                    },
+                                                    "FIRST_NAME": {
+                                                        "type": "string"
+                                                    },
+                                                    "UN_LIST_TYPE": {
+                                                        "type": "string"
+                                                    },
+                                                    "REFERENCE_NUMBER": {
+                                                        "type": "string"
+                                                    },
+                                                    "LISTED_ON": {
+                                                        "type": "string"
+                                                    },
+                                                    "COMMENTS1": {
+                                                        "type": "string"
+                                                    },
+                                                    "LIST_TYPE": {
+                                                        "type": "object",
+                                                        "properties": {
+                                                            "VALUE": {
+                                                                "type": "string"
+                                                            }
+                                                        },
+                                                        "required": [
+                                                            "VALUE"
+                                                        ]
+                                                    },
+                                                    "ENTITY_ALIAS": {
+                                                        "oneOf": [
+                                                            {
+                                                                "type": "array",
+                                                                "items": {
+                                                                    "type": "object",
+                                                                    "properties": {
+                                                                        "QUALITY": {
+                                                                            "type": "string"
+                                                                        },
+                                                                        "ALIAS_NAME": {
+                                                                            "type": "string"
+                                                                        }
+                                                                    }
+                                                                }
+                                                            },
+                                                            {
+                                                                "type": "object",
+                                                                "properties": {
+                                                                    "QUALITY": {
+                                                                        "type": "string"
+                                                                    },
+                                                                    "ALIAS_NAME": {
+                                                                        "type": "string"
+                                                                    }
+                                                                }
+                                                            }
+                                                        ]
+                                                    },
+                                                    "ENTITY_ADDRESS": {
+                                                        "oneOf": [
+                                                            {
+                                                                "type": "object",
+                                                                "properties": {
+                                                                    "COUNTRY": {
+                                                                        "type": "string"
+                                                                    },
+                                                                    "STREET": {
+                                                                        "type": "string"
+                                                                    },
+                                                                    "CITY": {
+                                                                        "type": "string"
+                                                                    },
+                                                                    "ZIP_CODE": {
+                                                                        "type": "string"
+                                                                    }
+                                                                }
+                                                            },
+                                                            {
+                                                                "type": "array",
+                                                                "items": {
+                                                                    "type": "object",
+                                                                    "properties": {
+                                                                        "COUNTRY": {
+                                                                            "type": "string"
+                                                                        },
+                                                                        "STREET": {
+                                                                            "type": "string"
+                                                                        },
+                                                                        "CITY": {
+                                                                            "type": "string"
+                                                                        },
+                                                                        "ZIP_CODE": {
+                                                                            "type": "string"
+                                                                        }
+                                                                    }
+                                                                }
+                                                            },
+                                                            {
+                                                                "type": "string"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "SORT_KEY": {
+                                                        "type": "string"
+                                                    },
+                                                    "SORT_KEY_LAST_MOD": {
+                                                        "type": "string"
+                                                    }
+                                                },
+                                                "required": [
+                                                    "DATAID",
+                                                    "VERSIONNUM",
+                                                    "FIRST_NAME",
+                                                    "UN_LIST_TYPE",
+                                                    "REFERENCE_NUMBER",
+                                                    "LISTED_ON",
+                                                    "COMMENTS1",
+                                                    "LIST_TYPE"
+                                                ]
+                                            }
+                                        }
+                                    ]
+                                }
+                            },
+                            "required": [
+                                "ENTITY"
+                            ]
+                        }
+                    ]
+                }
+            },
+            "required": [
+                "$"
+            ]
+        }
+    },
+    "required": [
+        "CONSOLIDATED_LIST"
+    ]
+}

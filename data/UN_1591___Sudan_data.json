@@ -1,0 +1,346 @@
+{
+  "CONSOLIDATED_LIST": {
+    "$": {
+      "dateGenerated": "2025-03-06T00:00:03.429Z"
+    },
+    "INDIVIDUALS": {
+      "INDIVIDUAL": [
+        {
+          "DATAID": "690784",
+          "VERSIONNUM": "1",
+          "FIRST_NAME": "GAFFAR",
+          "SECOND_NAME": "MOHAMMED",
+          "THIRD_NAME": "ELHASSAN",
+          "UN_LIST_TYPE": "Sudan",
+          "REFERENCE_NUMBER": "SDi.001",
+          "LISTED_ON": "2006-04-25",
+          "COMMENTS1": "Retired from the Sudanese Army. INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals",
+          "DESIGNATION": {
+            "VALUE": "Major-General and Commander of the Western Military Region for the\nSudanese Armed Forces (SAF)"
+          },
+          "DESIG": "true",
+          "GOODQUALITY": "true",
+          "NATIONALITY": {
+            "VALUE": "na"
+          },
+          "LIST_TYPE": {
+            "VALUE": "UN List"
+          },
+          "LAST_DAY_UPDATED": {
+            "VALUE": ""
+          },
+          "INDIVIDUAL_ALIAS": {
+            "QUALITY": "Good",
+            "ALIAS_NAME": "Gaffar Mohmed Elhassan"
+          },
+          "INDIVIDUAL_ADDRESS": {
+            "COUNTRY": "Sudan",
+            "STREET": "El Waha",
+            "CITY": "Omdurman"
+          },
+          "INDIVIDUAL_DATE_OF_BIRTH": {
+            "TYPE_OF_DATE": "EXACT",
+            "DATE": "1952-06-24"
+          },
+          "INDIVIDUAL_PLACE_OF_BIRTH": {
+            "COUNTRY": ""
+          },
+          "INDIVIDUAL_DOCUMENT": {
+            "TYPE_OF_DOCUMENT": "National Identification Number",
+            "TYPE_OF_DOCUMENT2": "Ex-serviceman’s identification card",
+            "NUMBER": "4302"
+          },
+          "SORT_KEY": "",
+          "SORT_KEY_LAST_MOD": ""
+        },
+        {
+          "DATAID": "690785",
+          "VERSIONNUM": "1",
+          "FIRST_NAME": "MUSA",
+          "FOURTH_NAME": "ALNSIEM",
+          "SECOND_NAME": "HILAL",
+          "THIRD_NAME": "ABDALLA",
+          "UN_LIST_TYPE": "Sudan",
+          "REFERENCE_NUMBER": "SDi.002",
+          "LISTED_ON": "2006-04-25",
+          "COMMENTS1": "Photo available for inclusion in the INTERPOL-UN Security Council Special Notice.  INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals",
+          "DESIGNATION": {
+            "VALUE": [
+              "formerly Member of the National Assembly of Sudan from Al-Waha district",
+              "formerly special adviser to the Ministry of Federal Affairs",
+              "Paramount Chief of the Mahamid Tribe in North Darfur"
+            ]
+          },
+          "DESIG": "true",
+          "NATIONALITY": {
+            "VALUE": "Sudan"
+          },
+          "LIST_TYPE": {
+            "VALUE": "UN List"
+          },
+          "LAST_DAY_UPDATED": {
+            "VALUE": [
+              "2017-10-17",
+              "2018-03-14"
+            ]
+          },
+          "INDIVIDUAL_ALIAS": [
+            {
+              "QUALITY": "Low",
+              "ALIAS_NAME": "(Sheikh) Musa Hilal"
+            },
+            {
+              "QUALITY": "Low",
+              "ALIAS_NAME": "Abd Allah"
+            },
+            {
+              "QUALITY": "Low",
+              "ALIAS_NAME": "Abdallah"
+            },
+            {
+              "QUALITY": "Low",
+              "ALIAS_NAME": "AlNasim"
+            },
+            {
+              "QUALITY": "Low",
+              "ALIAS_NAME": "Al Nasim"
+            },
+            {
+              "QUALITY": "Low",
+              "ALIAS_NAME": "AlNaseem"
+            },
+            {
+              "QUALITY": "Low",
+              "ALIAS_NAME": "Al Naseem"
+            },
+            {
+              "QUALITY": "Low",
+              "ALIAS_NAME": "AlNasseem"
+            },
+            {
+              "QUALITY": "Low",
+              "ALIAS_NAME": "Al Nasseem"
+            },
+            {
+              "QUALITY": "",
+              "ALIAS_NAME": "",
+              "DATE_OF_BIRTH": "1959"
+            }
+          ],
+          "INDIVIDUAL_ADDRESS": [
+            {
+              "COUNTRY": "Sudan",
+              "CITY": "Kabkabiya"
+            },
+            {
+              "COUNTRY": "Sudan",
+              "NOTE": "Resides in Kabkabiya and the city of Kutum, Northern Darfur and has resided in Khartoum.",
+              "CITY": "Kutum"
+            }
+          ],
+          "INDIVIDUAL_DATE_OF_BIRTH": {
+            "TYPE_OF_DATE": "EXACT",
+            "DATE": "1964-01-01"
+          },
+          "INDIVIDUAL_PLACE_OF_BIRTH": {
+            "COUNTRY": ""
+          },
+          "INDIVIDUAL_DOCUMENT": [
+            {
+              "TYPE_OF_DOCUMENT": "Passport",
+              "NUMBER": "Diplomatic Passport D014433",
+              "DATE_OF_ISSUE": "2013-02-21",
+              "NOTE": "Expired on 21 Feb. 2015"
+            },
+            {
+              "TYPE_OF_DOCUMENT": "Passport",
+              "NUMBER": "Diplomatic Passport D009889",
+              "DATE_OF_ISSUE": "2011-02-17",
+              "NOTE": "Expired on 17 Feb. 2013"
+            },
+            {
+              "TYPE_OF_DOCUMENT": "National Identification Number",
+              "TYPE_OF_DOCUMENT2": "Certificate of Nationality",
+              "NUMBER": "A0680623"
+            }
+          ],
+          "SORT_KEY": "",
+          "SORT_KEY_LAST_MOD": ""
+        },
+        {
+          "DATAID": "690788",
+          "VERSIONNUM": "1",
+          "FIRST_NAME": "JIBRIL",
+          "FOURTH_NAME": "MAYU",
+          "SECOND_NAME": "ABDULKARIM",
+          "THIRD_NAME": "IBRAHIM",
+          "UN_LIST_TYPE": "Sudan",
+          "REFERENCE_NUMBER": "SDi.004",
+          "LISTED_ON": "2006-04-25",
+          "COMMENTS1": "Photo available for inclusion in the INTERPOL-UN Security Council Special Notice.  INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals",
+          "DESIGNATION": {
+            "VALUE": "National Movement for Reform and Development (NMRD) Field\nCommander"
+          },
+          "DESIG": "true",
+          "GOODQUALITY": "true",
+          "NATIONALITY": {
+            "VALUE": [
+              "Sudan",
+              "South Sudan"
+            ]
+          },
+          "LIST_TYPE": {
+            "VALUE": "UN List"
+          },
+          "LAST_DAY_UPDATED": {
+            "VALUE": "2018-03-14"
+          },
+          "INDIVIDUAL_ALIAS": [
+            {
+              "QUALITY": "Good",
+              "ALIAS_NAME": "General Gibril Abdul Kareem Barey"
+            },
+            {
+              "QUALITY": "Good",
+              "ALIAS_NAME": "“Tek”"
+            },
+            {
+              "QUALITY": "Good",
+              "ALIAS_NAME": "Gabril Abdul Kareem Badri"
+            }
+          ],
+          "INDIVIDUAL_ADDRESS": {
+            "COUNTRY": "Sudan",
+            "NOTE": "Resides in Tine, on the Sudanese side of the border with Chad",
+            "CITY": "Tine"
+          },
+          "INDIVIDUAL_DATE_OF_BIRTH": {
+            "TYPE_OF_DATE": "EXACT",
+            "DATE": "1967-01-01"
+          },
+          "INDIVIDUAL_PLACE_OF_BIRTH": {
+            "CITY": "El-Fasher",
+            "STATE_PROVINCE": "North Darfur",
+            "NOTE": "Place of Birth: Nile District, El-Fasher, El- Fasher, North Darfur"
+          },
+          "INDIVIDUAL_DOCUMENT": [
+            {
+              "TYPE_OF_DOCUMENT": "National Identification Number",
+              "NUMBER": "192-3238459-9"
+            },
+            {
+              "TYPE_OF_DOCUMENT": "National Identification Number",
+              "TYPE_OF_DOCUMENT2": "Certificate of nationality acquired through birth",
+              "NUMBER": "302581"
+            }
+          ],
+          "SORT_KEY": "",
+          "SORT_KEY_LAST_MOD": ""
+        },
+        {
+          "DATAID": "6909269",
+          "VERSIONNUM": "1",
+          "FIRST_NAME": "ABDEL",
+          "FOURTH_NAME": "BARKALLA",
+          "SECOND_NAME": "RAHMAN",
+          "THIRD_NAME": "JUMA",
+          "UN_LIST_TYPE": "Sudan",
+          "REFERENCE_NUMBER": "SDi.005",
+          "LISTED_ON": "2024-11-08",
+          "COMMENTS1": "Gender: Male.",
+          "DESIGNATION": {
+            "VALUE": "Rapid Support Forces (RSF) Major General and West Darfur Commander"
+          },
+          "DESIG": "true",
+          "PASSPORT": "true",
+          "NATIONALITY": {
+            "VALUE": "Sudan"
+          },
+          "LIST_TYPE": {
+            "VALUE": "UN List"
+          },
+          "LAST_DAY_UPDATED": {
+            "VALUE": ""
+          },
+          "INDIVIDUAL_ALIAS": {
+            "QUALITY": "",
+            "ALIAS_NAME": ""
+          },
+          "INDIVIDUAL_ADDRESS": "",
+          "ADDRESS": "true",
+          "INDIVIDUAL_DATE_OF_BIRTH": {
+            "TYPE_OF_DATE": "EXACT",
+            "DATE": "1969-01-01"
+          },
+          "INDIVIDUAL_PLACE_OF_BIRTH": {
+            "CITY": "Bahr Elarab",
+            "STATE_PROVINCE": "East Darfur",
+            "COUNTRY": "Sudan"
+          },
+          "INDIVIDUAL_DOCUMENT": [
+            {
+              "TYPE_OF_DOCUMENT": "Passport",
+              "NUMBER": "P07834700",
+              "ISSUING_COUNTRY": "Sudan"
+            },
+            {
+              "TYPE_OF_DOCUMENT": "National Identification Number",
+              "NUMBER": "21052659309",
+              "ISSUING_COUNTRY": "Sudan"
+            }
+          ],
+          "SORT_KEY": "",
+          "SORT_KEY_LAST_MOD": ""
+        },
+        {
+          "DATAID": "6909270",
+          "VERSIONNUM": "1",
+          "FIRST_NAME": "OSMAN",
+          "FOURTH_NAME": "MOHAMED",
+          "SECOND_NAME": "MOHAMED ",
+          "THIRD_NAME": "HAMID ",
+          "UN_LIST_TYPE": "Sudan",
+          "REFERENCE_NUMBER": "SDi.006",
+          "LISTED_ON": "2024-11-08",
+          "COMMENTS1": "Gender: Male.",
+          "DESIGNATION": {
+            "VALUE": "Rapid Support Forces (RSF) Major General and Head of RSF Operations"
+          },
+          "DESIG": "true",
+          "NATIONALITY": {
+            "VALUE": "Sudan"
+          },
+          "LIST_TYPE": {
+            "VALUE": "UN List"
+          },
+          "LAST_DAY_UPDATED": {
+            "VALUE": ""
+          },
+          "INDIVIDUAL_ALIAS": {
+            "QUALITY": "",
+            "ALIAS_NAME": ""
+          },
+          "INDIVIDUAL_ADDRESS": "",
+          "ADDRESS": "true",
+          "INDIVIDUAL_DATE_OF_BIRTH": {
+            "TYPE_OF_DATE": "EXACT",
+            "DATE": "1966-01-01"
+          },
+          "INDIVIDUAL_PLACE_OF_BIRTH": {
+            "CITY": "Kadiqali",
+            "STATE_PROVINCE": "South Darfur",
+            "COUNTRY": "Sudan"
+          },
+          "INDIVIDUAL_DOCUMENT": {
+            "TYPE_OF_DOCUMENT": "National Identification Number",
+            "NUMBER": "11540384888",
+            "ISSUING_COUNTRY": "Sudan"
+          },
+          "SORT_KEY": "",
+          "SORT_KEY_LAST_MOD": ""
+        }
+      ]
+    },
+    "ENTITIES": ""
+  }
+}

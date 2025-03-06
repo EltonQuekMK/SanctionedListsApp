@@ -1,0 +1,20 @@
+USA Department of Defense 
+list against china
+https://media.defense.gov/2025/Jan/07/2003625471/-1/-1/1/ENTITIES-IDENTIFIED-AS-CHINESE-MILITARY-COMPANIES-OPERATING-IN-THE-UNITED-STATES.PDF
+
+
+USA FCC list
+?????
+
+USA Homeland Security
+Uyghur Forced Labor Prevention Act list
+https://www.dhs.gov/uflpa-entity-list
+
+
+,
+  {
+    "siteName": "USA | International Trade Administration | Consolidated Screening List ",
+    "url": "https://data.trade.gov/downloadable_consolidated_screening_list/v1/consolidated.json",
+    "lastCheckedDate": "",
+    "transformDataFunction": "transformITAToUN"
+  }

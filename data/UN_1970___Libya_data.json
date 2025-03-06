@@ -1,0 +1,1559 @@
+{
+  "CONSOLIDATED_LIST": {
+    "$": {
+      "dateGenerated": "2025-03-06T00:00:03.429Z"
+    },
+    "INDIVIDUALS": {
+      "INDIVIDUAL": [
+        {
+          "DATAID": "690730",
+          "VERSIONNUM": "1",
+          "FIRST_NAME": "ABDULQADER",
+          "TITLE": {
+            "VALUE": "Dr"
+          },
+          "SECOND_NAME": "MOHAMMED",
+          "THIRD_NAME": "AL-BAGHDADI",
+          "UN_LIST_TYPE": "Libya",
+          "REFERENCE_NUMBER": "LYi.001",
+          "LISTED_ON": "2011-02-26",
+          "COMMENTS1": "Listed pursuant to paragraph 15 of resolution 1970 (Travel Ban). Believed\nstatus/location: deceased. INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals",
+          "DESIGNATION": {
+            "VALUE": "Head of the Liaison Office of the Revolutionary\nCommittees"
+          },
+          "DESIG": "true",
+          "PASSPORT": "true",
+          "LIST_TYPE": {
+            "VALUE": "UN List"
+          },
+          "LAST_DAY_UPDATED": {
+            "VALUE": [
+              "2012-04-02",
+              "2015-03-26"
+            ]
+          },
+          "INDIVIDUAL_ALIAS": {
+            "QUALITY": "",
+            "ALIAS_NAME": ""
+          },
+          "INDIVIDUAL_ADDRESS": {
+            "COUNTRY": "Tunisia",
+            "NOTE": "Believed status/location: jail in Tunisia."
+          },
+          "INDIVIDUAL_DATE_OF_BIRTH": {
+            "TYPE_OF_DATE": "EXACT",
+            "DATE": "1950-07-01"
+          },
+          "INDIVIDUAL_PLACE_OF_BIRTH": {
+            "COUNTRY": ""
+          },
+          "INDIVIDUAL_DOCUMENT": {
+            "TYPE_OF_DOCUMENT": "Passport",
+            "NUMBER": "B010574"
+          },
+          "SORT_KEY": "",
+          "SORT_KEY_LAST_MOD": ""
+        },
+        {
+          "DATAID": "690731",
+          "VERSIONNUM": "1",
+          "FIRST_NAME": "ABDULQADER",
+          "SECOND_NAME": "YUSEF",
+          "THIRD_NAME": "DIBRI",
+          "UN_LIST_TYPE": "Libya",
+          "REFERENCE_NUMBER": "LYi.002",
+          "LISTED_ON": "2011-02-26",
+          "COMMENTS1": "Listed pursuant to paragraph 15 of resolution 1970 (Travel\nBan). INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals",
+          "DESIGNATION": {
+            "VALUE": "Head of Muammar Qadhafi's personal security"
+          },
+          "DESIG": "true",
+          "LIST_TYPE": {
+            "VALUE": "UN List"
+          },
+          "LAST_DAY_UPDATED": {
+            "VALUE": ""
+          },
+          "INDIVIDUAL_ALIAS": {
+            "QUALITY": "",
+            "ALIAS_NAME": ""
+          },
+          "INDIVIDUAL_ADDRESS": "",
+          "ADDRESS": "true",
+          "INDIVIDUAL_DATE_OF_BIRTH": {
+            "TYPE_OF_DATE": "EXACT",
+            "YEAR": "1946"
+          },
+          "INDIVIDUAL_PLACE_OF_BIRTH": {
+            "CITY": "Houn",
+            "COUNTRY": "Libya"
+          },
+          "INDIVIDUAL_DOCUMENT": "",
+          "SORT_KEY": "",
+          "SORT_KEY_LAST_MOD": ""
+        },
+        {
+          "DATAID": "690732",
+          "VERSIONNUM": "1",
+          "FIRST_NAME": "SAYYID",
+          "SECOND_NAME": "MOHAMMED",
+          "THIRD_NAME": "QADHAF AL-DAM",
+          "UN_LIST_TYPE": "Libya",
+          "REFERENCE_NUMBER": "LYi.003",
+          "LISTED_ON": "2011-02-26",
+          "COMMENTS1": "Listed pursuant to paragraph 15 of resolution 1970 (Travel\nBan). INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals",
+          "GOODQUALITY": "true",
+          "PASSPORT": "true",
+          "LIST_TYPE": {
+            "VALUE": "UN List"
+          },
+          "LAST_DAY_UPDATED": {
+            "VALUE": [
+              "2016-04-01",
+              "2023-11-29"
+            ]
+          },
+          "INDIVIDUAL_ALIAS": {
+            "QUALITY": "Good",
+            "ALIAS_NAME": "Sayed M. Gaddef Eddam"
+          },
+          "INDIVIDUAL_ADDRESS": {
+            "COUNTRY": "Egypt",
+            "NOTE": "Believed status/location: deceased"
+          },
+          "INDIVIDUAL_DATE_OF_BIRTH": {
+            "TYPE_OF_DATE": "EXACT",
+            "YEAR": "1948"
+          },
+          "INDIVIDUAL_PLACE_OF_BIRTH": {
+            "CITY": "Sirte",
+            "COUNTRY": "Libya"
+          },
+          "INDIVIDUAL_DOCUMENT": {
+            "TYPE_OF_DOCUMENT": "Passport",
+            "NUMBER": "Libyan passport No. 513519"
+          },
+          "SORT_KEY": "",
+          "SORT_KEY_LAST_MOD": ""
+        },
+        {
+          "DATAID": "690736",
+          "VERSIONNUM": "1",
+          "FIRST_NAME": "QUREN",
+          "FOURTH_NAME": "AL QADHAFI",
+          "SECOND_NAME": "SALIH",
+          "THIRD_NAME": "QUREN",
+          "UN_LIST_TYPE": "Libya",
+          "REFERENCE_NUMBER": "LYi.004",
+          "LISTED_ON": "2011-03-17",
+          "COMMENTS1": "Listed pursuant to paragraph 15 of resolution 1970 (Travel\nBan).",
+          "DESIGNATION": {
+            "VALUE": "Libyan Ambassador to Chad"
+          },
+          "DESIG": "true",
+          "GOODQUALITY": "true",
+          "LIST_TYPE": {
+            "VALUE": "UN List"
+          },
+          "LAST_DAY_UPDATED": {
+            "VALUE": [
+              "2014-09-26",
+              "2015-03-26"
+            ]
+          },
+          "INDIVIDUAL_ALIAS": {
+            "QUALITY": "Good",
+            "ALIAS_NAME": "Akrin Saleh Akrin (أقرين صالح أقرين)"
+          },
+          "INDIVIDUAL_ADDRESS": {
+            "COUNTRY": "Egypt"
+          },
+          "INDIVIDUAL_DATE_OF_BIRTH": {
+            "TYPE_OF_DATE": ""
+          },
+          "INDIVIDUAL_PLACE_OF_BIRTH": {
+            "COUNTRY": ""
+          },
+          "INDIVIDUAL_DOCUMENT": "",
+          "SORT_KEY": "",
+          "SORT_KEY_LAST_MOD": ""
+        },
+        {
+          "DATAID": "690737",
+          "VERSIONNUM": "1",
+          "FIRST_NAME": "AMID",
+          "TITLE": {
+            "VALUE": "Colonel"
+          },
+          "SECOND_NAME": "HUSAIN",
+          "THIRD_NAME": "AL KUNI",
+          "UN_LIST_TYPE": "Libya",
+          "REFERENCE_NUMBER": "LYi.005",
+          "LISTED_ON": "2011-03-17",
+          "COMMENTS1": "Listed pursuant to paragraph 15 of resolution 1970 (Travel\nBan).",
+          "DESIGNATION": {
+            "VALUE": "Governor of Ghat (South Libya)"
+          },
+          "DESIG": "true",
+          "LIST_TYPE": {
+            "VALUE": "UN List"
+          },
+          "LAST_DAY_UPDATED": {
+            "VALUE": [
+              "2012-04-02",
+              "2014-09-26"
+            ]
+          },
+          "INDIVIDUAL_ALIAS": {
+            "QUALITY": "",
+            "ALIAS_NAME": ""
+          },
+          "INDIVIDUAL_ADDRESS": {
+            "COUNTRY": "Libya",
+            "NOTE": "Believed status/location: South Libya"
+          },
+          "INDIVIDUAL_DATE_OF_BIRTH": {
+            "TYPE_OF_DATE": ""
+          },
+          "INDIVIDUAL_PLACE_OF_BIRTH": {
+            "COUNTRY": ""
+          },
+          "INDIVIDUAL_DOCUMENT": "",
+          "SORT_KEY": "",
+          "SORT_KEY_LAST_MOD": ""
+        },
+        {
+          "DATAID": "690738",
+          "VERSIONNUM": "1",
+          "FIRST_NAME": "ABU",
+          "FOURTH_NAME": "DORDA",
+          "SECOND_NAME": "ZAYD",
+          "THIRD_NAME": "UMAR",
+          "UN_LIST_TYPE": "Libya",
+          "REFERENCE_NUMBER": "LYi.006",
+          "LISTED_ON": "2011-02-26",
+          "COMMENTS1": "Listed pursuant to paragraph 15 of resolution 1970 (Travel Ban). Listed\non 17 March 2011 pursuant to paragraph 17 of resolution 1970 (Asset Freeze). INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals",
+          "DESIGNATION": {
+            "VALUE": [
+              "Director, External Security Organisation.",
+              "Head of external intelligence agency."
+            ]
+          },
+          "DESIG": "true",
+          "GOODQUALITY": "true",
+          "LIST_TYPE": {
+            "VALUE": "UN List"
+          },
+          "LAST_DAY_UPDATED": {
+            "VALUE": [
+              "2014-06-27",
+              "2016-04-01",
+              "2020-02-25",
+              "2022-07-18"
+            ]
+          },
+          "INDIVIDUAL_ALIAS": [
+            {
+              "QUALITY": "Good",
+              "ALIAS_NAME": "Dorda Abuzed OE"
+            },
+            {
+              "QUALITY": "Good",
+              "ALIAS_NAME": "Abu Zayd Umar Hmeid Dorda"
+            }
+          ],
+          "INDIVIDUAL_ADDRESS": {
+            "COUNTRY": "Libya",
+            "NOTE": "Believed status/location:deceased"
+          },
+          "INDIVIDUAL_DATE_OF_BIRTH": {
+            "TYPE_OF_DATE": "EXACT",
+            "DATE": "1944-04-04"
+          },
+          "INDIVIDUAL_PLACE_OF_BIRTH": {
+            "COUNTRY": ""
+          },
+          "INDIVIDUAL_DOCUMENT": {
+            "TYPE_OF_DOCUMENT": "Passport",
+            "NUMBER": "FK117RK0",
+            "CITY_OF_ISSUE": "Tripoli",
+            "DATE_OF_ISSUE": "2018-11-25",
+            "ISSUING_COUNTRY": "Libya",
+            "NOTE": "Date of expiration: 24 Nov 2026"
+          },
+          "SORT_KEY": "",
+          "SORT_KEY_LAST_MOD": ""
+        },
+        {
+          "DATAID": "690748",
+          "VERSIONNUM": "1",
+          "FIRST_NAME": "ABU",
+          "FOURTH_NAME": "JABIR",
+          "TITLE": {
+            "VALUE": "Major General"
+          },
+          "SECOND_NAME": "BAKR",
+          "THIRD_NAME": "YUNIS",
+          "UN_LIST_TYPE": "Libya",
+          "REFERENCE_NUMBER": "LYi.007",
+          "LISTED_ON": "2011-02-26",
+          "COMMENTS1": "Listed pursuant to paragraph 15 of resolution 1970 (Travel Ban). Listed\non 17 March 2011 pursuant to paragraph 17 of resolution 1970 (Asset Freeze). Believed\nstatus/location: deceased. INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals",
+          "DESIGNATION": {
+            "VALUE": "Defence\nMinister."
+          },
+          "DESIG": "true",
+          "LIST_TYPE": {
+            "VALUE": "UN List"
+          },
+          "LAST_DAY_UPDATED": {
+            "VALUE": "2012-04-02"
+          },
+          "INDIVIDUAL_ALIAS": {
+            "QUALITY": "",
+            "ALIAS_NAME": ""
+          },
+          "INDIVIDUAL_ADDRESS": "",
+          "ADDRESS": "true",
+          "INDIVIDUAL_DATE_OF_BIRTH": {
+            "TYPE_OF_DATE": "EXACT",
+            "YEAR": "1952"
+          },
+          "INDIVIDUAL_PLACE_OF_BIRTH": {
+            "CITY": "Jalo",
+            "COUNTRY": "Libya"
+          },
+          "INDIVIDUAL_DOCUMENT": "",
+          "SORT_KEY": "",
+          "SORT_KEY_LAST_MOD": ""
+        },
+        {
+          "DATAID": "690754",
+          "VERSIONNUM": "1",
+          "FIRST_NAME": "MATUQ",
+          "SECOND_NAME": "MOHAMMED",
+          "THIRD_NAME": "MATUQ",
+          "UN_LIST_TYPE": "Libya",
+          "REFERENCE_NUMBER": "LYi.008",
+          "LISTED_ON": "2011-02-26",
+          "COMMENTS1": "Listed pursuant to paragraph 15 of resolution 1970 (Travel Ban). Listed\non 17 March 2011 pursuant to paragraph 17 of resolution 1970 (Asset Freeze). Believed\nstatus/location: unknown, believed captured. INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals",
+          "DESIGNATION": {
+            "VALUE": "Secretary for Utilities"
+          },
+          "DESIG": "true",
+          "LIST_TYPE": {
+            "VALUE": "UN List"
+          },
+          "LAST_DAY_UPDATED": {
+            "VALUE": "2012-04-02"
+          },
+          "INDIVIDUAL_ALIAS": {
+            "QUALITY": "",
+            "ALIAS_NAME": ""
+          },
+          "INDIVIDUAL_ADDRESS": "",
+          "ADDRESS": "true",
+          "INDIVIDUAL_DATE_OF_BIRTH": {
+            "TYPE_OF_DATE": "EXACT",
+            "YEAR": "1956"
+          },
+          "INDIVIDUAL_PLACE_OF_BIRTH": {
+            "CITY": "Khoms",
+            "COUNTRY": "Libya"
+          },
+          "INDIVIDUAL_DOCUMENT": "",
+          "SORT_KEY": "",
+          "SORT_KEY_LAST_MOD": ""
+        },
+        {
+          "DATAID": "690757",
+          "VERSIONNUM": "1",
+          "FIRST_NAME": "AISHA",
+          "FOURTH_NAME": "QADHAFI",
+          "SECOND_NAME": "MUAMMAR MUHAMMED",
+          "THIRD_NAME": "ABU MINYAR",
+          "UN_LIST_TYPE": "Libya",
+          "REFERENCE_NUMBER": "LYi.009",
+          "LISTED_ON": "2011-02-26",
+          "COMMENTS1": "Listed pursuant to paragraph 17 of resolution 1970 (\nAsset Freeze). INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals",
+          "GOODQUALITY": "false",
+          "PASSPORT": "true",
+          "LIST_TYPE": {
+            "VALUE": "UN List"
+          },
+          "LAST_DAY_UPDATED": {
+            "VALUE": [
+              "2012-04-02",
+              "2013-03-21",
+              "2014-09-26",
+              "2016-11-11",
+              "2020-02-25",
+              "2023-10-16"
+            ]
+          },
+          "INDIVIDUAL_ALIAS": {
+            "QUALITY": "Good",
+            "ALIAS_NAME": "Aisha Muhammed Abdul Salam",
+            "NOTE": "Libya Passport number: 215215"
+          },
+          "INDIVIDUAL_ADDRESS": {
+            "COUNTRY": "Oman",
+            "NOTE": "Believed status/location: Sultanate of Oman"
+          },
+          "INDIVIDUAL_DATE_OF_BIRTH": {
+            "TYPE_OF_DATE": "EXACT",
+            "DATE": "1978-01-01"
+          },
+          "INDIVIDUAL_PLACE_OF_BIRTH": {
+            "CITY": "Tripoli",
+            "COUNTRY": "Libya"
+          },
+          "INDIVIDUAL_DOCUMENT": [
+            {
+              "TYPE_OF_DOCUMENT": "Passport",
+              "NUMBER": "03824970",
+              "CITY_OF_ISSUE": "Muscat",
+              "DATE_OF_ISSUE": "2014-05-04",
+              "ISSUING_COUNTRY": "Oman",
+              "NOTE": "Date of expiration: 3 May 2024",
+              "COUNTRY_OF_ISSUE": "Oman"
+            },
+            {
+              "TYPE_OF_DOCUMENT": "Passport",
+              "NUMBER": "Libya 428720"
+            },
+            {
+              "TYPE_OF_DOCUMENT": "Passport",
+              "NUMBER": "B/011641"
+            },
+            {
+              "TYPE_OF_DOCUMENT": "National Identification Number",
+              "NUMBER": "98606612"
+            }
+          ],
+          "SORT_KEY": "",
+          "SORT_KEY_LAST_MOD": ""
+        },
+        {
+          "DATAID": "690771",
+          "VERSIONNUM": "1",
+          "FIRST_NAME": "HANNIBAL",
+          "SECOND_NAME": "MUAMMAR",
+          "THIRD_NAME": "QADHAFI",
+          "UN_LIST_TYPE": "Libya",
+          "REFERENCE_NUMBER": "LYi.010",
+          "LISTED_ON": "2011-02-26",
+          "COMMENTS1": "Listed pursuant to paragraphs 15 and 17 of resolution 1970 (Travel Ban,\nAsset Freeze). INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals",
+          "PASSPORT": "true",
+          "LIST_TYPE": {
+            "VALUE": "UN List"
+          },
+          "LAST_DAY_UPDATED": {
+            "VALUE": [
+              "2012-04-02",
+              "2014-09-26",
+              "2016-11-11"
+            ]
+          },
+          "INDIVIDUAL_ALIAS": {
+            "QUALITY": "",
+            "ALIAS_NAME": ""
+          },
+          "INDIVIDUAL_ADDRESS": {
+            "COUNTRY": "Lebanon",
+            "NOTE": "In custody"
+          },
+          "INDIVIDUAL_DATE_OF_BIRTH": {
+            "TYPE_OF_DATE": "EXACT",
+            "DATE": "1975-09-20"
+          },
+          "INDIVIDUAL_PLACE_OF_BIRTH": {
+            "CITY": "Tripoli",
+            "COUNTRY": "Libya"
+          },
+          "INDIVIDUAL_DOCUMENT": {
+            "TYPE_OF_DOCUMENT": "Passport",
+            "NUMBER": "Libya B/002210"
+          },
+          "SORT_KEY": "",
+          "SORT_KEY_LAST_MOD": ""
+        },
+        {
+          "DATAID": "690772",
+          "VERSIONNUM": "1",
+          "FIRST_NAME": "KHAMIS",
+          "SECOND_NAME": "MUAMMAR",
+          "THIRD_NAME": "QADHAFI",
+          "UN_LIST_TYPE": "Libya",
+          "REFERENCE_NUMBER": "LYi.011",
+          "LISTED_ON": "2011-02-26",
+          "COMMENTS1": "Listed pursuant to paragraphs 15 and 17 of resolution 1970 (Travel Ban,\nAsset Freeze). Believed status/location: deceased. INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals",
+          "LIST_TYPE": {
+            "VALUE": "UN List"
+          },
+          "LAST_DAY_UPDATED": {
+            "VALUE": [
+              "2012-04-02",
+              "2014-09-26"
+            ]
+          },
+          "INDIVIDUAL_ALIAS": {
+            "QUALITY": "",
+            "ALIAS_NAME": ""
+          },
+          "INDIVIDUAL_ADDRESS": "",
+          "ADDRESS": "true",
+          "INDIVIDUAL_DATE_OF_BIRTH": {
+            "TYPE_OF_DATE": "EXACT",
+            "YEAR": "1978"
+          },
+          "INDIVIDUAL_PLACE_OF_BIRTH": {
+            "CITY": "Tripoli",
+            "COUNTRY": "Libya"
+          },
+          "INDIVIDUAL_DOCUMENT": "",
+          "SORT_KEY": "",
+          "SORT_KEY_LAST_MOD": ""
+        },
+        {
+          "DATAID": "690773",
+          "VERSIONNUM": "1",
+          "FIRST_NAME": "MOHAMMED",
+          "SECOND_NAME": "MUAMMAR",
+          "THIRD_NAME": "QADHAFI",
+          "UN_LIST_TYPE": "Libya",
+          "REFERENCE_NUMBER": "LYi.012",
+          "LISTED_ON": "2011-02-26",
+          "COMMENTS1": "Listed pursuant to paragraphs 15 and 17 of resolution 1970 (Travel Ban,\nAsset Freeze). INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals",
+          "GOODQUALITY": "true",
+          "PASSPORT": "true",
+          "LIST_TYPE": {
+            "VALUE": "UN List"
+          },
+          "LAST_DAY_UPDATED": {
+            "VALUE": [
+              "2012-04-02",
+              "2013-09-04",
+              "2014-09-26",
+              "2021-04-29"
+            ]
+          },
+          "INDIVIDUAL_ALIAS": {
+            "QUALITY": "Good",
+            "ALIAS_NAME": "Muhammed Muammar Muhammed Abdul Salam"
+          },
+          "INDIVIDUAL_ADDRESS": {
+            "COUNTRY": "Oman",
+            "NOTE": "Believed status/location: Sultanate of Oman"
+          },
+          "INDIVIDUAL_DATE_OF_BIRTH": {
+            "TYPE_OF_DATE": "EXACT",
+            "YEAR": "1970"
+          },
+          "INDIVIDUAL_PLACE_OF_BIRTH": {
+            "CITY": "Tripoli",
+            "COUNTRY": "Libya"
+          },
+          "INDIVIDUAL_DOCUMENT": [
+            {
+              "TYPE_OF_DOCUMENT": "Passport",
+              "NUMBER": "03824969",
+              "DATE_OF_ISSUE": "2014-05-04",
+              "ISSUING_COUNTRY": "Oman"
+            },
+            {
+              "TYPE_OF_DOCUMENT": "National Identification Number",
+              "NUMBER": "97183904",
+              "ISSUING_COUNTRY": "Oman"
+            }
+          ],
+          "SORT_KEY": "",
+          "SORT_KEY_LAST_MOD": ""
+        },
+        {
+          "DATAID": "690774",
+          "VERSIONNUM": "1",
+          "FIRST_NAME": "MUAMMAR",
+          "FOURTH_NAME": "QADHAFI",
+          "SECOND_NAME": "MOHAMMED",
+          "THIRD_NAME": "ABU MINYAR",
+          "UN_LIST_TYPE": "Libya",
+          "REFERENCE_NUMBER": "LYi.013",
+          "LISTED_ON": "2011-02-26",
+          "COMMENTS1": "Listed pursuant to paragraphs 15 and 17 of resolution 1970 (Travel Ban,\nAsset Freeze). Believed status/location: deceased. INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals",
+          "DESIGNATION": {
+            "VALUE": "Leader of the Revolution, Supreme Commander of Armed\nForces"
+          },
+          "DESIG": "true",
+          "LIST_TYPE": {
+            "VALUE": "UN List"
+          },
+          "LAST_DAY_UPDATED": {
+            "VALUE": [
+              "2012-04-02",
+              "2013-09-04"
+            ]
+          },
+          "INDIVIDUAL_ALIAS": {
+            "QUALITY": "",
+            "ALIAS_NAME": ""
+          },
+          "INDIVIDUAL_ADDRESS": "",
+          "ADDRESS": "true",
+          "INDIVIDUAL_DATE_OF_BIRTH": {
+            "TYPE_OF_DATE": "EXACT",
+            "YEAR": "1942"
+          },
+          "INDIVIDUAL_PLACE_OF_BIRTH": {
+            "CITY": "Sirte",
+            "COUNTRY": "Libya"
+          },
+          "INDIVIDUAL_DOCUMENT": "",
+          "SORT_KEY": "",
+          "SORT_KEY_LAST_MOD": ""
+        },
+        {
+          "DATAID": "690775",
+          "VERSIONNUM": "1",
+          "FIRST_NAME": "MUTASSIM",
+          "SECOND_NAME": "QADHAFI",
+          "UN_LIST_TYPE": "Libya",
+          "REFERENCE_NUMBER": "LYi.014",
+          "LISTED_ON": "2011-02-26",
+          "COMMENTS1": "Listed pursuant to paragraphs 15 and 17 of resolution 1970 (Travel Ban,Asset Freeze). Believed status/location: deceased. Reportedly deceased in Sirte, Libya, on 20 October 2011. INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals",
+          "DESIGNATION": {
+            "VALUE": "National Security Adviser"
+          },
+          "DESIG": "true",
+          "GOODQUALITY": "true",
+          "PASSPORT": "true",
+          "LIST_TYPE": {
+            "VALUE": "UN List"
+          },
+          "LAST_DAY_UPDATED": {
+            "VALUE": [
+              "2012-04-02",
+              "2014-09-26",
+              "2016-04-01"
+            ]
+          },
+          "INDIVIDUAL_ALIAS": [
+            {
+              "QUALITY": "",
+              "ALIAS_NAME": "",
+              "DATE_OF_BIRTH": "1974-02-05"
+            },
+            {
+              "QUALITY": "Good",
+              "ALIAS_NAME": "Almuatesem Bellah Muammer Qadhafi"
+            },
+            {
+              "QUALITY": "Good",
+              "ALIAS_NAME": "Mutassim Billah Abuminyar Qadhafi"
+            },
+            {
+              "QUALITY": "Low",
+              "ALIAS_NAME": "Muatasmblla"
+            },
+            {
+              "QUALITY": "Low",
+              "ALIAS_NAME": "Muatasimbllah"
+            },
+            {
+              "QUALITY": "Low",
+              "ALIAS_NAME": "Moatassam"
+            }
+          ],
+          "INDIVIDUAL_ADDRESS": "",
+          "ADDRESS": "true",
+          "INDIVIDUAL_DATE_OF_BIRTH": {
+            "TYPE_OF_DATE": "EXACT",
+            "YEAR": "1976"
+          },
+          "INDIVIDUAL_PLACE_OF_BIRTH": {
+            "CITY": "Tripoli",
+            "COUNTRY": "Libya"
+          },
+          "INDIVIDUAL_DOCUMENT": {
+            "TYPE_OF_DOCUMENT": "Passport",
+            "NUMBER": "B/001897",
+            "ISSUING_COUNTRY": "Libya"
+          },
+          "SORT_KEY": "",
+          "SORT_KEY_LAST_MOD": ""
+        },
+        {
+          "DATAID": "690776",
+          "VERSIONNUM": "1",
+          "FIRST_NAME": "SAADI",
+          "SECOND_NAME": "QADHAFI",
+          "UN_LIST_TYPE": "Libya",
+          "REFERENCE_NUMBER": "LYi.015",
+          "LISTED_ON": "2011-02-26",
+          "COMMENTS1": "Listed pursuant to paragraph 15 of resolution 1970 (Travel Ban). Listed\non 17 March 2011 pursuant to paragraph 17 of resolution 1970 (Asset Freeze). INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals",
+          "DESIGNATION": {
+            "VALUE": "Commander Special Forces"
+          },
+          "DESIG": "true",
+          "LIST_TYPE": {
+            "VALUE": "UN List"
+          },
+          "LAST_DAY_UPDATED": {
+            "VALUE": [
+              "2012-03-14",
+              "2012-04-02",
+              "2015-03-26",
+              "2022-01-28",
+              "2023-11-29"
+            ]
+          },
+          "INDIVIDUAL_ALIAS": {
+            "QUALITY": "",
+            "ALIAS_NAME": ""
+          },
+          "INDIVIDUAL_ADDRESS": {
+            "COUNTRY": "Türkiye"
+          },
+          "INDIVIDUAL_DATE_OF_BIRTH": {
+            "TYPE_OF_DATE": "EXACT",
+            "DATE": "1973-05-27"
+          },
+          "INDIVIDUAL_PLACE_OF_BIRTH": {
+            "CITY": "Tripoli",
+            "COUNTRY": "Libya"
+          },
+          "INDIVIDUAL_DOCUMENT": [
+            {
+              "TYPE_OF_DOCUMENT": "Passport",
+              "NUMBER": "014797"
+            },
+            {
+              "TYPE_OF_DOCUMENT": "Passport",
+              "NUMBER": "524521"
+            },
+            {
+              "TYPE_OF_DOCUMENT": "Passport",
+              "NUMBER": "AA862825",
+              "CITY_OF_ISSUE": "Tripoli",
+              "DATE_OF_ISSUE": "2021-05-19",
+              "ISSUING_COUNTRY": "Libya",
+              "NOTE": "expires 18 May 2029"
+            }
+          ],
+          "SORT_KEY": "",
+          "SORT_KEY_LAST_MOD": ""
+        },
+        {
+          "DATAID": "690777",
+          "VERSIONNUM": "1",
+          "FIRST_NAME": "SAIF AL-ARAB",
+          "SECOND_NAME": "QADHAFI",
+          "UN_LIST_TYPE": "Libya",
+          "REFERENCE_NUMBER": "LYi.016",
+          "LISTED_ON": "2011-02-26",
+          "COMMENTS1": "Listed pursuant to paragraph 15 of resolution 1970 (Travel Ban). Listed\non 17 March 2011 pursuant to paragraph 17 of resolution 1970 (Asset Freeze). Believed\nstatus/location: deceased. INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals",
+          "LIST_TYPE": {
+            "VALUE": "UN List"
+          },
+          "LAST_DAY_UPDATED": {
+            "VALUE": "2012-04-02"
+          },
+          "INDIVIDUAL_ALIAS": {
+            "QUALITY": "",
+            "ALIAS_NAME": ""
+          },
+          "INDIVIDUAL_ADDRESS": "",
+          "ADDRESS": "true",
+          "INDIVIDUAL_DATE_OF_BIRTH": {
+            "TYPE_OF_DATE": "EXACT",
+            "YEAR": "1982"
+          },
+          "INDIVIDUAL_PLACE_OF_BIRTH": {
+            "CITY": "Tripoli",
+            "COUNTRY": "Libya"
+          },
+          "INDIVIDUAL_DOCUMENT": "",
+          "SORT_KEY": "",
+          "SORT_KEY_LAST_MOD": ""
+        },
+        {
+          "DATAID": "690778",
+          "VERSIONNUM": "1",
+          "FIRST_NAME": "SAIF AL-ISLAM",
+          "SECOND_NAME": "QADHAFI",
+          "UN_LIST_TYPE": "Libya",
+          "REFERENCE_NUMBER": "LYi.017",
+          "LISTED_ON": "2011-02-26",
+          "COMMENTS1": "Listed pursuant to paragraphs 15 and 17 of resolution 1970 (Travel Ban,\nAsset Freeze). INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals",
+          "DESIGNATION": {
+            "VALUE": "Director, Qadhafi Foundation"
+          },
+          "DESIG": "true",
+          "PASSPORT": "true",
+          "LIST_TYPE": {
+            "VALUE": "UN List"
+          },
+          "LAST_DAY_UPDATED": {
+            "VALUE": [
+              "2012-04-02",
+              "2014-09-26",
+              "2016-11-11"
+            ]
+          },
+          "INDIVIDUAL_ALIAS": {
+            "QUALITY": "",
+            "ALIAS_NAME": ""
+          },
+          "INDIVIDUAL_ADDRESS": {
+            "COUNTRY": "Libya",
+            "NOTE": "Believed status/location: restricted freedom of movement in Zintan, Libya"
+          },
+          "INDIVIDUAL_DATE_OF_BIRTH": {
+            "TYPE_OF_DATE": "EXACT",
+            "DATE": "1972-06-25"
+          },
+          "INDIVIDUAL_PLACE_OF_BIRTH": {
+            "CITY": "Tripoli",
+            "COUNTRY": "Libya"
+          },
+          "INDIVIDUAL_DOCUMENT": {
+            "TYPE_OF_DOCUMENT": "Passport",
+            "NUMBER": "Libya B014995"
+          },
+          "SORT_KEY": "",
+          "SORT_KEY_LAST_MOD": ""
+        },
+        {
+          "DATAID": "690779",
+          "VERSIONNUM": "1",
+          "FIRST_NAME": "ABDULLAH",
+          "TITLE": {
+            "VALUE": "Colonel"
+          },
+          "SECOND_NAME": "AL-SENUSSI",
+          "UN_LIST_TYPE": "Libya",
+          "REFERENCE_NUMBER": "LYi.018",
+          "LISTED_ON": "2011-02-26",
+          "COMMENTS1": "Listed pursuant to paragraph 15 of resolution 1970 (Travel Ban). Listed\non 17 March 2011 pursuant to paragraph 17 of resolution 1970 (Asset Freeze). INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals",
+          "DESIGNATION": {
+            "VALUE": "Director Military Intelligence"
+          },
+          "DESIG": "true",
+          "GOODQUALITY": "false",
+          "LIST_TYPE": {
+            "VALUE": "UN List"
+          },
+          "LAST_DAY_UPDATED": {
+            "VALUE": [
+              "2013-03-21",
+              "2014-06-27"
+            ]
+          },
+          "INDIVIDUAL_ALIAS": [
+            {
+              "QUALITY": "Good",
+              "ALIAS_NAME": "Abdoullah Ould Ahmed",
+              "NOTE": "Passport number: B0515260; DOB: 1948; POB: Anefif (Kidal), Mali; Date of\nissue: 10 Jan 2012; Place of issue: Bamako, Mali; Date of expiration: 10 Jan\n2017."
+            },
+            {
+              "QUALITY": "Good",
+              "ALIAS_NAME": "Abdoullah Ould Ahmed",
+              "NOTE": "Mali ID Number 073/SPICRE; POB: Anefif, Mali; Date of issue: 6 Dec 2011;\nPlace of issue: Essouck, Mali"
+            }
+          ],
+          "INDIVIDUAL_ADDRESS": {
+            "COUNTRY": "Libya",
+            "NOTE": "Believed status/location: in custody in Libya."
+          },
+          "INDIVIDUAL_DATE_OF_BIRTH": {
+            "TYPE_OF_DATE": "EXACT",
+            "YEAR": "1949"
+          },
+          "INDIVIDUAL_PLACE_OF_BIRTH": {
+            "COUNTRY": "Sudan"
+          },
+          "INDIVIDUAL_DOCUMENT": "",
+          "SORT_KEY": "",
+          "SORT_KEY_LAST_MOD": ""
+        },
+        {
+          "DATAID": "690780",
+          "VERSIONNUM": "1",
+          "FIRST_NAME": "SAFIA",
+          "SECOND_NAME": "FARKASH",
+          "THIRD_NAME": "AL-BARASSI",
+          "UN_LIST_TYPE": "Libya",
+          "REFERENCE_NUMBER": "LYi.019",
+          "LISTED_ON": "2011-06-24",
+          "COMMENTS1": "Listed pursuant to paragraph 19 of resolution 1973 (Asset Freeze).  INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals",
+          "GOODQUALITY": "true",
+          "PASSPORT": "true",
+          "LIST_TYPE": {
+            "VALUE": "UN List"
+          },
+          "LAST_DAY_UPDATED": {
+            "VALUE": [
+              "2012-02-13",
+              "2012-04-02",
+              "2013-09-04",
+              "2014-09-26",
+              "2015-03-26",
+              "2016-04-01",
+              "2024-01-31"
+            ]
+          },
+          "INDIVIDUAL_ALIAS": {
+            "QUALITY": "Good",
+            "ALIAS_NAME": "Safia Farkash Mohammed Al-Hadad, born 1 Jan. 1953 (Oman\npassport no.03825239, date of issue 4 May 2014, expiry 3 May 2024.)"
+          },
+          "INDIVIDUAL_ADDRESS": [
+            {
+              "COUNTRY": "Oman"
+            },
+            {
+              "NOTE": "Believed location - Egypt"
+            }
+          ],
+          "INDIVIDUAL_DATE_OF_BIRTH": {
+            "TYPE_OF_DATE": "APPROXIMATELY",
+            "YEAR": "1952"
+          },
+          "INDIVIDUAL_PLACE_OF_BIRTH": {
+            "CITY": "Al Bayda",
+            "COUNTRY": "Libya"
+          },
+          "INDIVIDUAL_DOCUMENT": [
+            {
+              "TYPE_OF_DOCUMENT": "Passport",
+              "NUMBER": "03825239"
+            },
+            {
+              "TYPE_OF_DOCUMENT": "National Identification Number",
+              "NUMBER": "98606491",
+              "ISSUING_COUNTRY": "Oman"
+            }
+          ],
+          "SORT_KEY": "",
+          "SORT_KEY_LAST_MOD": ""
+        },
+        {
+          "DATAID": "6908702",
+          "VERSIONNUM": "1",
+          "FIRST_NAME": "Ermias",
+          "SECOND_NAME": "Alem",
+          "UN_LIST_TYPE": "Libya",
+          "REFERENCE_NUMBER": "LYi.021",
+          "LISTED_ON": "2018-06-07",
+          "COMMENTS1": "Listed pursuant to paragraphs 15 and 17 of resolution 1970 (Travel Ban, Asset Freeze)",
+          "DESIGNATION": {
+            "VALUE": "Leader of a transnational trafficking network"
+          },
+          "DESIG": "true",
+          "GOODQUALITY": "true",
+          "NATIONALITY": {
+            "VALUE": "Eritrea"
+          },
+          "LIST_TYPE": {
+            "VALUE": "UN List"
+          },
+          "LAST_DAY_UPDATED": {
+            "VALUE": "2018-09-17"
+          },
+          "INDIVIDUAL_ALIAS": [
+            {
+              "QUALITY": "Good",
+              "ALIAS_NAME": "Ermias Ghermay, Guro"
+            },
+            {
+              "QUALITY": "Low",
+              "ALIAS_NAME": "Ermies Ghermay"
+            },
+            {
+              "QUALITY": "Low",
+              "ALIAS_NAME": "Ermias Ghirmay"
+            }
+          ],
+          "INDIVIDUAL_ADDRESS": {
+            "NOTE": "Known address: Tripoli, Tarig sure no. 51, likely moved to Sabratha in 2015."
+          },
+          "INDIVIDUAL_DATE_OF_BIRTH": {
+            "TYPE_OF_DATE": "APPROXIMATELY",
+            "YEAR": "1980"
+          },
+          "INDIVIDUAL_PLACE_OF_BIRTH": {
+            "COUNTRY": "Eritrea"
+          },
+          "INDIVIDUAL_DOCUMENT": "",
+          "SORT_KEY": "",
+          "SORT_KEY_LAST_MOD": ""
+        },
+        {
+          "DATAID": "6908703",
+          "VERSIONNUM": "1",
+          "FIRST_NAME": "Fitiwi",
+          "SECOND_NAME": "Abdelrazak",
+          "UN_LIST_TYPE": "Libya",
+          "REFERENCE_NUMBER": "LYi.022",
+          "LISTED_ON": "2018-06-07",
+          "COMMENTS1": "Listed pursuant to paragraphs 15 and 17 of resolution 1970 (Travel Ban, Asset Freeze)",
+          "DESIGNATION": {
+            "VALUE": "Leader of a transnational trafficking network"
+          },
+          "DESIG": "true",
+          "GOODQUALITY": "true",
+          "NATIONALITY": {
+            "VALUE": "Eritrea"
+          },
+          "LIST_TYPE": {
+            "VALUE": "UN List"
+          },
+          "LAST_DAY_UPDATED": {
+            "VALUE": "2018-09-17"
+          },
+          "INDIVIDUAL_ALIAS": [
+            {
+              "QUALITY": "Good",
+              "ALIAS_NAME": "Abdurezak"
+            },
+            {
+              "QUALITY": "Good",
+              "ALIAS_NAME": "Abdelrazaq"
+            },
+            {
+              "QUALITY": "Good",
+              "ALIAS_NAME": "Abdulrazak"
+            },
+            {
+              "QUALITY": "Good",
+              "ALIAS_NAME": "Abdrazzak"
+            },
+            {
+              "QUALITY": "Low",
+              "ALIAS_NAME": "Fitwi Esmail Abdelrazak"
+            }
+          ],
+          "INDIVIDUAL_ADDRESS": "",
+          "ADDRESS": "true",
+          "INDIVIDUAL_DATE_OF_BIRTH": {
+            "TYPE_OF_DATE": "APPROXIMATELY",
+            "NOTE": "30-35 years old"
+          },
+          "INDIVIDUAL_PLACE_OF_BIRTH": {
+            "CITY": "Massaua",
+            "COUNTRY": "Eritrea"
+          },
+          "INDIVIDUAL_DOCUMENT": "",
+          "SORT_KEY": "",
+          "SORT_KEY_LAST_MOD": ""
+        },
+        {
+          "DATAID": "6908704",
+          "VERSIONNUM": "1",
+          "NAME_ORIGINAL_SCRIPT": "احمد عمر امحمد الفيتوري",
+          "FIRST_NAME": "Ahmad",
+          "FOURTH_NAME": "al-Fitouri",
+          "SECOND_NAME": "Oumar",
+          "THIRD_NAME": "Imhamad",
+          "UN_LIST_TYPE": "Libya",
+          "REFERENCE_NUMBER": "LYi.023",
+          "LISTED_ON": "2018-06-07",
+          "COMMENTS1": "Listed pursuant to paragraphs 15 and 17 of resolution 1970 (Travel Ban, Asset Freeze)",
+          "DESIGNATION": {
+            "VALUE": "Commander of the Anas al-Dabbashi militia, Leader of a transnational trafficking network"
+          },
+          "DESIG": "true",
+          "PASSPORT": "true",
+          "NATIONALITY": {
+            "VALUE": "Libya"
+          },
+          "LIST_TYPE": {
+            "VALUE": "UN List"
+          },
+          "LAST_DAY_UPDATED": {
+            "VALUE": [
+              "2018-09-17",
+              "2020-02-25"
+            ]
+          },
+          "INDIVIDUAL_ALIAS": [
+            {
+              "QUALITY": "Low",
+              "ALIAS_NAME": "Al-Dabachi"
+            },
+            {
+              "QUALITY": "Low",
+              "ALIAS_NAME": "Al Ammu"
+            },
+            {
+              "QUALITY": "Low",
+              "ALIAS_NAME": "The Uncle"
+            },
+            {
+              "QUALITY": "Low",
+              "ALIAS_NAME": "Al-Ahwal"
+            },
+            {
+              "QUALITY": "Low",
+              "ALIAS_NAME": "Al Dabbashi"
+            }
+          ],
+          "INDIVIDUAL_ADDRESS": [
+            {
+              "COUNTRY": "Libya",
+              "CITY": "Garabulli"
+            },
+            {
+              "COUNTRY": "Libya",
+              "CITY": "Zawiya"
+            }
+          ],
+          "INDIVIDUAL_DATE_OF_BIRTH": {
+            "TYPE_OF_DATE": "EXACT",
+            "DATE": "1988-05-07"
+          },
+          "INDIVIDUAL_PLACE_OF_BIRTH": {
+            "NOTE": "possibly Sabratha, Talil neighbourhood"
+          },
+          "INDIVIDUAL_DOCUMENT": [
+            {
+              "TYPE_OF_DOCUMENT": "Passport",
+              "NUMBER": "LY53FP76",
+              "CITY_OF_ISSUE": "Tripoli",
+              "DATE_OF_ISSUE": "2015-09-29",
+              "ISSUING_COUNTRY": "Libya"
+            },
+            {
+              "TYPE_OF_DOCUMENT": "National Identification Number",
+              "NUMBER": "119880387067"
+            }
+          ],
+          "SORT_KEY": "",
+          "SORT_KEY_LAST_MOD": ""
+        },
+        {
+          "DATAID": "6908705",
+          "VERSIONNUM": "1",
+          "NAME_ORIGINAL_SCRIPT": "مصعب مصطفى ابو القاسم عمر ",
+          "FIRST_NAME": "Mus’ab",
+          "FOURTH_NAME": "Omar",
+          "SECOND_NAME": "Mustafa",
+          "THIRD_NAME": "Abu al Qassim",
+          "UN_LIST_TYPE": "Libya",
+          "REFERENCE_NUMBER": "LYi.024",
+          "LISTED_ON": "2018-06-07",
+          "COMMENTS1": "Listed pursuant to paragraphs 15 and 17 of resolution 1970 (Travel Ban, Asset Freeze)",
+          "DESIGNATION": {
+            "VALUE": "Leader of a transnational trafficking network"
+          },
+          "DESIG": "true",
+          "GOODQUALITY": "true",
+          "PASSPORT": "true",
+          "NATIONALITY": {
+            "VALUE": "Libya"
+          },
+          "LIST_TYPE": {
+            "VALUE": "UN List"
+          },
+          "LAST_DAY_UPDATED": {
+            "VALUE": "2018-09-17"
+          },
+          "INDIVIDUAL_ALIAS": [
+            {
+              "QUALITY": "Good",
+              "ALIAS_NAME": "Mus’ab Abu Qarin"
+            },
+            {
+              "QUALITY": "Low",
+              "ALIAS_NAME": "ABU-AL QASSIM OMAR Musab Boukrin"
+            },
+            {
+              "QUALITY": "Low",
+              "ALIAS_NAME": "The Doctor"
+            },
+            {
+              "QUALITY": "Low",
+              "ALIAS_NAME": "Al-Grein"
+            }
+          ],
+          "INDIVIDUAL_ADDRESS": "",
+          "ADDRESS": "true",
+          "INDIVIDUAL_DATE_OF_BIRTH": {
+            "TYPE_OF_DATE": "EXACT",
+            "DATE": "1983-01-19"
+          },
+          "INDIVIDUAL_PLACE_OF_BIRTH": {
+            "CITY": "Sabratha",
+            "COUNTRY": "Libya"
+          },
+          "INDIVIDUAL_DOCUMENT": [
+            {
+              "TYPE_OF_DOCUMENT": "Passport",
+              "NUMBER": "782633",
+              "DATE_OF_ISSUE": "2005-05-31"
+            },
+            {
+              "TYPE_OF_DOCUMENT": "Passport",
+              "NUMBER": "540794",
+              "DATE_OF_ISSUE": "2008-01-12"
+            }
+          ],
+          "SORT_KEY": "",
+          "SORT_KEY_LAST_MOD": ""
+        },
+        {
+          "DATAID": "6908706",
+          "VERSIONNUM": "1",
+          "NAME_ORIGINAL_SCRIPT": "محمد الأمين العربي كشلاف",
+          "FIRST_NAME": "Mohammed",
+          "FOURTH_NAME": "Kashlaf",
+          "SECOND_NAME": "Al Amin",
+          "THIRD_NAME": "Al-Arabi",
+          "UN_LIST_TYPE": "Libya",
+          "REFERENCE_NUMBER": "LYi.025",
+          "LISTED_ON": "2018-06-07",
+          "COMMENTS1": "Listed pursuant to paragraphs 15 and 17 of resolution 1970 (Travel Ban, Asset Freeze)",
+          "DESIGNATION": {
+            "VALUE": "Commander of the Shuhada al-Nasr brigade, Head of the Petrol Refinery Guard of Zawiya’s refinery"
+          },
+          "DESIG": "true",
+          "GOODQUALITY": "true",
+          "PASSPORT": "true",
+          "NATIONALITY": {
+            "VALUE": "Libya"
+          },
+          "LIST_TYPE": {
+            "VALUE": "UN List"
+          },
+          "LAST_DAY_UPDATED": {
+            "VALUE": [
+              "2018-09-17",
+              "2020-02-25",
+              "2023-11-29"
+            ]
+          },
+          "INDIVIDUAL_ALIAS": [
+            {
+              "QUALITY": "Good",
+              "ALIAS_NAME": "Kashlaf"
+            },
+            {
+              "QUALITY": "Good",
+              "ALIAS_NAME": "Koshlaf"
+            },
+            {
+              "QUALITY": "Low",
+              "ALIAS_NAME": "Keslaf"
+            },
+            {
+              "QUALITY": "Good",
+              "ALIAS_NAME": "al-Qasab"
+            }
+          ],
+          "INDIVIDUAL_ADDRESS": {
+            "COUNTRY": "Libya",
+            "CITY": "Zawiya"
+          },
+          "INDIVIDUAL_DATE_OF_BIRTH": {
+            "TYPE_OF_DATE": "EXACT",
+            "DATE": "1985-12-02"
+          },
+          "INDIVIDUAL_PLACE_OF_BIRTH": {
+            "CITY": "Zawiya",
+            "COUNTRY": "Libya"
+          },
+          "INDIVIDUAL_DOCUMENT": {
+            "TYPE_OF_DOCUMENT": "Passport",
+            "NUMBER": "C17HLRL3",
+            "CITY_OF_ISSUE": "Zawiya",
+            "DATE_OF_ISSUE": "2015-12-30"
+          },
+          "SORT_KEY": "",
+          "SORT_KEY_LAST_MOD": ""
+        },
+        {
+          "DATAID": "6908707",
+          "VERSIONNUM": "1",
+          "FIRST_NAME": "Abd",
+          "FOURTH_NAME": "IBRAHIM AL-MILAD",
+          "TITLE": {
+            "VALUE": "Navy Major"
+          },
+          "SECOND_NAME": "Al-Rahman",
+          "THIRD_NAME": "SALIM ",
+          "UN_LIST_TYPE": "Libya",
+          "REFERENCE_NUMBER": "LYi.026",
+          "LISTED_ON": "2018-06-07",
+          "COMMENTS1": "Listed pursuant to paragraphs 15 and 17 of resolution 1970 (Travel Ban, Asset Freeze),  1) Name of mother Huriyah Al-A’ib; and 2) Military ID is 36479",
+          "DESIGNATION": {
+            "VALUE": "Commander of the Coast Guard in Zawiya"
+          },
+          "DESIG": "true",
+          "GOODQUALITY": "true",
+          "NATIONALITY": {
+            "VALUE": "Libya"
+          },
+          "LIST_TYPE": {
+            "VALUE": "UN List"
+          },
+          "LAST_DAY_UPDATED": {
+            "VALUE": [
+              "2021-04-29",
+              "2023-11-29"
+            ]
+          },
+          "INDIVIDUAL_ALIAS": [
+            {
+              "QUALITY": "Low",
+              "ALIAS_NAME": "Rahman Salim Milad"
+            },
+            {
+              "QUALITY": "Low",
+              "ALIAS_NAME": "al-Bija"
+            },
+            {
+              "QUALITY": "Good",
+              "ALIAS_NAME": "Abdurahman Salem Ibrahim Milad"
+            },
+            {
+              "QUALITY": "Good",
+              "ALIAS_NAME": "ABDULRAHMAN SALIM MILAD KASHLAF"
+            }
+          ],
+          "INDIVIDUAL_ADDRESS": {
+            "COUNTRY": "Libya",
+            "CITY": "Zawiya"
+          },
+          "INDIVIDUAL_DATE_OF_BIRTH": {
+            "TYPE_OF_DATE": "EXACT",
+            "DATE": "1986-07-27"
+          },
+          "INDIVIDUAL_PLACE_OF_BIRTH": {
+            "CITY": "Tripoli",
+            "COUNTRY": "Libya"
+          },
+          "INDIVIDUAL_DOCUMENT": [
+            {
+              "TYPE_OF_DOCUMENT": "Passport",
+              "NUMBER": "G52FYPRL",
+              "DATE_OF_ISSUE": "2014-05-08",
+              "ISSUING_COUNTRY": "Libya",
+              "NOTE": "Date of expiration: 7 May 2022"
+            },
+            {
+              "TYPE_OF_DOCUMENT": "National Identification Number",
+              "NUMBER": "2519910",
+              "ISSUING_COUNTRY": "Libya"
+            }
+          ],
+          "SORT_KEY": "",
+          "SORT_KEY_LAST_MOD": ""
+        },
+        {
+          "DATAID": "6908715",
+          "VERSIONNUM": "1",
+          "FIRST_NAME": "Ibrahim",
+          "FOURTH_NAME": "Jadhran",
+          "SECOND_NAME": "Saeed",
+          "THIRD_NAME": "Salim",
+          "UN_LIST_TYPE": "Libya",
+          "REFERENCE_NUMBER": "LYi.027",
+          "LISTED_ON": "2018-09-11",
+          "COMMENTS1": "Name of mother Salma Abdula Younis. Listed pursuant to paragraphs 15 and 17 of resolution 1970 (Travel Ban, Asset Freeze).",
+          "DESIGNATION": {
+            "VALUE": "Leader of armed militias"
+          },
+          "DESIG": "true",
+          "GOODQUALITY": "true",
+          "PASSPORT": "true",
+          "NATIONALITY": {
+            "VALUE": "Libya"
+          },
+          "LIST_TYPE": {
+            "VALUE": "UN List"
+          },
+          "LAST_DAY_UPDATED": {
+            "VALUE": "2020-02-25"
+          },
+          "INDIVIDUAL_ALIAS": {
+            "QUALITY": "Good",
+            "ALIAS_NAME": "Ibrahim Saeed Salem Awad Aissa Hamed Dawoud Al\n                        Jadhran"
+          },
+          "INDIVIDUAL_ADDRESS": "",
+          "ADDRESS": "true",
+          "INDIVIDUAL_DATE_OF_BIRTH": {
+            "TYPE_OF_DATE": "EXACT",
+            "DATE": "1982-10-29"
+          },
+          "INDIVIDUAL_PLACE_OF_BIRTH": {
+            "COUNTRY": ""
+          },
+          "INDIVIDUAL_DOCUMENT": [
+            {
+              "TYPE_OF_DOCUMENT": "Passport",
+              "NUMBER": "S/263963",
+              "DATE_OF_ISSUE": "2012-11-08"
+            },
+            {
+              "TYPE_OF_DOCUMENT": "National Identification Number",
+              "NUMBER": "119820043341"
+            },
+            {
+              "TYPE_OF_DOCUMENT": "National Identification Number",
+              "TYPE_OF_DOCUMENT2": "Personal identification no.:",
+              "NUMBER": "137803"
+            }
+          ],
+          "SORT_KEY": "",
+          "SORT_KEY_LAST_MOD": ""
+        },
+        {
+          "DATAID": "6908759",
+          "VERSIONNUM": "1",
+          "FIRST_NAME": "Salah",
+          "SECOND_NAME": "Badi",
+          "UN_LIST_TYPE": "Libya",
+          "REFERENCE_NUMBER": "LYi.028",
+          "LISTED_ON": "2018-11-16",
+          "COMMENTS1": "Listed pursuant to paragraphs 15 and 17 of resolution 1970 (Travel Ban, Asset Freeze).",
+          "DESIGNATION": {
+            "VALUE": "Senior commander of the armed anti-GNA Al-Somood front, also known as Fakhr or ‘Pride of Libya’, and the Misratan Al Marsa Central Shield brigade"
+          },
+          "DESIG": "true",
+          "LIST_TYPE": {
+            "VALUE": "UN List"
+          },
+          "LAST_DAY_UPDATED": {
+            "VALUE": ""
+          },
+          "INDIVIDUAL_ALIAS": {
+            "QUALITY": "",
+            "ALIAS_NAME": ""
+          },
+          "INDIVIDUAL_ADDRESS": "",
+          "ADDRESS": "true",
+          "INDIVIDUAL_DATE_OF_BIRTH": {
+            "TYPE_OF_DATE": ""
+          },
+          "INDIVIDUAL_PLACE_OF_BIRTH": {
+            "COUNTRY": ""
+          },
+          "INDIVIDUAL_DOCUMENT": "",
+          "SORT_KEY": "",
+          "SORT_KEY_LAST_MOD": ""
+        },
+        {
+          "DATAID": "6908848",
+          "VERSIONNUM": "1",
+          "NAME_ORIGINAL_SCRIPT": "أسامة الكوني ابراهيم",
+          "FIRST_NAME": "Osama",
+          "TITLE": {
+            "VALUE": "Manager of Al Nasr Detention Center in Zawiyah"
+          },
+          "SECOND_NAME": "Al Kuni",
+          "THIRD_NAME": "Ibrahim",
+          "UN_LIST_TYPE": "Libya",
+          "REFERENCE_NUMBER": "LYi.029",
+          "LISTED_ON": "2021-10-25",
+          "COMMENTS1": "As de facto manager of the Al Nasr detention center the person concerned has directly, and/or through subordinates engaged in or provided support to acts that violate applicable international human rights law, or acts that constitute human rights abuses in Libya. The Person concerned has acted for or on behalf of or at the direction of two listed individuals intrinsically linked to the human trafficking activities of the Zawiyah network, namely Mohamed Kashlaf (LYi.025) and Abdulrahman al Milad (LYi.026).  Listed pursuant to paragraphs 15 and 17 of resolution 1970 (Travel Ban, Asset Freeze)  INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals",
+          "GOODQUALITY": "true",
+          "NATIONALITY": {
+            "VALUE": "Libya"
+          },
+          "LIST_TYPE": {
+            "VALUE": "UN List"
+          },
+          "LAST_DAY_UPDATED": {
+            "VALUE": "2023-11-29"
+          },
+          "INDIVIDUAL_ALIAS": [
+            {
+              "QUALITY": "Good",
+              "ALIAS_NAME": "Osama Milad"
+            },
+            {
+              "QUALITY": "Good",
+              "ALIAS_NAME": "Osama al-Milad"
+            },
+            {
+              "QUALITY": "Good",
+              "ALIAS_NAME": "Osama Zawiya"
+            },
+            {
+              "QUALITY": "Good",
+              "ALIAS_NAME": "Osama Zawiyah"
+            },
+            {
+              "QUALITY": "Good",
+              "ALIAS_NAME": "Osama al Kuni"
+            }
+          ],
+          "INDIVIDUAL_ADDRESS": {
+            "COUNTRY": "Libya",
+            "STATE_PROVINCE": "Zawiyah"
+          },
+          "INDIVIDUAL_DATE_OF_BIRTH": {
+            "TYPE_OF_DATE": "EXACT",
+            "DATE": "1976-04-02"
+          },
+          "INDIVIDUAL_PLACE_OF_BIRTH": {
+            "CITY": "Tripoli",
+            "COUNTRY": "Libya"
+          },
+          "INDIVIDUAL_DOCUMENT": "",
+          "SORT_KEY": "",
+          "SORT_KEY_LAST_MOD": ""
+        }
+      ]
+    },
+    "ENTITIES": {
+      "ENTITY": [
+        {
+          "DATAID": "690782",
+          "VERSIONNUM": "1",
+          "FIRST_NAME": "LIBYAN INVESTMENT AUTHORITY",
+          "UN_LIST_TYPE": "Libya",
+          "REFERENCE_NUMBER": "LYe.001",
+          "LISTED_ON": "2011-03-17",
+          "COMMENTS1": "Listed pursuant to paragraph 17 of resolution 1973, as modified on 16\nSeptember pursuant to paragraph 15 of resolution 2009. INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals",
+          "LIST_TYPE": {
+            "VALUE": "UN List"
+          },
+          "ENTITY_ALIAS": {
+            "QUALITY": "a.k.a.",
+            "ALIAS_NAME": "Libyan Foreign Investment Company (LFIC)"
+          },
+          "ENTITY_ADDRESS": {
+            "COUNTRY": "Libya",
+            "STREET": "1 Fateh Tower Office, No 99 22nd Floor, Borgaida Street",
+            "CITY": "Tripoli",
+            "ZIP_CODE": "1103"
+          },
+          "SORT_KEY": "",
+          "SORT_KEY_LAST_MOD": ""
+        },
+        {
+          "DATAID": "690783",
+          "VERSIONNUM": "1",
+          "FIRST_NAME": "LIBYAN AFRICA INVESTMENT PORTFOLIO",
+          "UN_LIST_TYPE": "Libya",
+          "REFERENCE_NUMBER": "LYe.002",
+          "LISTED_ON": "2011-03-17",
+          "COMMENTS1": "Listed pursuant to paragraph 17 of resolution 1973, as modified on 16\nSeptember pursuant to paragraph 15 of resolution 2009. INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals",
+          "LIST_TYPE": {
+            "VALUE": "UN List"
+          },
+          "ENTITY_ALIAS": {
+            "QUALITY": "",
+            "ALIAS_NAME": ""
+          },
+          "ENTITY_ADDRESS": {
+            "COUNTRY": "Libya",
+            "STREET": "Jamahiriya Street, LAP Building, PO Box 91330",
+            "CITY": "Tripoli"
+          },
+          "SORT_KEY": "",
+          "SORT_KEY_LAST_MOD": ""
+        }
+      ]
+    }
+  }
+}

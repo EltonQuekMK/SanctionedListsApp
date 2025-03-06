@@ -1,0 +1,1629 @@
+{
+  "CONSOLIDATED_LIST": {
+    "$": {
+      "dateGenerated": "2025-03-06T00:00:03.429Z"
+    },
+    "INDIVIDUALS": {
+      "INDIVIDUAL": [
+        {
+          "DATAID": "6908032",
+          "VERSIONNUM": "1",
+          "FIRST_NAME": "Yasin",
+          "SECOND_NAME": "Ali",
+          "THIRD_NAME": "Baynah",
+          "UN_LIST_TYPE": "Somalia",
+          "REFERENCE_NUMBER": "SOi.001",
+          "LISTED_ON": "2010-04-12",
+          "COMMENTS1": "INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals",
+          "GOODQUALITY": "true",
+          "NATIONALITY": {
+            "VALUE": [
+              "Somalia",
+              "Sweden"
+            ]
+          },
+          "LIST_TYPE": {
+            "VALUE": "UN List"
+          },
+          "LAST_DAY_UPDATED": {
+            "VALUE": ""
+          },
+          "INDIVIDUAL_ALIAS": [
+            {
+              "QUALITY": "Good",
+              "ALIAS_NAME": "ALI, Yasin Baynah"
+            },
+            {
+              "QUALITY": "Good",
+              "ALIAS_NAME": "ALI, Yassin Mohamed"
+            },
+            {
+              "QUALITY": "Good",
+              "ALIAS_NAME": "BAYNAH, Yasin"
+            },
+            {
+              "QUALITY": "Good",
+              "ALIAS_NAME": "BAYNAH, Yassin"
+            },
+            {
+              "QUALITY": "Good",
+              "ALIAS_NAME": "BAYNAX, Yasiin Cali"
+            },
+            {
+              "QUALITY": "Good",
+              "ALIAS_NAME": "BEENAH, Yasin"
+            },
+            {
+              "QUALITY": "Good",
+              "ALIAS_NAME": "BEENAH, Yassin"
+            },
+            {
+              "QUALITY": "Good",
+              "ALIAS_NAME": "BEENAX, Yasin"
+            },
+            {
+              "QUALITY": "Good",
+              "ALIAS_NAME": "BEENAX, Yassin"
+            },
+            {
+              "QUALITY": "Good",
+              "ALIAS_NAME": "BENAH, Yasin"
+            },
+            {
+              "QUALITY": "Good",
+              "ALIAS_NAME": "BENAH, Yassin"
+            },
+            {
+              "QUALITY": "Good",
+              "ALIAS_NAME": "BENAX, Yassin"
+            },
+            {
+              "QUALITY": "Good",
+              "ALIAS_NAME": "BEYNAH, Yasin"
+            },
+            {
+              "QUALITY": "Good",
+              "ALIAS_NAME": "BINAH, Yassin"
+            },
+            {
+              "QUALITY": "Good",
+              "ALIAS_NAME": "CALI, Yasiin Baynax"
+            }
+          ],
+          "INDIVIDUAL_ADDRESS": [
+            {
+              "COUNTRY": "Sweden",
+              "CITY": "Rinkeby, Stockholm"
+            },
+            {
+              "COUNTRY": "Somalia",
+              "CITY": "Mogadishu"
+            }
+          ],
+          "INDIVIDUAL_DATE_OF_BIRTH": {
+            "TYPE_OF_DATE": "EXACT",
+            "DATE": "1965-12-24"
+          },
+          "INDIVIDUAL_PLACE_OF_BIRTH": {
+            "COUNTRY": ""
+          },
+          "INDIVIDUAL_DOCUMENT": "",
+          "SORT_KEY": "",
+          "SORT_KEY_LAST_MOD": ""
+        },
+        {
+          "DATAID": "6908034",
+          "VERSIONNUM": "1",
+          "FIRST_NAME": "HASSAN",
+          "SECOND_NAME": "DAHIR",
+          "THIRD_NAME": "AWEYS",
+          "UN_LIST_TYPE": "Somalia",
+          "REFERENCE_NUMBER": "SOi.002",
+          "LISTED_ON": "2010-04-12",
+          "COMMENTS1": "INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals",
+          "GOODQUALITY": "true",
+          "NATIONALITY": {
+            "VALUE": "Somalia"
+          },
+          "LIST_TYPE": {
+            "VALUE": "UN List"
+          },
+          "LAST_DAY_UPDATED": {
+            "VALUE": ""
+          },
+          "INDIVIDUAL_ALIAS": [
+            {
+              "QUALITY": "Good",
+              "ALIAS_NAME": "ALI, Sheikh Hassan Dahir Aweys"
+            },
+            {
+              "QUALITY": "Good",
+              "ALIAS_NAME": "AWES, Hassan Dahir"
+            },
+            {
+              "QUALITY": "Good",
+              "ALIAS_NAME": "AWES, Shaykh Hassan Dahir"
+            },
+            {
+              "QUALITY": "Good",
+              "ALIAS_NAME": "AWEYES, Hassen Dahir"
+            },
+            {
+              "QUALITY": "Good",
+              "ALIAS_NAME": "AWEYS, Ahmed Dahir"
+            },
+            {
+              "QUALITY": "Good",
+              "ALIAS_NAME": "AWEYS, Sheikh"
+            },
+            {
+              "QUALITY": "Good",
+              "ALIAS_NAME": "AWEYS, Sheikh Hassan Dahir"
+            },
+            {
+              "QUALITY": "Good",
+              "ALIAS_NAME": "DAHIR, Aweys Hassan"
+            },
+            {
+              "QUALITY": "Good",
+              "ALIAS_NAME": "IBRAHIM, Mohammed Hassan"
+            },
+            {
+              "QUALITY": "Good",
+              "ALIAS_NAME": "OAIS, Hassan Tahir"
+            },
+            {
+              "QUALITY": "Good",
+              "ALIAS_NAME": "UWAYS, Hassan Tahir"
+            },
+            {
+              "QUALITY": "Good",
+              "ALIAS_NAME": "\"HASSAN, Sheikh\""
+            }
+          ],
+          "INDIVIDUAL_ADDRESS": {
+            "COUNTRY": "Somalia"
+          },
+          "INDIVIDUAL_DATE_OF_BIRTH": {
+            "TYPE_OF_DATE": "EXACT",
+            "YEAR": "1935"
+          },
+          "INDIVIDUAL_PLACE_OF_BIRTH": {
+            "COUNTRY": ""
+          },
+          "INDIVIDUAL_DOCUMENT": "",
+          "SORT_KEY": "",
+          "SORT_KEY_LAST_MOD": ""
+        },
+        {
+          "DATAID": "6908035",
+          "VERSIONNUM": "1",
+          "FIRST_NAME": "HASSAN",
+          "FOURTH_NAME": "AL-TURKI",
+          "SECOND_NAME": "ABDULLAH",
+          "THIRD_NAME": "HERSI",
+          "UN_LIST_TYPE": "Somalia",
+          "REFERENCE_NUMBER": "SOi.003",
+          "LISTED_ON": "2010-04-12",
+          "COMMENTS1": "INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals",
+          "GOODQUALITY": "true",
+          "NATIONALITY": {
+            "VALUE": "Somalia"
+          },
+          "LIST_TYPE": {
+            "VALUE": "UN List"
+          },
+          "LAST_DAY_UPDATED": {
+            "VALUE": ""
+          },
+          "INDIVIDUAL_ALIAS": [
+            {
+              "QUALITY": "Good",
+              "ALIAS_NAME": "AL-TURKI, Hassan"
+            },
+            {
+              "QUALITY": "Good",
+              "ALIAS_NAME": "TURKI, Hassan"
+            },
+            {
+              "QUALITY": "Good",
+              "ALIAS_NAME": "TURKI, Hassan Abdillahi Hersi"
+            },
+            {
+              "QUALITY": "Good",
+              "ALIAS_NAME": "TURKI, Sheikh Hassan"
+            },
+            {
+              "QUALITY": "Good",
+              "ALIAS_NAME": "XIRSI, Xasan Cabdilaahi"
+            },
+            {
+              "QUALITY": "Good",
+              "ALIAS_NAME": "XIRSI, Xasan Cabdulle"
+            }
+          ],
+          "INDIVIDUAL_ADDRESS": {
+            "COUNTRY": "Somalia"
+          },
+          "INDIVIDUAL_DATE_OF_BIRTH": {
+            "TYPE_OF_DATE": "APPROXIMATELY",
+            "YEAR": "1944"
+          },
+          "INDIVIDUAL_PLACE_OF_BIRTH": {
+            "STATE_PROVINCE": "Ogaden Region",
+            "COUNTRY": "Ethiopia"
+          },
+          "INDIVIDUAL_DOCUMENT": "",
+          "SORT_KEY": "",
+          "SORT_KEY_LAST_MOD": ""
+        },
+        {
+          "DATAID": "6908036",
+          "VERSIONNUM": "1",
+          "FIRST_NAME": "AHMED",
+          "SECOND_NAME": "ABDI",
+          "THIRD_NAME": "AW-MOHAMED",
+          "UN_LIST_TYPE": "Somalia",
+          "REFERENCE_NUMBER": "SOi.004",
+          "LISTED_ON": "2010-04-12",
+          "COMMENTS1": "INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals",
+          "GOODQUALITY": "true",
+          "NATIONALITY": {
+            "VALUE": "Somalia"
+          },
+          "LIST_TYPE": {
+            "VALUE": "UN List"
+          },
+          "LAST_DAY_UPDATED": {
+            "VALUE": ""
+          },
+          "INDIVIDUAL_ALIAS": [
+            {
+              "QUALITY": "Good",
+              "ALIAS_NAME": "ABU ZUBEYR, Muktar Abdirahman"
+            },
+            {
+              "QUALITY": "Good",
+              "ALIAS_NAME": "ABUZUBAIR, Muktar Abdulrahim"
+            },
+            {
+              "QUALITY": "Good",
+              "ALIAS_NAME": "AW MOHAMMED, Ahmed Abdi"
+            },
+            {
+              "QUALITY": "Good",
+              "ALIAS_NAME": "AW-MOHAMUD, Ahmed Abdi"
+            },
+            {
+              "QUALITY": "Good",
+              "ALIAS_NAME": "\"GODANE\""
+            },
+            {
+              "QUALITY": "Good",
+              "ALIAS_NAME": "\"GODANI\""
+            },
+            {
+              "QUALITY": "Good",
+              "ALIAS_NAME": "\"MUKHTAR, Shaykh\""
+            },
+            {
+              "QUALITY": "Good",
+              "ALIAS_NAME": "\"ZUBEYR, Abu\""
+            }
+          ],
+          "INDIVIDUAL_ADDRESS": "",
+          "ADDRESS": "true",
+          "INDIVIDUAL_DATE_OF_BIRTH": {
+            "TYPE_OF_DATE": "EXACT",
+            "DATE": "1977-07-10"
+          },
+          "INDIVIDUAL_PLACE_OF_BIRTH": {
+            "CITY": "Hargeysa",
+            "COUNTRY": "Somalia"
+          },
+          "INDIVIDUAL_DOCUMENT": "",
+          "SORT_KEY": "",
+          "SORT_KEY_LAST_MOD": ""
+        },
+        {
+          "DATAID": "6908037",
+          "VERSIONNUM": "1",
+          "FIRST_NAME": "FUAD",
+          "SECOND_NAME": "MOHAMED",
+          "THIRD_NAME": "KHALAF",
+          "UN_LIST_TYPE": "Somalia",
+          "REFERENCE_NUMBER": "SOi.005",
+          "LISTED_ON": "2010-04-12",
+          "COMMENTS1": "",
+          "GOODQUALITY": "true",
+          "NATIONALITY": {
+            "VALUE": "Somalia"
+          },
+          "LIST_TYPE": {
+            "VALUE": "UN List"
+          },
+          "LAST_DAY_UPDATED": {
+            "VALUE": ""
+          },
+          "INDIVIDUAL_ALIAS": [
+            {
+              "QUALITY": "Good",
+              "ALIAS_NAME": "Fuad Mohamed Khalif"
+            },
+            {
+              "QUALITY": "Good",
+              "ALIAS_NAME": "Fuad Mohamed Qalaf"
+            },
+            {
+              "QUALITY": "Good",
+              "ALIAS_NAME": "Fuad Mohammed Kalaf"
+            },
+            {
+              "QUALITY": "Good",
+              "ALIAS_NAME": "Fuad Mohamed Kalaf"
+            },
+            {
+              "QUALITY": "Good",
+              "ALIAS_NAME": "Fuad Mohammed Khalif"
+            },
+            {
+              "QUALITY": "Good",
+              "ALIAS_NAME": "Fuad Khalaf"
+            },
+            {
+              "QUALITY": "Good",
+              "ALIAS_NAME": "Fuad Shongale"
+            },
+            {
+              "QUALITY": "Good",
+              "ALIAS_NAME": "Fuad Shongole"
+            },
+            {
+              "QUALITY": "Good",
+              "ALIAS_NAME": "Fuad Shangole"
+            },
+            {
+              "QUALITY": "Good",
+              "ALIAS_NAME": "Fuad Songale"
+            },
+            {
+              "QUALITY": "Good",
+              "ALIAS_NAME": "Fouad Shongale"
+            },
+            {
+              "QUALITY": "Good",
+              "ALIAS_NAME": "Fuad Muhammad Khalaf Shongole"
+            }
+          ],
+          "INDIVIDUAL_ADDRESS": [
+            {
+              "COUNTRY": "Somalia",
+              "CITY": "Mogadishu"
+            },
+            {
+              "COUNTRY": "Somalia"
+            }
+          ],
+          "INDIVIDUAL_DATE_OF_BIRTH": {
+            "TYPE_OF_DATE": ""
+          },
+          "INDIVIDUAL_PLACE_OF_BIRTH": {
+            "COUNTRY": ""
+          },
+          "INDIVIDUAL_DOCUMENT": "",
+          "SORT_KEY": "",
+          "SORT_KEY_LAST_MOD": ""
+        },
+        {
+          "DATAID": "6908038",
+          "VERSIONNUM": "1",
+          "FIRST_NAME": "BASHIR",
+          "SECOND_NAME": "MOHAMED",
+          "THIRD_NAME": "MAHAMOUD",
+          "UN_LIST_TYPE": "Somalia",
+          "REFERENCE_NUMBER": "SOi.006",
+          "LISTED_ON": "2010-04-12",
+          "COMMENTS1": "INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals",
+          "GOODQUALITY": "true",
+          "NATIONALITY": {
+            "VALUE": "Somalia"
+          },
+          "LIST_TYPE": {
+            "VALUE": "UN List"
+          },
+          "LAST_DAY_UPDATED": {
+            "VALUE": ""
+          },
+          "INDIVIDUAL_ALIAS": [
+            {
+              "QUALITY": "",
+              "ALIAS_NAME": "",
+              "DATE_OF_BIRTH": "1980"
+            },
+            {
+              "QUALITY": "",
+              "ALIAS_NAME": "",
+              "DATE_OF_BIRTH": "1981"
+            },
+            {
+              "QUALITY": "",
+              "ALIAS_NAME": "",
+              "DATE_OF_BIRTH": "1982"
+            },
+            {
+              "QUALITY": "Good",
+              "ALIAS_NAME": "Bashir Mohamed Mahmoud"
+            },
+            {
+              "QUALITY": "Good",
+              "ALIAS_NAME": "Bashir Mahmud Mohammed"
+            },
+            {
+              "QUALITY": "Good",
+              "ALIAS_NAME": "Bashir Mohamed Mohamud"
+            },
+            {
+              "QUALITY": "Good",
+              "ALIAS_NAME": "Bashir Mohamed Mohamoud"
+            },
+            {
+              "QUALITY": "Good",
+              "ALIAS_NAME": "Bashir Yare"
+            },
+            {
+              "QUALITY": "Good",
+              "ALIAS_NAME": "Bashir Qorgab"
+            },
+            {
+              "QUALITY": "Good",
+              "ALIAS_NAME": "Gure Gap"
+            },
+            {
+              "QUALITY": "Good",
+              "ALIAS_NAME": "\"Abu Muscab\""
+            },
+            {
+              "QUALITY": "Good",
+              "ALIAS_NAME": "\"Qorgab\""
+            }
+          ],
+          "INDIVIDUAL_ADDRESS": {
+            "COUNTRY": "Somalia",
+            "CITY": "Mogadishu"
+          },
+          "INDIVIDUAL_DATE_OF_BIRTH": {
+            "TYPE_OF_DATE": "EXACT",
+            "YEAR": "1979"
+          },
+          "INDIVIDUAL_PLACE_OF_BIRTH": {
+            "COUNTRY": ""
+          },
+          "INDIVIDUAL_DOCUMENT": "",
+          "SORT_KEY": "",
+          "SORT_KEY_LAST_MOD": ""
+        },
+        {
+          "DATAID": "6908040",
+          "VERSIONNUM": "1",
+          "FIRST_NAME": "FARES",
+          "SECOND_NAME": "MOHAMMED",
+          "THIRD_NAME": "MANA'A",
+          "UN_LIST_TYPE": "Somalia",
+          "REFERENCE_NUMBER": "SOi.008",
+          "LISTED_ON": "2010-04-12",
+          "COMMENTS1": "INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals",
+          "GOODQUALITY": "true",
+          "LIST_TYPE": {
+            "VALUE": "UN List"
+          },
+          "LAST_DAY_UPDATED": {
+            "VALUE": ""
+          },
+          "INDIVIDUAL_ALIAS": [
+            {
+              "QUALITY": "Good",
+              "ALIAS_NAME": "Faris Mana'a"
+            },
+            {
+              "QUALITY": "Good",
+              "ALIAS_NAME": "Fares Mohammed Manaa"
+            }
+          ],
+          "INDIVIDUAL_ADDRESS": "",
+          "ADDRESS": "true",
+          "INDIVIDUAL_DATE_OF_BIRTH": {
+            "TYPE_OF_DATE": "EXACT",
+            "DATE": "1965-02-08"
+          },
+          "INDIVIDUAL_PLACE_OF_BIRTH": {
+            "CITY": "Sadah",
+            "COUNTRY": "Yemen"
+          },
+          "INDIVIDUAL_DOCUMENT": [
+            {
+              "TYPE_OF_DOCUMENT": "Passport",
+              "NUMBER": "00514146",
+              "CITY_OF_ISSUE": "Sanaa",
+              "NOTE": "Date of issue 7 January 1996",
+              "COUNTRY_OF_ISSUE": "Yemen"
+            },
+            {
+              "TYPE_OF_DOCUMENT": "National Identification Number",
+              "NUMBER": "1417576",
+              "CITY_OF_ISSUE": "Al-Amana",
+              "NOTE": "issued on 7 Jan. 1996",
+              "COUNTRY_OF_ISSUE": "Yemen"
+            }
+          ],
+          "SORT_KEY": "",
+          "SORT_KEY_LAST_MOD": ""
+        },
+        {
+          "DATAID": "6908041",
+          "VERSIONNUM": "1",
+          "FIRST_NAME": "HASSAN",
+          "SECOND_NAME": "MAHAT",
+          "THIRD_NAME": "OMAR",
+          "UN_LIST_TYPE": "Somalia",
+          "REFERENCE_NUMBER": "SOi.009",
+          "LISTED_ON": "2011-07-28",
+          "COMMENTS1": "INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals",
+          "GOODQUALITY": "true",
+          "NATIONALITY": {
+            "VALUE": "Ethiopia"
+          },
+          "LIST_TYPE": {
+            "VALUE": "UN List"
+          },
+          "LAST_DAY_UPDATED": {
+            "VALUE": ""
+          },
+          "INDIVIDUAL_ALIAS": [
+            {
+              "QUALITY": "Good",
+              "ALIAS_NAME": "Hassaan Hussein Adam"
+            },
+            {
+              "QUALITY": "Good",
+              "ALIAS_NAME": "Hassane Mahad Omar"
+            },
+            {
+              "QUALITY": "Good",
+              "ALIAS_NAME": "Xassaan Xuseen Adan"
+            },
+            {
+              "QUALITY": "Good",
+              "ALIAS_NAME": "Asan Mahad Cumar"
+            },
+            {
+              "QUALITY": "Good",
+              "ALIAS_NAME": "Abu Salman"
+            },
+            {
+              "QUALITY": "Good",
+              "ALIAS_NAME": "Abu Salmaan"
+            },
+            {
+              "QUALITY": "Good",
+              "ALIAS_NAME": "Sheikh Hassaan Hussein"
+            }
+          ],
+          "INDIVIDUAL_ADDRESS": {
+            "COUNTRY": "Kenya",
+            "CITY": "Nairobi"
+          },
+          "INDIVIDUAL_DATE_OF_BIRTH": {
+            "TYPE_OF_DATE": "EXACT",
+            "DATE": "1979-04-10"
+          },
+          "INDIVIDUAL_PLACE_OF_BIRTH": {
+            "CITY": "Garissa",
+            "COUNTRY": "Kenya"
+          },
+          "INDIVIDUAL_DOCUMENT": [
+            {
+              "TYPE_OF_DOCUMENT": "Passport",
+              "NUMBER": "A1180173",
+              "NOTE": "exp. 20 Aug 2017",
+              "COUNTRY_OF_ISSUE": "Kenya"
+            },
+            {
+              "TYPE_OF_DOCUMENT": "National Identification Number",
+              "NUMBER": "23446085",
+              "NOTE": "National ID Card"
+            }
+          ],
+          "SORT_KEY": "",
+          "SORT_KEY_LAST_MOD": ""
+        },
+        {
+          "DATAID": "6908042",
+          "VERSIONNUM": "1",
+          "FIRST_NAME": "OMAR",
+          "SECOND_NAME": "HAMMAMI",
+          "UN_LIST_TYPE": "Somalia",
+          "REFERENCE_NUMBER": "SOi.010",
+          "LISTED_ON": "2011-07-28",
+          "COMMENTS1": "Married to a Somali woman. Lived in Egypt in 2005 and moved to Somalia in\n2009. INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals",
+          "GOODQUALITY": "true",
+          "PASSPORT": "true",
+          "NATIONALITY": {
+            "VALUE": "United States of America"
+          },
+          "LIST_TYPE": {
+            "VALUE": "UN List"
+          },
+          "LAST_DAY_UPDATED": {
+            "VALUE": ""
+          },
+          "INDIVIDUAL_ALIAS": [
+            {
+              "QUALITY": "Good",
+              "ALIAS_NAME": "Abu Maansuur Al-Amriki"
+            },
+            {
+              "QUALITY": "Good",
+              "ALIAS_NAME": "Abu Mansour Al-Amriki"
+            },
+            {
+              "QUALITY": "Good",
+              "ALIAS_NAME": "Abu Mansuur Al-Amriki"
+            },
+            {
+              "QUALITY": "Good",
+              "ALIAS_NAME": "Umar Hammami"
+            },
+            {
+              "QUALITY": "Good",
+              "ALIAS_NAME": "Abu Mansur Al-Amriki"
+            }
+          ],
+          "INDIVIDUAL_ADDRESS": {
+            "COUNTRY": "Somalia"
+          },
+          "INDIVIDUAL_DATE_OF_BIRTH": {
+            "TYPE_OF_DATE": "EXACT",
+            "DATE": "1986-05-06"
+          },
+          "INDIVIDUAL_PLACE_OF_BIRTH": {
+            "CITY": "Alabama",
+            "COUNTRY": "United States of America"
+          },
+          "INDIVIDUAL_DOCUMENT": [
+            {
+              "TYPE_OF_DOCUMENT": "Passport",
+              "NUMBER": "403062567 (US)"
+            },
+            {
+              "TYPE_OF_DOCUMENT": "National Identification Number",
+              "NUMBER": "Social Security Number 423-31-3021 (US)"
+            }
+          ],
+          "SORT_KEY": "",
+          "SORT_KEY_LAST_MOD": ""
+        },
+        {
+          "DATAID": "6908043",
+          "VERSIONNUM": "1",
+          "FIRST_NAME": "ABOUD",
+          "SECOND_NAME": "ROGO",
+          "THIRD_NAME": "MOHAMMED",
+          "UN_LIST_TYPE": "Somalia",
+          "REFERENCE_NUMBER": "SOi.011",
+          "LISTED_ON": "2012-07-25",
+          "COMMENTS1": "INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals",
+          "GOODQUALITY": "true",
+          "LIST_TYPE": {
+            "VALUE": "UN List"
+          },
+          "LAST_DAY_UPDATED": {
+            "VALUE": ""
+          },
+          "INDIVIDUAL_ALIAS": [
+            {
+              "QUALITY": "",
+              "ALIAS_NAME": "",
+              "DATE_OF_BIRTH": "1967-11-11"
+            },
+            {
+              "QUALITY": "",
+              "ALIAS_NAME": "",
+              "DATE_OF_BIRTH": "1969-11-11"
+            },
+            {
+              "QUALITY": "",
+              "ALIAS_NAME": "",
+              "DATE_OF_BIRTH": "1969-01-01"
+            },
+            {
+              "QUALITY": "Good",
+              "ALIAS_NAME": "Aboud Mohammad Rogo"
+            },
+            {
+              "QUALITY": "Good",
+              "ALIAS_NAME": "Aboud Seif Rogo"
+            },
+            {
+              "QUALITY": "Good",
+              "ALIAS_NAME": "Aboud Mohammed Rogo"
+            },
+            {
+              "QUALITY": "Good",
+              "ALIAS_NAME": "Sheikh Aboud Rogo"
+            },
+            {
+              "QUALITY": "Good",
+              "ALIAS_NAME": "Aboud Rogo Muhammad"
+            },
+            {
+              "QUALITY": "Good",
+              "ALIAS_NAME": "Aboud Rogo Mohamed"
+            }
+          ],
+          "INDIVIDUAL_ADDRESS": "",
+          "ADDRESS": "true",
+          "INDIVIDUAL_DATE_OF_BIRTH": {
+            "TYPE_OF_DATE": "EXACT",
+            "DATE": "1960-11-11"
+          },
+          "INDIVIDUAL_PLACE_OF_BIRTH": {
+            "CITY": "Lamu Island",
+            "COUNTRY": "Kenya"
+          },
+          "INDIVIDUAL_DOCUMENT": "",
+          "SORT_KEY": "",
+          "SORT_KEY_LAST_MOD": ""
+        },
+        {
+          "DATAID": "6908044",
+          "VERSIONNUM": "1",
+          "FIRST_NAME": "ABUBAKER",
+          "SECOND_NAME": "SHARIFF",
+          "THIRD_NAME": "AHMED",
+          "UN_LIST_TYPE": "Somalia",
+          "REFERENCE_NUMBER": "SOi.012",
+          "LISTED_ON": "2012-08-23",
+          "COMMENTS1": "INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals",
+          "GOODQUALITY": "true",
+          "LIST_TYPE": {
+            "VALUE": "UN List"
+          },
+          "LAST_DAY_UPDATED": {
+            "VALUE": ""
+          },
+          "INDIVIDUAL_ALIAS": [
+            {
+              "QUALITY": "",
+              "ALIAS_NAME": "",
+              "DATE_OF_BIRTH": "1967"
+            },
+            {
+              "QUALITY": "Good",
+              "ALIAS_NAME": "Makaburi"
+            },
+            {
+              "QUALITY": "Good",
+              "ALIAS_NAME": "Sheikh Abubakar Ahmed"
+            },
+            {
+              "QUALITY": "Good",
+              "ALIAS_NAME": "Abubaker Shariff Ahmed"
+            },
+            {
+              "QUALITY": "Good",
+              "ALIAS_NAME": "Abu Makaburi Shariff"
+            },
+            {
+              "QUALITY": "Good",
+              "ALIAS_NAME": "Abubaker Shariff"
+            },
+            {
+              "QUALITY": "Good",
+              "ALIAS_NAME": "Abubakar Ahmed"
+            }
+          ],
+          "INDIVIDUAL_ADDRESS": {
+            "COUNTRY": "Kenya",
+            "CITY": "Majengo area, Mombasa"
+          },
+          "INDIVIDUAL_DATE_OF_BIRTH": {
+            "TYPE_OF_DATE": "EXACT",
+            "YEAR": "1962"
+          },
+          "INDIVIDUAL_PLACE_OF_BIRTH": {
+            "COUNTRY": "Kenya"
+          },
+          "INDIVIDUAL_DOCUMENT": "",
+          "SORT_KEY": "",
+          "SORT_KEY_LAST_MOD": ""
+        },
+        {
+          "DATAID": "6908432",
+          "VERSIONNUM": "1",
+          "FIRST_NAME": "MAALIM",
+          "SECOND_NAME": "SALMAN",
+          "UN_LIST_TYPE": "Somalia",
+          "REFERENCE_NUMBER": "SOi.013",
+          "LISTED_ON": "2014-09-23",
+          "COMMENTS1": "INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals",
+          "GOODQUALITY": "true",
+          "LIST_TYPE": {
+            "VALUE": "UN List"
+          },
+          "LAST_DAY_UPDATED": {
+            "VALUE": ""
+          },
+          "INDIVIDUAL_ALIAS": [
+            {
+              "QUALITY": "Good",
+              "ALIAS_NAME": "Mu’alim Salman"
+            },
+            {
+              "QUALITY": "Good",
+              "ALIAS_NAME": "Mualem Suleiman"
+            },
+            {
+              "QUALITY": "Good",
+              "ALIAS_NAME": "Ameer Salman"
+            },
+            {
+              "QUALITY": "Good",
+              "ALIAS_NAME": "Ma’alim Suleiman"
+            },
+            {
+              "QUALITY": "Good",
+              "ALIAS_NAME": "Maalim Salman Ali"
+            },
+            {
+              "QUALITY": "Good",
+              "ALIAS_NAME": "Maalim Selman Ali"
+            },
+            {
+              "QUALITY": "Good",
+              "ALIAS_NAME": "Ma’alim Selman"
+            },
+            {
+              "QUALITY": "Good",
+              "ALIAS_NAME": "Ma’alin Sulayman"
+            }
+          ],
+          "INDIVIDUAL_ADDRESS": {
+            "COUNTRY": "Somalia"
+          },
+          "INDIVIDUAL_DATE_OF_BIRTH": {
+            "TYPE_OF_DATE": "APPROXIMATELY",
+            "YEAR": "1979"
+          },
+          "INDIVIDUAL_PLACE_OF_BIRTH": {
+            "CITY": "Nairobi",
+            "COUNTRY": "Kenya"
+          },
+          "INDIVIDUAL_DOCUMENT": "",
+          "SORT_KEY": "",
+          "SORT_KEY_LAST_MOD": ""
+        },
+        {
+          "DATAID": "6908433",
+          "VERSIONNUM": "1",
+          "FIRST_NAME": "AHMED",
+          "SECOND_NAME": "DIRIYE",
+          "UN_LIST_TYPE": "Somalia",
+          "REFERENCE_NUMBER": "SOi.014",
+          "LISTED_ON": "2014-09-24",
+          "COMMENTS1": "INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals",
+          "GOODQUALITY": "true",
+          "LIST_TYPE": {
+            "VALUE": "UN List"
+          },
+          "LAST_DAY_UPDATED": {
+            "VALUE": ""
+          },
+          "INDIVIDUAL_ALIAS": [
+            {
+              "QUALITY": "Good",
+              "ALIAS_NAME": "Sheikh Ahmed Umar Abu Ubaidah"
+            },
+            {
+              "QUALITY": "Good",
+              "ALIAS_NAME": "Sheikh Omar Abu Ubaidaha"
+            },
+            {
+              "QUALITY": "Good",
+              "ALIAS_NAME": "Sheikh Ahmed Umar"
+            },
+            {
+              "QUALITY": "Good",
+              "ALIAS_NAME": "Sheikh Mahad Omar Abdikarim"
+            },
+            {
+              "QUALITY": "Good",
+              "ALIAS_NAME": "Abu Ubaidah"
+            },
+            {
+              "QUALITY": "Good",
+              "ALIAS_NAME": "Abu Diriye"
+            }
+          ],
+          "INDIVIDUAL_ADDRESS": {
+            "COUNTRY": "Somalia"
+          },
+          "INDIVIDUAL_DATE_OF_BIRTH": {
+            "TYPE_OF_DATE": "APPROXIMATELY",
+            "YEAR": "1972"
+          },
+          "INDIVIDUAL_PLACE_OF_BIRTH": {
+            "COUNTRY": "Somalia"
+          },
+          "INDIVIDUAL_DOCUMENT": "",
+          "SORT_KEY": "",
+          "SORT_KEY_LAST_MOD": ""
+        },
+        {
+          "DATAID": "6908698",
+          "VERSIONNUM": "1",
+          "FIRST_NAME": "Ahmad",
+          "SECOND_NAME": "Iman",
+          "THIRD_NAME": "Ali",
+          "UN_LIST_TYPE": "Somalia",
+          "REFERENCE_NUMBER": "SOi.016",
+          "LISTED_ON": "2018-03-08",
+          "COMMENTS1": "INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals",
+          "GOODQUALITY": "true",
+          "NATIONALITY": {
+            "VALUE": "Kenya"
+          },
+          "LIST_TYPE": {
+            "VALUE": "UN List"
+          },
+          "LAST_DAY_UPDATED": {
+            "VALUE": ""
+          },
+          "INDIVIDUAL_ALIAS": [
+            {
+              "QUALITY": "",
+              "ALIAS_NAME": "",
+              "DATE_OF_BIRTH": "1974"
+            },
+            {
+              "QUALITY": "Good",
+              "ALIAS_NAME": "Sheikh Ahmed Iman Ali"
+            },
+            {
+              "QUALITY": "Good",
+              "ALIAS_NAME": "Shaykh Ahmad Iman Ali"
+            },
+            {
+              "QUALITY": "Good",
+              "ALIAS_NAME": "Ahmed Iman Ali"
+            },
+            {
+              "QUALITY": "Good",
+              "ALIAS_NAME": "Abu Zinira"
+            }
+          ],
+          "INDIVIDUAL_ADDRESS": "",
+          "ADDRESS": "true",
+          "INDIVIDUAL_DATE_OF_BIRTH": {
+            "TYPE_OF_DATE": "APPROXIMATELY",
+            "YEAR": "1973"
+          },
+          "INDIVIDUAL_PLACE_OF_BIRTH": {
+            "COUNTRY": "Kenya"
+          },
+          "INDIVIDUAL_DOCUMENT": "",
+          "SORT_KEY": "",
+          "SORT_KEY_LAST_MOD": ""
+        },
+        {
+          "DATAID": "6908699",
+          "VERSIONNUM": "1",
+          "FIRST_NAME": "Abdifatah",
+          "SECOND_NAME": "Abubakar",
+          "THIRD_NAME": "Abdi",
+          "UN_LIST_TYPE": "Somalia",
+          "REFERENCE_NUMBER": "SOi.017",
+          "LISTED_ON": "2018-03-08",
+          "COMMENTS1": "INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals",
+          "GOODQUALITY": "true",
+          "NATIONALITY": {
+            "VALUE": "Somalia"
+          },
+          "LIST_TYPE": {
+            "VALUE": "UN List"
+          },
+          "LAST_DAY_UPDATED": {
+            "VALUE": ""
+          },
+          "INDIVIDUAL_ALIAS": {
+            "QUALITY": "Good",
+            "ALIAS_NAME": "Musa Muhajir"
+          },
+          "INDIVIDUAL_ADDRESS": [
+            {
+              "COUNTRY": "Somalia"
+            },
+            {
+              "COUNTRY": "Kenya",
+              "CITY": "Mombasa"
+            }
+          ],
+          "INDIVIDUAL_DATE_OF_BIRTH": {
+            "TYPE_OF_DATE": "EXACT",
+            "DATE": "1982-04-15"
+          },
+          "INDIVIDUAL_PLACE_OF_BIRTH": {
+            "COUNTRY": "Somalia"
+          },
+          "INDIVIDUAL_DOCUMENT": "",
+          "SORT_KEY": "",
+          "SORT_KEY_LAST_MOD": ""
+        },
+        {
+          "DATAID": "6908853",
+          "VERSIONNUM": "1",
+          "FIRST_NAME": "ABUKAR",
+          "SECOND_NAME": "ALI",
+          "THIRD_NAME": "ADAN",
+          "UN_LIST_TYPE": "Somalia",
+          "REFERENCE_NUMBER": "SOi.018",
+          "LISTED_ON": "2021-02-26",
+          "COMMENTS1": "Listed pursuant to paragraph 8(a) of resolution 1844 (2008) as “Engaging in or providing support for acts that threaten the peace, security or stability of Somalia, including acts that threaten the Djibouti Agreement of 18 August 2008 or the political process, or threaten the TFIs or AMISOM by force.” Adan is also associated with Al-Qaida affiliates, Al-Qaida in the Arabian Peninsula (AQAP – QDe.129) and Al-Qaida in the Islamic Maghreb (AQIM – Qde.014). INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals",
+          "DESIGNATION": {
+            "VALUE": "Deputy leader of Al-Shabaab"
+          },
+          "DESIG": "true",
+          "GOODQUALITY": "true",
+          "LIST_TYPE": {
+            "VALUE": "UN List"
+          },
+          "LAST_DAY_UPDATED": {
+            "VALUE": ""
+          },
+          "INDIVIDUAL_ALIAS": [
+            {
+              "QUALITY": "",
+              "ALIAS_NAME": "",
+              "DATE_OF_BIRTH": "1971"
+            },
+            {
+              "QUALITY": "",
+              "ALIAS_NAME": "",
+              "DATE_OF_BIRTH": "1973"
+            },
+            {
+              "QUALITY": "Good",
+              "ALIAS_NAME": "Abukar Ali Aden"
+            },
+            {
+              "QUALITY": "Good",
+              "ALIAS_NAME": "Ibrahim Afghan"
+            },
+            {
+              "QUALITY": "Good",
+              "ALIAS_NAME": "Sheikh Abukar"
+            }
+          ],
+          "INDIVIDUAL_ADDRESS": "",
+          "ADDRESS": "true",
+          "INDIVIDUAL_DATE_OF_BIRTH": {
+            "TYPE_OF_DATE": "EXACT",
+            "YEAR": "1972"
+          },
+          "INDIVIDUAL_PLACE_OF_BIRTH": {
+            "COUNTRY": ""
+          },
+          "INDIVIDUAL_DOCUMENT": "",
+          "SORT_KEY": "",
+          "SORT_KEY_LAST_MOD": ""
+        },
+        {
+          "DATAID": "6908854",
+          "VERSIONNUM": "1",
+          "FIRST_NAME": "MAALIM",
+          "SECOND_NAME": "AYMAN",
+          "UN_LIST_TYPE": "Somalia",
+          "REFERENCE_NUMBER": "SOi.019",
+          "LISTED_ON": "2021-02-26",
+          "COMMENTS1": "Listed pursuant to paragraph 8(a) of resolution 1844 (2008) as “Engaging in or providing support for acts that threaten the peace, security or stability of Somalia, including acts that threaten the Djibouti Agreement of 18 August 2008 or the political process, or threaten the TFIs or AMISOM by force.” Ayman helped with preparations for the 5 January 2020 attack on Camp Simba in Lamu County, Kenya.  INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals",
+          "DESIGNATION": {
+            "VALUE": "Founder and leader of Jaysh Ayman, an al-Shabaab unit conducting attacks\n                and operations in Kenya and Somalia"
+          },
+          "DESIG": "true",
+          "GOODQUALITY": "true",
+          "LIST_TYPE": {
+            "VALUE": "UN List"
+          },
+          "LAST_DAY_UPDATED": {
+            "VALUE": ""
+          },
+          "INDIVIDUAL_ALIAS": [
+            {
+              "QUALITY": "",
+              "ALIAS_NAME": "",
+              "DATE_OF_BIRTH": "1983"
+            },
+            {
+              "QUALITY": "Good",
+              "ALIAS_NAME": "Ma’alim Ayman"
+            },
+            {
+              "QUALITY": "Good",
+              "ALIAS_NAME": "Mo’alim Ayman"
+            },
+            {
+              "QUALITY": "Good",
+              "ALIAS_NAME": "Nuh Ibrahim Abdi"
+            },
+            {
+              "QUALITY": "Good",
+              "ALIAS_NAME": "Ayman Kabo"
+            },
+            {
+              "QUALITY": "Good",
+              "ALIAS_NAME": "Abdiaziz Dubow Ali"
+            }
+          ],
+          "INDIVIDUAL_ADDRESS": [
+            {
+              "NOTE": "Kenya/Somalia border"
+            },
+            {
+              "COUNTRY": "Somalia",
+              "CITY": "Badamadow",
+              "STATE_PROVINCE": " Lower Juba Region"
+            }
+          ],
+          "INDIVIDUAL_DATE_OF_BIRTH": {
+            "TYPE_OF_DATE": "EXACT",
+            "YEAR": "1973"
+          },
+          "INDIVIDUAL_PLACE_OF_BIRTH": {
+            "COUNTRY": "Kenya"
+          },
+          "INDIVIDUAL_DOCUMENT": "",
+          "SORT_KEY": "",
+          "SORT_KEY_LAST_MOD": ""
+        },
+        {
+          "DATAID": "6908855",
+          "VERSIONNUM": "1",
+          "FIRST_NAME": "MAHAD",
+          "SECOND_NAME": "KARATE",
+          "UN_LIST_TYPE": "Somalia",
+          "REFERENCE_NUMBER": "SOi.020",
+          "LISTED_ON": "2021-02-26",
+          "COMMENTS1": "Listed pursuant to paragraph 8(a) of resolution 1844 (2008) as “Engaging in or providing support for acts that threaten the peace, security or stability of Somalia, including acts that threaten the Djibouti Agreement of 18 August 2008 or the political process, or threaten the TFIs or AMISOM by force.” Karate played a key role in the Amniyat, the wing of al-Shabaab responsible for the recent attack on Garissa University College in Kenya that resulted in nearly 150 deaths. The Amniyat is al-Shabaab’s intelligence wing, which plays a key role in the execution of suicide attacks and assassinations in Somalia, Kenya, and other countries in the region, and provides logistics and support for al-Shabaab’s terrorist activities.  INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals",
+          "GOODQUALITY": "true",
+          "LIST_TYPE": {
+            "VALUE": "UN List"
+          },
+          "LAST_DAY_UPDATED": {
+            "VALUE": ""
+          },
+          "INDIVIDUAL_ALIAS": [
+            {
+              "QUALITY": "Good",
+              "ALIAS_NAME": "Mahad Mohamed Ali Karate"
+            },
+            {
+              "QUALITY": "Good",
+              "ALIAS_NAME": "Mahad Warsame Qalley Karate"
+            },
+            {
+              "QUALITY": "Good",
+              "ALIAS_NAME": "Abdirahim Mohamed Warsame"
+            }
+          ],
+          "INDIVIDUAL_ADDRESS": {
+            "COUNTRY": "Somalia"
+          },
+          "INDIVIDUAL_DATE_OF_BIRTH": {
+            "TYPE_OF_DATE": "BETWEEN",
+            "FROM_YEAR": "1957",
+            "TO_YEAR": "1962"
+          },
+          "INDIVIDUAL_PLACE_OF_BIRTH": {
+            "STATE_PROVINCE": "Xararadheere",
+            "COUNTRY": "Somalia"
+          },
+          "INDIVIDUAL_DOCUMENT": "",
+          "SORT_KEY": "",
+          "SORT_KEY_LAST_MOD": ""
+        },
+        {
+          "DATAID": "6908868",
+          "VERSIONNUM": "1",
+          "FIRST_NAME": "ALI",
+          "SECOND_NAME": "MOHAMED",
+          "THIRD_NAME": "RAGE",
+          "UN_LIST_TYPE": "Somalia",
+          "REFERENCE_NUMBER": "SOi.021",
+          "LISTED_ON": "2022-02-18",
+          "GENDER": "Male",
+          "COMMENTS1": "Listed pursuant to paragraph 43(a) of resolution 2093 (2013) as “Engaging in or providing support for acts that threaten the peace, security or stability of Somalia, including acts that threaten the peace and reconciliation process in Somalia, or threaten the Federal Government of Somalia or AMISOM by force.” As a spokesperson for Al-Shabaab, Rage is involved in promulgating and supporting the group’s terrorist activities.  INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals",
+          "DESIGNATION": {
+            "VALUE": "Spokesperson of Al-Shabaab"
+          },
+          "DESIG": "true",
+          "GOODQUALITY": "true",
+          "NATIONALITY": {
+            "VALUE": "Somalia"
+          },
+          "LIST_TYPE": {
+            "VALUE": "UN List"
+          },
+          "LAST_DAY_UPDATED": {
+            "VALUE": ""
+          },
+          "INDIVIDUAL_ALIAS": [
+            {
+              "QUALITY": "Good",
+              "ALIAS_NAME": "Ali Mohammed Rage"
+            },
+            {
+              "QUALITY": "Good",
+              "ALIAS_NAME": "Ali Dheere"
+            },
+            {
+              "QUALITY": "Good",
+              "ALIAS_NAME": "Ali Dhere"
+            },
+            {
+              "QUALITY": "Good",
+              "ALIAS_NAME": "Ali Mohamed Rage Cali Dheer"
+            },
+            {
+              "QUALITY": "Good",
+              "ALIAS_NAME": "Ali Mohamud Rage"
+            }
+          ],
+          "INDIVIDUAL_ADDRESS": {
+            "COUNTRY": "Somalia"
+          },
+          "INDIVIDUAL_DATE_OF_BIRTH": {
+            "TYPE_OF_DATE": "EXACT",
+            "YEAR": "1966"
+          },
+          "INDIVIDUAL_PLACE_OF_BIRTH": {
+            "COUNTRY": "Somalia"
+          },
+          "INDIVIDUAL_DOCUMENT": "",
+          "SORT_KEY": "",
+          "SORT_KEY_LAST_MOD": ""
+        },
+        {
+          "DATAID": "6908907",
+          "VERSIONNUM": "1",
+          "FIRST_NAME": "ABDULLAHI",
+          "FOURTH_NAME": "CADDOW",
+          "SECOND_NAME": "OSMAN",
+          "THIRD_NAME": "MOHAMED",
+          "UN_LIST_TYPE": "Somalia",
+          "REFERENCE_NUMBER": "SOi.022",
+          "LISTED_ON": "2023-05-26",
+          "COMMENTS1": "Gender: Male. INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals",
+          "GOODQUALITY": "true",
+          "NATIONALITY": {
+            "VALUE": "Somalia"
+          },
+          "LIST_TYPE": {
+            "VALUE": "UN List"
+          },
+          "LAST_DAY_UPDATED": {
+            "VALUE": ""
+          },
+          "INDIVIDUAL_ALIAS": [
+            {
+              "QUALITY": "Good",
+              "ALIAS_NAME": "Cabdullahi Cusman Maxamed Caddow"
+            },
+            {
+              "QUALITY": "Low",
+              "ALIAS_NAME": "Dhagacade"
+            },
+            {
+              "QUALITY": "Low",
+              "ALIAS_NAME": "Faracade"
+            },
+            {
+              "QUALITY": "Low",
+              "ALIAS_NAME": "Injineer Ismaaciil"
+            },
+            {
+              "QUALITY": "Low",
+              "ALIAS_NAME": "Eng. Ismail"
+            }
+          ],
+          "INDIVIDUAL_ADDRESS": {
+            "COUNTRY": "Somalia"
+          },
+          "INDIVIDUAL_PLACE_OF_BIRTH": {
+            "COUNTRY": ""
+          },
+          "INDIVIDUAL_DOCUMENT": "",
+          "SORT_KEY": "",
+          "SORT_KEY_LAST_MOD": ""
+        },
+        {
+          "DATAID": "6909265",
+          "VERSIONNUM": "1",
+          "FIRST_NAME": "ABDIKADIR",
+          "SECOND_NAME": "MOHAMED",
+          "THIRD_NAME": "ABDIKADIR ",
+          "UN_LIST_TYPE": "Somalia",
+          "REFERENCE_NUMBER": "SOi.023",
+          "LISTED_ON": "2024-05-21",
+          "COMMENTS1": "Gender: Male. Listed pursuant to paragraph 26(b) of resolution 2662 (2022): (i) participating in the financing, planning, facilitating, preparing, or perpetrating of acts or activities by, in conjunction with, under the name of, on behalf of, or in support of Al-Shabaab and\n(iii) recruiting for, or otherwise supporting acts or activities of Al-Shabaab or any cell, affiliate,\nsplinter group or derivative thereof.",
+          "DESIGNATION": {
+            "VALUE": "Designation: Senior Al-Shabaab leader"
+          },
+          "DESIG": "true",
+          "NATIONALITY": {
+            "VALUE": [
+              "Somalia",
+              "Kenya"
+            ]
+          },
+          "LIST_TYPE": {
+            "VALUE": "UN List"
+          },
+          "LAST_DAY_UPDATED": {
+            "VALUE": ""
+          },
+          "INDIVIDUAL_ALIAS": [
+            {
+              "QUALITY": "Low",
+              "ALIAS_NAME": "ABDUKADIR"
+            },
+            {
+              "QUALITY": "Low",
+              "ALIAS_NAME": "ABDUKADIR MOHAMED ABDUKADIR"
+            },
+            {
+              "QUALITY": "Low",
+              "ALIAS_NAME": "ABDULKADIR"
+            },
+            {
+              "QUALITY": "Low",
+              "ALIAS_NAME": "ABDULKADIR MOHAMED ABDULKADIR"
+            },
+            {
+              "QUALITY": "Low",
+              "ALIAS_NAME": "IKRIMA"
+            }
+          ],
+          "INDIVIDUAL_ADDRESS": {
+            "COUNTRY": "Somalia"
+          },
+          "INDIVIDUAL_DATE_OF_BIRTH": {
+            "TYPE_OF_DATE": "EXACT",
+            "YEAR": "1985"
+          },
+          "INDIVIDUAL_PLACE_OF_BIRTH": {
+            "COUNTRY": "Somalia"
+          },
+          "INDIVIDUAL_DOCUMENT": "",
+          "SORT_KEY": "",
+          "SORT_KEY_LAST_MOD": ""
+        },
+        {
+          "DATAID": "6909266",
+          "VERSIONNUM": "1",
+          "FIRST_NAME": "MOHAMED",
+          "SECOND_NAME": " MOHAMUD ",
+          "THIRD_NAME": "MIRE",
+          "UN_LIST_TYPE": "Somalia",
+          "REFERENCE_NUMBER": "SOi.024",
+          "LISTED_ON": "2024-05-21",
+          "COMMENTS1": "Gender: Male. Listed pursuant to paragraph 26 of resolution 2662 (2022): (a) having engaged in, or provided support for, acts that threatened the peace, security or stability of Somalia, including acts that threatened the peace and reconciliation process in Somalia, or threatened the Federal Government of Somalia or ATMIS by force; and (b)(i) participating in the financing, planning, facilitating, preparing, or perpetrating of acts or activities by, in conjunction with, under the name of, on behalf of, or in support of Al-Shabaab.",
+          "DESIGNATION": {
+            "VALUE": "Previously in charge of Zakat; member of Shura of Al-Shabaab"
+          },
+          "DESIG": "true",
+          "NATIONALITY": {
+            "VALUE": "Somalia"
+          },
+          "LIST_TYPE": {
+            "VALUE": "UN List"
+          },
+          "LAST_DAY_UPDATED": {
+            "VALUE": ""
+          },
+          "INDIVIDUAL_ALIAS": {
+            "QUALITY": "Low",
+            "ALIAS_NAME": "MOHAMED MIRE"
+          },
+          "INDIVIDUAL_ADDRESS": [
+            {
+              "COUNTRY": "Somalia",
+              "STATE_PROVINCE": " Jilib"
+            },
+            {
+              "COUNTRY": "Somalia",
+              "STATE_PROVINCE": "Qunyo Barrow"
+            }
+          ],
+          "INDIVIDUAL_DATE_OF_BIRTH": [
+            {
+              "TYPE_OF_DATE": "EXACT",
+              "YEAR": "1962"
+            },
+            {
+              "TYPE_OF_DATE": "EXACT",
+              "YEAR": "1960"
+            },
+            {
+              "TYPE_OF_DATE": "EXACT",
+              "YEAR": "1955"
+            }
+          ],
+          "INDIVIDUAL_PLACE_OF_BIRTH": {
+            "STATE_PROVINCE": "Kismayo",
+            "COUNTRY": "Somalia"
+          },
+          "INDIVIDUAL_DOCUMENT": "",
+          "SORT_KEY": "",
+          "SORT_KEY_LAST_MOD": ""
+        },
+        {
+          "DATAID": "6909267",
+          "VERSIONNUM": "1",
+          "FIRST_NAME": "MOHAMED",
+          "TITLE": {
+            "VALUE": "Wali"
+          },
+          "SECOND_NAME": "OMAR ",
+          "THIRD_NAME": "MOHAMED",
+          "UN_LIST_TYPE": "Somalia",
+          "REFERENCE_NUMBER": "SOi.025",
+          "LISTED_ON": "2024-05-21",
+          "COMMENTS1": "Gender: Male. Listed pursuant to paragraph 26(b) of resolution 2662 (2022): (i) participating in the financing, planning, facilitating, preparing, or perpetrating of acts or activities by, in conjunction with, under the name of, on behalf of, or in support of Al-Shabaab; and (iii) recruiting for, or otherwise supporting acts or activities of Al-Shabaab or any cell, affiliate, splinter group or derivative thereof.",
+          "DESIGNATION": {
+            "VALUE": "Leader (Wali) of the Al-Shabaab group in Diinsor"
+          },
+          "DESIG": "true",
+          "GOODQUALITY": "true",
+          "LIST_TYPE": {
+            "VALUE": "UN List"
+          },
+          "LAST_DAY_UPDATED": {
+            "VALUE": ""
+          },
+          "INDIVIDUAL_ALIAS": [
+            {
+              "QUALITY": "Good",
+              "ALIAS_NAME": "MA’D UMUROW"
+            },
+            {
+              "QUALITY": "Good",
+              "ALIAS_NAME": "MOHAMED OMAR HAJI"
+            },
+            {
+              "QUALITY": "Good",
+              "ALIAS_NAME": "MOHAMED OMAR MA’ALIN"
+            },
+            {
+              "QUALITY": "Good",
+              "ALIAS_NAME": "MOHAMED HAJI OMAR"
+            },
+            {
+              "QUALITY": "Low",
+              "ALIAS_NAME": "MO’ALIN"
+            }
+          ],
+          "INDIVIDUAL_ADDRESS": [
+            {
+              "COUNTRY": "Somalia",
+              "STREET": "Diinsor District, Bay Region"
+            },
+            {
+              "COUNTRY": "Somalia",
+              "STREET": "Buur Hakaba District, Bay Region"
+            }
+          ],
+          "INDIVIDUAL_DATE_OF_BIRTH": {
+            "TYPE_OF_DATE": "EXACT",
+            "YEAR": "1976"
+          },
+          "INDIVIDUAL_PLACE_OF_BIRTH": {
+            "COUNTRY": "Somalia"
+          },
+          "INDIVIDUAL_DOCUMENT": "",
+          "SORT_KEY": "",
+          "SORT_KEY_LAST_MOD": ""
+        }
+      ]
+    },
+    "ENTITIES": {
+      "ENTITY": {
+        "DATAID": "6908033",
+        "VERSIONNUM": "1",
+        "FIRST_NAME": "AL-SHABAAB",
+        "UN_LIST_TYPE": "Somalia",
+        "REFERENCE_NUMBER": "SOe.001",
+        "LISTED_ON": "2010-04-12",
+        "COMMENTS1": "INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals",
+        "LIST_TYPE": {
+          "VALUE": "UN List"
+        },
+        "ENTITY_ALIAS": [
+          {
+            "QUALITY": "a.k.a.",
+            "ALIAS_NAME": "AL-SHABAB"
+          },
+          {
+            "QUALITY": "a.k.a.",
+            "ALIAS_NAME": "SHABAAB"
+          },
+          {
+            "QUALITY": "a.k.a.",
+            "ALIAS_NAME": "THE YOUTH"
+          },
+          {
+            "QUALITY": "a.k.a.",
+            "ALIAS_NAME": "MUJAHIDIN AL-SHABAAB MOVEMENT"
+          },
+          {
+            "QUALITY": "a.k.a.",
+            "ALIAS_NAME": "MUJAHIDEEN YOUTH MOVEMENT"
+          },
+          {
+            "QUALITY": "a.k.a.",
+            "ALIAS_NAME": "MUJAHIDIN YOUTH MOVEMENT"
+          },
+          {
+            "QUALITY": "a.k.a.",
+            "ALIAS_NAME": "MYM"
+          },
+          {
+            "QUALITY": "a.k.a.",
+            "ALIAS_NAME": "HARAKAT SHABAB AL-MUJAHIDIN"
+          },
+          {
+            "QUALITY": "a.k.a.",
+            "ALIAS_NAME": "HIZBUL SHABAAB"
+          },
+          {
+            "QUALITY": "a.k.a.",
+            "ALIAS_NAME": "HISB’UL SHABAAB"
+          },
+          {
+            "QUALITY": "a.k.a.",
+            "ALIAS_NAME": "AL-SHABAAB AL-ISLAMIYA"
+          },
+          {
+            "QUALITY": "a.k.a.",
+            "ALIAS_NAME": "YOUTH WING"
+          },
+          {
+            "QUALITY": "a.k.a.",
+            "ALIAS_NAME": "AL-SHABAAB AL-ISLAAM"
+          },
+          {
+            "QUALITY": "a.k.a.",
+            "ALIAS_NAME": "AL-SHABAAB AL-JIHAAD"
+          },
+          {
+            "QUALITY": "a.k.a.",
+            "ALIAS_NAME": "THE UNITY OF ISLAMIC YOUTH"
+          },
+          {
+            "QUALITY": "a.k.a.",
+            "ALIAS_NAME": "HARAKAT AL - SHABAAB AL - MUJAAHIDIIN"
+          },
+          {
+            "QUALITY": "a.k.a.",
+            "ALIAS_NAME": "HARAKATUL SHABAAB AL MUJAAHIDIIN"
+          },
+          {
+            "QUALITY": "a.k.a.",
+            "ALIAS_NAME": "MUJAAHIDIIN YOUTH MOVEMENT"
+          }
+        ],
+        "ENTITY_ADDRESS": "",
+        "SORT_KEY": "",
+        "SORT_KEY_LAST_MOD": ""
+      }
+    }
+  }
+}
