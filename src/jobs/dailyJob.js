@@ -8,8 +8,6 @@ require('dotenv').config();
 const scheduleTime = process.env.SCHEDULE_TIME;
 const dataStoragePath = process.env.DATA_STORAGE_PATH;
 
-// Read websites from websites.json
-const websites = require('../data/websites.json').websites;
 
 const runDailyJob = () => {
     // Schedule the job to run daily at the specified time

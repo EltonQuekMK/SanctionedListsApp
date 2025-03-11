@@ -1,14 +1,22 @@
-const express = require('express');
 const cron = require('node-cron');
 const { runDailyJob } = require('./jobs/dailyJob');
+const express = require('express');
+const { initialize } = require('./api/webController');
 
 const app = express();
-const PORT = process.env.PORT || 3000;
+
+// Middleware to parse JSON bodies
+app.use(express.json());
+
+const PORT = process.env.PORT || 3001;
+
+// Initialize routes
+initialize(app);
 
 // Schedule the daily job to run at midnight
 // cron.schedule('0 0 * * *', () => {
 //     console.log('Running daily job...');
-runDailyJob();
+//     runDailyJob();
 // });
 
 // Start the server
