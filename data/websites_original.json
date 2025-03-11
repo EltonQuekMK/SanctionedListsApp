@@ -1,80 +1,93 @@
 [
   {
-    "siteName": "UN 1718 | Democratic People’s Republic of Korea",
+    "siteName": "UN 1718 Democratic People’s Republic of Korea",
     "url": "https://scsanctions.un.org/xml/en/dprk",
+    "requirementFrom": "MAS",
     "lastCheckedDate": "2025-03-06T02-46-01-904Z",
-    "transformDataFunction": "notRequired"
+    "transformDataFunction": "transformUNToGeneric"
   },
   {
-    "siteName": "UN 1533 | Democratic Republic of the Congo",
+    "siteName": "UN 1533 Democratic Republic of the Congo",
     "url": "https://scsanctions.un.org/xml/en/drc",
+    "requirementFrom": "MAS",
     "lastCheckedDate": "2025-03-06T02-46-03-794Z",
-    "transformDataFunction": "notRequired"
+    "transformDataFunction": "transformUNToGeneric"
   },
   {
-    "siteName": "UN 1970 | Libya",
+    "siteName": "UN 1970 Libya",
     "url": "https://scsanctions.un.org/xml/en/libya",
+    "requirementFrom": "MAS",
     "lastCheckedDate": "2025-03-06T02-46-05-385Z",
-    "transformDataFunction": "notRequired"
+    "transformDataFunction": "transformUNToGeneric"
   },
   {
-    "siteName": "UN 1844 | Somalia",
+    "siteName": "UN 1844 Somalia",
     "url": "https://scsanctions.un.org/xml/en/somalia",
+    "requirementFrom": "MAS",
     "lastCheckedDate": "2025-03-06T02-46-07-046Z",
-    "transformDataFunction": "notRequired"
+    "transformDataFunction": "transformUNToGeneric"
   },
   {
-    "siteName": "UN 2066 | South Sudan",
+    "siteName": "UN 2066 South Sudan",
     "url": "https://scsanctions.un.org/xml/en/southsudan",
+    "requirementFrom": "MAS",
     "lastCheckedDate": "2025-03-06T02-46-08-369Z",
-    "transformDataFunction": "notRequired"
+    "transformDataFunction": "transformUNToGeneric"
   },
   {
-    "siteName": "UN 1591 | Sudan",
+    "siteName": "UN 1591 Sudan",
     "url": "https://scsanctions.un.org/xml/en/sudan",
+    "requirementFrom": "MAS",
     "lastCheckedDate": "2025-03-06T02-46-09-692Z",
-    "transformDataFunction": "notRequired"
+    "transformDataFunction": "transformUNToGeneric"
   },
   {
-    "siteName": "UN 2140 | Yemen",
+    "siteName": "UN 2140 Yemen",
     "url": "https://scsanctions.un.org/xml/en/yemen",
+    "requirementFrom": "MAS",
     "lastCheckedDate": "2025-03-06T02-46-11-004Z",
-    "transformDataFunction": "notRequired"
+    "transformDataFunction": "transformUNToGeneric"
   },
   {
-    "siteName": "UN | ISIL (Da'esh) & Al-Qaida Sanctions",
+    "siteName": "UN ISIL (Da'esh) & Al-Qaida Sanctions",
     "url": "https://scsanctions.un.org/xml/en/al-qaida",
+    "requirementFrom": "MAS",
     "lastCheckedDate": "2025-03-06T02-46-14-865Z",
-    "transformDataFunction": "notRequired"
+    "transformDataFunction": "transformUNToGeneric"
   },
   {
-    "siteName": "UN 1988 | Taliban",
+    "siteName": "UN 1988 Taliban",
     "url": "https://scsanctions.un.org/xml/en/taliban",
+    "requirementFrom": "MAS",
     "lastCheckedDate": "2025-03-06T02-46-17-405Z",
-    "transformDataFunction": "notRequired"
+    "transformDataFunction": "transformUNToGeneric"
   },
   {
-    "siteName": "EU | Consolidated list of persons, groups and entities subject to EU financial sanctions",
+    "siteName": "EU Consolidated list of persons, groups and entities subject to EU financial sanctions",
     "url": "https://webgate.ec.europa.eu/fsd/fsf/public/files/xmlFullSanctionsList_1_1/content?token=dG9rZW4tMjAxNw",
+    "requirementFrom": "EU",
     "lastCheckedDate": "2025-03-04T08-56-31-632Z",
-    "transformDataFunction": "transformEUToUN"
+    "transformDataFunction": "transformEUToGeneric"
   },
   {
-    "siteName": "EU | Consolidated list of persons subject, under EU sanctions, to travel restrictions",
+    "siteName": "EU Consolidated list of persons subject, under EU sanctions, to travel restrictions",
     "url": "https://www.sanctionsmap.eu/api/v1/travelbans/file/89",
+    "requirementFrom": "EU",
     "lastCheckedDate": "2025-03-04T08-56-34-156Z",
-    "transformDataFunction": "transformEUToUN"
+    "transformDataFunction": "transformEUToGeneric"
   },
   {
-    "siteName": "UN | United Nations Security Council Consolidated List",
+    "siteName": "UN United Nations Security Council Consolidated List",
     "url": "https://scsanctions.un.org/resources/xml/en/consolidated.xml",
+    "requirementFrom": "UN",
     "lastCheckedDate": "2025-03-06T02-46-36-954Z",
-    "transformDataFunction": "notRequired"
+    "transformDataFunction": "transformUNToGeneric"
   },
   {
-    "siteName": "USA | International Trade Administration | Consolidated Screening List ",
+    "siteName": "USA International Trade Administration Consolidated Screening List ",
     "url": "https://data.trade.gov/downloadable_consolidated_screening_list/v1/consolidated.json",
+    "requirementFrom": "USA",
     "lastCheckedDate": "",
-    "transformDataFunction": "transformITAToUN"
+    "transformDataFunction": "transformITAToGeneric"
   }
 ]

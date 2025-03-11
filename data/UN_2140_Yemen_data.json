@@ -1,0 +1,367 @@
+[
+  {
+    "TYPE": "individual",
+    "FIRST_NAME": "ABD",
+    "SECOND_NAME": "AL-KHALIQ",
+    "THIRD_NAME": "AL-HOUTHI",
+    "ALIAS": [
+      {
+        "ALIAS_NAME": "Abd-al-Khaliq al-Huthi"
+      },
+      {
+        "ALIAS_NAME": "Abd-al-Khaliq Badr-al-Din al Huthi"
+      },
+      {
+        "ALIAS_NAME": "‘Abd al-Khaliq Badr al-Din al-Huthi"
+      },
+      {
+        "ALIAS_NAME": "Abd al-Khaliq al-Huthi"
+      },
+      {
+        "ALIAS_NAME": "Abu-Yunus"
+      }
+    ],
+    "ADDRESS": [
+      {}
+    ],
+    "DATE_OF_BIRTH": "",
+    "PLACE_OF_BIRTH": {
+      "COUNTRY": ""
+    },
+    "NAME_ORIGINAL_SCRIPT": "عبدالخالق الحوثي",
+    "TITLE": "",
+    "DESIGNATION": [
+      "Huthi military commander"
+    ],
+    "NATIONALITY": "Yemen",
+    "COMMENTS": "Gender [Male]. INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals"
+  },
+  {
+    "TYPE": "individual",
+    "FIRST_NAME": "ABDULLAH",
+    "SECOND_NAME": "YAHYA",
+    "THIRD_NAME": "AL HAKIM",
+    "ALIAS": [
+      {
+        "ALIAS_NAME": "Abu Ali al Hakim"
+      },
+      {
+        "ALIAS_NAME": "Abu-Ali al-Hakim"
+      },
+      {
+        "ALIAS_NAME": "Abdallah al-Hakim"
+      },
+      {
+        "ALIAS_NAME": "Abu Ali Alhakim"
+      },
+      {
+        "ALIAS_NAME": "Abdallah al-Mu’ayyad"
+      },
+      {
+        "ALIAS_NAME": ""
+      },
+      {
+        "ALIAS_NAME": ""
+      }
+    ],
+    "ADDRESS": [
+      {
+        "COUNTRY": "Yemen",
+        "CITY": "Dahyan",
+        "STATE_PROVINCE": "Sa’dah Governorate"
+      }
+    ],
+    "DATE_OF_BIRTH": "",
+    "PLACE_OF_BIRTH": {
+      "CITY": "Dahyan",
+      "COUNTRY": "Yemen"
+    },
+    "NAME_ORIGINAL_SCRIPT": "عبد الله يحيى الحاكم",
+    "TITLE": "",
+    "DESIGNATION": [
+      "Huthi group second-in-command"
+    ],
+    "NATIONALITY": "Yemen",
+    "COMMENTS": "Gender [Male]. INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals"
+  },
+  {
+    "TYPE": "individual",
+    "FIRST_NAME": "ABDULMALIK",
+    "SECOND_NAME": "AL-HOUTHI",
+    "THIRD_NAME": "",
+    "ALIAS": [],
+    "ADDRESS": [
+      {}
+    ],
+    "DATE_OF_BIRTH": "",
+    "PLACE_OF_BIRTH": {
+      "COUNTRY": ""
+    },
+    "NAME_ORIGINAL_SCRIPT": "",
+    "TITLE": "",
+    "DESIGNATION": [
+      ""
+    ],
+    "NATIONALITY": "",
+    "COMMENTS": "Leader of Yemen's Houthi Movement. Has engaged in acts that threaten the\npeace, security, or stability of Yemen."
+  },
+  {
+    "TYPE": "individual",
+    "FIRST_NAME": "SULTAN",
+    "SECOND_NAME": "SALEH",
+    "THIRD_NAME": "AIDA AIDA",
+    "ALIAS": [
+      {
+        "ALIAS_NAME": "Abu Saqar Zabin"
+      },
+      {
+        "ALIAS_NAME": "Abu Sagar Zabin"
+      }
+    ],
+    "ADDRESS": [
+      {
+        "COUNTRY": "Yemen",
+        "CITY": "Sana’a"
+      }
+    ],
+    "DATE_OF_BIRTH": "",
+    "PLACE_OF_BIRTH": {
+      "CITY": "Razih District, Sa’dah Governorate",
+      "COUNTRY": "Yemen"
+    },
+    "NAME_ORIGINAL_SCRIPT": "",
+    "TITLE": "",
+    "DESIGNATION": [
+      "Director, or General Manager, of the Criminal Investigation Department\n                (CID), Sana’a based ministry of interior, in Sana’a, Yemen",
+      "Brigadier"
+    ],
+    "NATIONALITY": "Yemen",
+    "COMMENTS": "Sultan Saleh Aida Aida Zabin has engaged in acts that threaten the peace, security and stability of Yemen, including violations of applicable international humanitarian law and human rights abuses in Yemen. Zabin has played a prominent role in a policy of intimidation and use of systematic arrest, detention, torture, sexual violence and rape against politically active women. Zabin as director for CID is directly responsible for, or by virtue of his authority responsible for, and complicit in the use of multiple places of detention including house arrest, police stations, formal prisons and detention centres and undisclosed detention centres. In these sites, women, including at least one minor, were forcibly disappeared, repeatedly interrogated, raped, tortured, denied timely medical treatment and subjected to forced labour. Zabin himself directly inflicted torture in some cases. INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals"
+  },
+  {
+    "TYPE": "individual",
+    "FIRST_NAME": "SALEH",
+    "SECOND_NAME": "MESFER",
+    "THIRD_NAME": "SALEH",
+    "ALIAS": [
+      {
+        "ALIAS_NAME": "Saleh Mosfer Saleh al Shaer"
+      },
+      {
+        "ALIAS_NAME": "Saleh Musfer Saleh al Shaer"
+      },
+      {
+        "ALIAS_NAME": "Saleh Mesfer al Shaer"
+      },
+      {
+        "ALIAS_NAME": "Saleh al Shae"
+      },
+      {
+        "ALIAS_NAME": "Saleh al Sha’ir"
+      },
+      {
+        "ALIAS_NAME": "Abu Yasser"
+      }
+    ],
+    "ADDRESS": [
+      {
+        "COUNTRY": "Yemen"
+      }
+    ],
+    "DATE_OF_BIRTH": "",
+    "PLACE_OF_BIRTH": {
+      "STATE_PROVINCE": "Al Safrah, Sa’dah Governorate",
+      "COUNTRY": "Yemen"
+    },
+    "NAME_ORIGINAL_SCRIPT": "صالح مسفر صالح الشاعر ",
+    "TITLE": "",
+    "DESIGNATION": [
+      "Major General, ‘Judicial Custodian’ of properties and funds owned by\n                Houthis’ opponents"
+    ],
+    "NATIONALITY": "Yemen",
+    "COMMENTS": "As Houthi ‘Assistant Minister of Defence for Logistics’, assisted the Houthis in acquiring smuggled arms and weapons. As ‘Judicial Custodian’ directly involved in the widespread and unlawful appropriation of assets and entities owned by private individuals under arrest by the Houthis or forced to take refuge outside of Yemen. Physical Description: Eye Colour: Brown; Hair: Grey; Complexion: Medium; Build: Slim; Height (ft/in): Unknown; Weight (lbs): Unknown; and Clan: Member of the Hashid tribal confederacy. Photograph available for inclusion in INTERPOL-UNSC Special Notice web link: INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals"
+  },
+  {
+    "TYPE": "individual",
+    "FIRST_NAME": "MUHAMMAD",
+    "SECOND_NAME": "ABD AL-KARIM",
+    "THIRD_NAME": "AL-GHAMARI",
+    "ALIAS": [],
+    "ADDRESS": [
+      {
+        "COUNTRY": "Yemen"
+      }
+    ],
+    "DATE_OF_BIRTH": "",
+    "PLACE_OF_BIRTH": {
+      "STATE_PROVINCE": "Izla Dhaen, Wahha District, Hajjar Governorate",
+      "COUNTRY": "Yemen"
+    },
+    "NAME_ORIGINAL_SCRIPT": "محمد عبدالكريم الغماري ",
+    "TITLE": "",
+    "DESIGNATION": [
+      "Major General, Houthi Chief of General Staff"
+    ],
+    "NATIONALITY": "Yemen",
+    "COMMENTS": "Houthi Military Chief of General Staff, plays the leading role in orchestrating the Houthis’ military efforts that are directly threatening the peace, security and stability of Yemen, including in Marib, as well as cross-border attacks against Saudi Arabia. Photograph available for inclusion in INTERPOL-UN Security Council Special Notice web link:  INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals"
+  },
+  {
+    "TYPE": "individual",
+    "FIRST_NAME": "YUSUF",
+    "SECOND_NAME": "AL-MADANI",
+    "THIRD_NAME": "",
+    "ALIAS": [],
+    "ADDRESS": [
+      {
+        "COUNTRY": "Yemen"
+      }
+    ],
+    "DATE_OF_BIRTH": "",
+    "PLACE_OF_BIRTH": {
+      "STATE_PROVINCE": "Muhatta Directorate, Hajjah Province",
+      "COUNTRY": "Yemen"
+    },
+    "NAME_ORIGINAL_SCRIPT": "يوسف المداني",
+    "TITLE": "Major General",
+    "DESIGNATION": [
+      "Commander of the Houthi’s Fifth Military Region"
+    ],
+    "NATIONALITY": "Yemen",
+    "COMMENTS": "A prominent leader of Houthi forces and commander of forces in Hudaydah, Hajjah, Al Mahwit, and Raymah, Yemen – threatening the peace, security, and stability of Yemen. As of 2021, Al-Madani was assigned to the offensive targeting Marib. Photograph available for inclusion in INTERPOL-UN Security Council Special Notice web link:  INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals"
+  },
+  {
+    "TYPE": "individual",
+    "FIRST_NAME": "MANSUR",
+    "SECOND_NAME": "AL-SA’ADI",
+    "THIRD_NAME": "",
+    "ALIAS": [
+      {
+        "ALIAS_NAME": "Mansoor Ahmed Al Saadi"
+      },
+      {
+        "ALIAS_NAME": "Mansur Ahmad al-Sa’adi"
+      },
+      {
+        "ALIAS_NAME": "Abu Sajjad"
+      }
+    ],
+    "ADDRESS": [
+      {
+        "COUNTRY": "Yemen"
+      }
+    ],
+    "DATE_OF_BIRTH": "",
+    "PLACE_OF_BIRTH": {
+      "COUNTRY": "Yemen"
+    },
+    "NAME_ORIGINAL_SCRIPT": "منصور السعادي",
+    "TITLE": "",
+    "DESIGNATION": [
+      "Major General, Houthi Commander of Yemen's Naval and Coastal Defense\n                Forces"
+    ],
+    "NATIONALITY": "Yemen",
+    "COMMENTS": "Houthi Naval Forces Chief of Staff, who has masterminded lethal attacks against international shipping in the Red Sea, plays a leading role in Houthi naval efforts that directly threaten the peace, security, and stability of Yemen. Physical Description: Eye Color: Brown; Hair: Brown. INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals"
+  },
+  {
+    "TYPE": "individual",
+    "FIRST_NAME": "MOTLAQ",
+    "SECOND_NAME": "AMER",
+    "THIRD_NAME": "AL-MARRANI",
+    "ALIAS": [
+      {
+        "ALIAS_NAME": "Mutlaq Ali Aamer Al Marrani"
+      },
+      {
+        "ALIAS_NAME": "Abu Emad"
+      }
+    ],
+    "ADDRESS": [
+      {
+        "COUNTRY": "Yemen"
+      }
+    ],
+    "DATE_OF_BIRTH": "",
+    "PLACE_OF_BIRTH": {
+      "CITY": "Al-Jawf",
+      "COUNTRY": "Yemen"
+    },
+    "NAME_ORIGINAL_SCRIPT": "مطلق عامر المراني",
+    "TITLE": "",
+    "DESIGNATION": [
+      "(Former) Deputy Head of the Houthi National Security Bureau (NSB)\n                (intelligence agency)"
+    ],
+    "NATIONALITY": "Yemen",
+    "COMMENTS": "Former Deputy Head of the Houthi National Security Bureau (NSB), oversaw detainees of the NSB who were subjected to torture and other mistreatment while detained, planned and directed illegal arrests and detention of humanitarian workers and the unlawful diversion of humanitarian assistance in violation of international humanitarian law. Physical Description: Eye Color: Brown; Hair: Brown. INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals"
+  },
+  {
+    "TYPE": "individual",
+    "FIRST_NAME": "AHMAD",
+    "SECOND_NAME": "AL-HAMZI",
+    "THIRD_NAME": "",
+    "ALIAS": [
+      {
+        "ALIAS_NAME": "Ahmad 'Ali al-Hamzi"
+      },
+      {
+        "ALIAS_NAME": "Ahmad 'Ali Ahsan al-Hamzi"
+      },
+      {
+        "ALIAS_NAME": "Ahmed Ali al-Hamzi"
+      },
+      {
+        "ALIAS_NAME": "Muti al-Hamzi"
+      }
+    ],
+    "ADDRESS": [
+      {
+        "COUNTRY": "Yemen"
+      }
+    ],
+    "DATE_OF_BIRTH": "",
+    "PLACE_OF_BIRTH": {
+      "CITY": "Sana'a",
+      "COUNTRY": "Yemen"
+    },
+    "NAME_ORIGINAL_SCRIPT": "أحمد الحمزي",
+    "TITLE": "",
+    "DESIGNATION": [
+      "Major General, Commander of the Houthi Air Force and Air Defense\n                Forces"
+    ],
+    "NATIONALITY": "Yemen",
+    "COMMENTS": "Ahmad al-Hamzi, the commander of the Houthi Air Force and Air Defense Forces, as well as its UAV program, plays a leading role in Houthi military efforts that directly threaten the peace, security, and stability of Yemen. Physical Description: Eye Color: Brown; Hair: Brown. INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals"
+  },
+  {
+    "TYPE": "entity",
+    "FIRST_NAME": "THE HOUTHIS",
+    "SECOND_NAME": "",
+    "THIRD_NAME": "",
+    "ALIAS": [
+      {
+        "ALIAS_NAME": "ANSARALLAH"
+      },
+      {
+        "ALIAS_NAME": "ANSAR ALLAH"
+      },
+      {
+        "ALIAS_NAME": "PARTISANS OF GOD"
+      },
+      {
+        "ALIAS_NAME": "SUPPORTERS OF GOD"
+      }
+    ],
+    "ADDRESS": [
+      {
+        "COUNTRY": "Yemen"
+      }
+    ],
+    "DATE_OF_BIRTH": "",
+    "PLACE_OF_BIRTH": {},
+    "NAME_ORIGINAL_SCRIPT": "",
+    "TITLE": "",
+    "DESIGNATION": [
+      ""
+    ],
+    "NATIONALITY": "",
+    "COMMENTS": "Listed pursuant to paragraph 5 of resolution 2624 (2022) as subject to the measures imposed by paragraph 14 of resolution 2216 (2015) (targeted arms embargo). The Houthis have engaged in acts that threaten the peace, security, and stability of Yemen. The Houthis have engaged in attacks striking civilians and civilian infrastructure in Yemen, implemented a policy of sexual violence and repression against politically active and professional women, engaged in the recruitment and use of children, incited violence against groups including on the basis of religion and nationality, and indiscriminately used landmines and improvised explosive devices on the West Coast of Yemen. The Houthis have also obstructed the delivery of humanitarian assistance to Yemen, or access to, or distribution of, humanitarian assistance in Yemen. The Houthis have conducted attacks on commercial shipping in the Red Sea using waterborne improvised explosive devices and sea mines. The Houthis have also perpetrated repeated cross-border terrorist attacks striking civilians and civilian infrastructure in the Kingdom of Saudi Arabia and the United Arab Emirates and threatened to intentionally target civilian sites.    INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals"
+  }
+]

@@ -1,0 +1,1100 @@
+[
+  {
+    "TYPE": "individual",
+    "FIRST_NAME": "Yasin",
+    "SECOND_NAME": "Ali",
+    "THIRD_NAME": "Baynah",
+    "ALIAS": [
+      {
+        "ALIAS_NAME": "ALI, Yasin Baynah"
+      },
+      {
+        "ALIAS_NAME": "ALI, Yassin Mohamed"
+      },
+      {
+        "ALIAS_NAME": "BAYNAH, Yasin"
+      },
+      {
+        "ALIAS_NAME": "BAYNAH, Yassin"
+      },
+      {
+        "ALIAS_NAME": "BAYNAX, Yasiin Cali"
+      },
+      {
+        "ALIAS_NAME": "BEENAH, Yasin"
+      },
+      {
+        "ALIAS_NAME": "BEENAH, Yassin"
+      },
+      {
+        "ALIAS_NAME": "BEENAX, Yasin"
+      },
+      {
+        "ALIAS_NAME": "BEENAX, Yassin"
+      },
+      {
+        "ALIAS_NAME": "BENAH, Yasin"
+      },
+      {
+        "ALIAS_NAME": "BENAH, Yassin"
+      },
+      {
+        "ALIAS_NAME": "BENAX, Yassin"
+      },
+      {
+        "ALIAS_NAME": "BEYNAH, Yasin"
+      },
+      {
+        "ALIAS_NAME": "BINAH, Yassin"
+      },
+      {
+        "ALIAS_NAME": "CALI, Yasiin Baynax"
+      }
+    ],
+    "ADDRESS": [
+      {
+        "COUNTRY": "Sweden",
+        "CITY": "Rinkeby, Stockholm"
+      },
+      {
+        "COUNTRY": "Somalia",
+        "CITY": "Mogadishu"
+      }
+    ],
+    "DATE_OF_BIRTH": "",
+    "PLACE_OF_BIRTH": {
+      "COUNTRY": ""
+    },
+    "NAME_ORIGINAL_SCRIPT": "",
+    "TITLE": "",
+    "DESIGNATION": [
+      ""
+    ],
+    "NATIONALITY": "Somalia, Sweden",
+    "COMMENTS": "INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals"
+  },
+  {
+    "TYPE": "individual",
+    "FIRST_NAME": "HASSAN",
+    "SECOND_NAME": "DAHIR",
+    "THIRD_NAME": "AWEYS",
+    "ALIAS": [
+      {
+        "ALIAS_NAME": "ALI, Sheikh Hassan Dahir Aweys"
+      },
+      {
+        "ALIAS_NAME": "AWES, Hassan Dahir"
+      },
+      {
+        "ALIAS_NAME": "AWES, Shaykh Hassan Dahir"
+      },
+      {
+        "ALIAS_NAME": "AWEYES, Hassen Dahir"
+      },
+      {
+        "ALIAS_NAME": "AWEYS, Ahmed Dahir"
+      },
+      {
+        "ALIAS_NAME": "AWEYS, Sheikh"
+      },
+      {
+        "ALIAS_NAME": "AWEYS, Sheikh Hassan Dahir"
+      },
+      {
+        "ALIAS_NAME": "DAHIR, Aweys Hassan"
+      },
+      {
+        "ALIAS_NAME": "IBRAHIM, Mohammed Hassan"
+      },
+      {
+        "ALIAS_NAME": "OAIS, Hassan Tahir"
+      },
+      {
+        "ALIAS_NAME": "UWAYS, Hassan Tahir"
+      },
+      {
+        "ALIAS_NAME": "\"HASSAN, Sheikh\""
+      }
+    ],
+    "ADDRESS": [
+      {
+        "COUNTRY": "Somalia"
+      }
+    ],
+    "DATE_OF_BIRTH": "",
+    "PLACE_OF_BIRTH": {
+      "COUNTRY": ""
+    },
+    "NAME_ORIGINAL_SCRIPT": "",
+    "TITLE": "",
+    "DESIGNATION": [
+      ""
+    ],
+    "NATIONALITY": "Somalia",
+    "COMMENTS": "INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals"
+  },
+  {
+    "TYPE": "individual",
+    "FIRST_NAME": "HASSAN",
+    "SECOND_NAME": "ABDULLAH",
+    "THIRD_NAME": "HERSI",
+    "ALIAS": [
+      {
+        "ALIAS_NAME": "AL-TURKI, Hassan"
+      },
+      {
+        "ALIAS_NAME": "TURKI, Hassan"
+      },
+      {
+        "ALIAS_NAME": "TURKI, Hassan Abdillahi Hersi"
+      },
+      {
+        "ALIAS_NAME": "TURKI, Sheikh Hassan"
+      },
+      {
+        "ALIAS_NAME": "XIRSI, Xasan Cabdilaahi"
+      },
+      {
+        "ALIAS_NAME": "XIRSI, Xasan Cabdulle"
+      }
+    ],
+    "ADDRESS": [
+      {
+        "COUNTRY": "Somalia"
+      }
+    ],
+    "DATE_OF_BIRTH": "",
+    "PLACE_OF_BIRTH": {
+      "STATE_PROVINCE": "Ogaden Region",
+      "COUNTRY": "Ethiopia"
+    },
+    "NAME_ORIGINAL_SCRIPT": "",
+    "TITLE": "",
+    "DESIGNATION": [
+      ""
+    ],
+    "NATIONALITY": "Somalia",
+    "COMMENTS": "INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals"
+  },
+  {
+    "TYPE": "individual",
+    "FIRST_NAME": "AHMED",
+    "SECOND_NAME": "ABDI",
+    "THIRD_NAME": "AW-MOHAMED",
+    "ALIAS": [
+      {
+        "ALIAS_NAME": "ABU ZUBEYR, Muktar Abdirahman"
+      },
+      {
+        "ALIAS_NAME": "ABUZUBAIR, Muktar Abdulrahim"
+      },
+      {
+        "ALIAS_NAME": "AW MOHAMMED, Ahmed Abdi"
+      },
+      {
+        "ALIAS_NAME": "AW-MOHAMUD, Ahmed Abdi"
+      },
+      {
+        "ALIAS_NAME": "\"GODANE\""
+      },
+      {
+        "ALIAS_NAME": "\"GODANI\""
+      },
+      {
+        "ALIAS_NAME": "\"MUKHTAR, Shaykh\""
+      },
+      {
+        "ALIAS_NAME": "\"ZUBEYR, Abu\""
+      }
+    ],
+    "ADDRESS": [
+      {}
+    ],
+    "DATE_OF_BIRTH": "",
+    "PLACE_OF_BIRTH": {
+      "CITY": "Hargeysa",
+      "COUNTRY": "Somalia"
+    },
+    "NAME_ORIGINAL_SCRIPT": "",
+    "TITLE": "",
+    "DESIGNATION": [
+      ""
+    ],
+    "NATIONALITY": "Somalia",
+    "COMMENTS": "INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals"
+  },
+  {
+    "TYPE": "individual",
+    "FIRST_NAME": "FUAD",
+    "SECOND_NAME": "MOHAMED",
+    "THIRD_NAME": "KHALAF",
+    "ALIAS": [
+      {
+        "ALIAS_NAME": "Fuad Mohamed Khalif"
+      },
+      {
+        "ALIAS_NAME": "Fuad Mohamed Qalaf"
+      },
+      {
+        "ALIAS_NAME": "Fuad Mohammed Kalaf"
+      },
+      {
+        "ALIAS_NAME": "Fuad Mohamed Kalaf"
+      },
+      {
+        "ALIAS_NAME": "Fuad Mohammed Khalif"
+      },
+      {
+        "ALIAS_NAME": "Fuad Khalaf"
+      },
+      {
+        "ALIAS_NAME": "Fuad Shongale"
+      },
+      {
+        "ALIAS_NAME": "Fuad Shongole"
+      },
+      {
+        "ALIAS_NAME": "Fuad Shangole"
+      },
+      {
+        "ALIAS_NAME": "Fuad Songale"
+      },
+      {
+        "ALIAS_NAME": "Fouad Shongale"
+      },
+      {
+        "ALIAS_NAME": "Fuad Muhammad Khalaf Shongole"
+      }
+    ],
+    "ADDRESS": [
+      {
+        "COUNTRY": "Somalia",
+        "CITY": "Mogadishu"
+      },
+      {
+        "COUNTRY": "Somalia"
+      }
+    ],
+    "DATE_OF_BIRTH": "",
+    "PLACE_OF_BIRTH": {
+      "COUNTRY": ""
+    },
+    "NAME_ORIGINAL_SCRIPT": "",
+    "TITLE": "",
+    "DESIGNATION": [
+      ""
+    ],
+    "NATIONALITY": "Somalia",
+    "COMMENTS": ""
+  },
+  {
+    "TYPE": "individual",
+    "FIRST_NAME": "BASHIR",
+    "SECOND_NAME": "MOHAMED",
+    "THIRD_NAME": "MAHAMOUD",
+    "ALIAS": [
+      {
+        "ALIAS_NAME": ""
+      },
+      {
+        "ALIAS_NAME": ""
+      },
+      {
+        "ALIAS_NAME": ""
+      },
+      {
+        "ALIAS_NAME": "Bashir Mohamed Mahmoud"
+      },
+      {
+        "ALIAS_NAME": "Bashir Mahmud Mohammed"
+      },
+      {
+        "ALIAS_NAME": "Bashir Mohamed Mohamud"
+      },
+      {
+        "ALIAS_NAME": "Bashir Mohamed Mohamoud"
+      },
+      {
+        "ALIAS_NAME": "Bashir Yare"
+      },
+      {
+        "ALIAS_NAME": "Bashir Qorgab"
+      },
+      {
+        "ALIAS_NAME": "Gure Gap"
+      },
+      {
+        "ALIAS_NAME": "\"Abu Muscab\""
+      },
+      {
+        "ALIAS_NAME": "\"Qorgab\""
+      }
+    ],
+    "ADDRESS": [
+      {
+        "COUNTRY": "Somalia",
+        "CITY": "Mogadishu"
+      }
+    ],
+    "DATE_OF_BIRTH": "",
+    "PLACE_OF_BIRTH": {
+      "COUNTRY": ""
+    },
+    "NAME_ORIGINAL_SCRIPT": "",
+    "TITLE": "",
+    "DESIGNATION": [
+      ""
+    ],
+    "NATIONALITY": "Somalia",
+    "COMMENTS": "INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals"
+  },
+  {
+    "TYPE": "individual",
+    "FIRST_NAME": "FARES",
+    "SECOND_NAME": "MOHAMMED",
+    "THIRD_NAME": "MANA'A",
+    "ALIAS": [
+      {
+        "ALIAS_NAME": "Faris Mana'a"
+      },
+      {
+        "ALIAS_NAME": "Fares Mohammed Manaa"
+      }
+    ],
+    "ADDRESS": [
+      {}
+    ],
+    "DATE_OF_BIRTH": "",
+    "PLACE_OF_BIRTH": {
+      "CITY": "Sadah",
+      "COUNTRY": "Yemen"
+    },
+    "NAME_ORIGINAL_SCRIPT": "",
+    "TITLE": "",
+    "DESIGNATION": [
+      ""
+    ],
+    "NATIONALITY": "",
+    "COMMENTS": "INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals"
+  },
+  {
+    "TYPE": "individual",
+    "FIRST_NAME": "HASSAN",
+    "SECOND_NAME": "MAHAT",
+    "THIRD_NAME": "OMAR",
+    "ALIAS": [
+      {
+        "ALIAS_NAME": "Hassaan Hussein Adam"
+      },
+      {
+        "ALIAS_NAME": "Hassane Mahad Omar"
+      },
+      {
+        "ALIAS_NAME": "Xassaan Xuseen Adan"
+      },
+      {
+        "ALIAS_NAME": "Asan Mahad Cumar"
+      },
+      {
+        "ALIAS_NAME": "Abu Salman"
+      },
+      {
+        "ALIAS_NAME": "Abu Salmaan"
+      },
+      {
+        "ALIAS_NAME": "Sheikh Hassaan Hussein"
+      }
+    ],
+    "ADDRESS": [
+      {
+        "COUNTRY": "Kenya",
+        "CITY": "Nairobi"
+      }
+    ],
+    "DATE_OF_BIRTH": "",
+    "PLACE_OF_BIRTH": {
+      "CITY": "Garissa",
+      "COUNTRY": "Kenya"
+    },
+    "NAME_ORIGINAL_SCRIPT": "",
+    "TITLE": "",
+    "DESIGNATION": [
+      ""
+    ],
+    "NATIONALITY": "Ethiopia",
+    "COMMENTS": "INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals"
+  },
+  {
+    "TYPE": "individual",
+    "FIRST_NAME": "OMAR",
+    "SECOND_NAME": "HAMMAMI",
+    "THIRD_NAME": "",
+    "ALIAS": [
+      {
+        "ALIAS_NAME": "Abu Maansuur Al-Amriki"
+      },
+      {
+        "ALIAS_NAME": "Abu Mansour Al-Amriki"
+      },
+      {
+        "ALIAS_NAME": "Abu Mansuur Al-Amriki"
+      },
+      {
+        "ALIAS_NAME": "Umar Hammami"
+      },
+      {
+        "ALIAS_NAME": "Abu Mansur Al-Amriki"
+      }
+    ],
+    "ADDRESS": [
+      {
+        "COUNTRY": "Somalia"
+      }
+    ],
+    "DATE_OF_BIRTH": "",
+    "PLACE_OF_BIRTH": {
+      "CITY": "Alabama",
+      "COUNTRY": "United States of America"
+    },
+    "NAME_ORIGINAL_SCRIPT": "",
+    "TITLE": "",
+    "DESIGNATION": [
+      ""
+    ],
+    "NATIONALITY": "United States of America",
+    "COMMENTS": "Married to a Somali woman. Lived in Egypt in 2005 and moved to Somalia in\n2009. INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals"
+  },
+  {
+    "TYPE": "individual",
+    "FIRST_NAME": "ABOUD",
+    "SECOND_NAME": "ROGO",
+    "THIRD_NAME": "MOHAMMED",
+    "ALIAS": [
+      {
+        "ALIAS_NAME": ""
+      },
+      {
+        "ALIAS_NAME": ""
+      },
+      {
+        "ALIAS_NAME": ""
+      },
+      {
+        "ALIAS_NAME": "Aboud Mohammad Rogo"
+      },
+      {
+        "ALIAS_NAME": "Aboud Seif Rogo"
+      },
+      {
+        "ALIAS_NAME": "Aboud Mohammed Rogo"
+      },
+      {
+        "ALIAS_NAME": "Sheikh Aboud Rogo"
+      },
+      {
+        "ALIAS_NAME": "Aboud Rogo Muhammad"
+      },
+      {
+        "ALIAS_NAME": "Aboud Rogo Mohamed"
+      }
+    ],
+    "ADDRESS": [
+      {}
+    ],
+    "DATE_OF_BIRTH": "",
+    "PLACE_OF_BIRTH": {
+      "CITY": "Lamu Island",
+      "COUNTRY": "Kenya"
+    },
+    "NAME_ORIGINAL_SCRIPT": "",
+    "TITLE": "",
+    "DESIGNATION": [
+      ""
+    ],
+    "NATIONALITY": "",
+    "COMMENTS": "INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals"
+  },
+  {
+    "TYPE": "individual",
+    "FIRST_NAME": "ABUBAKER",
+    "SECOND_NAME": "SHARIFF",
+    "THIRD_NAME": "AHMED",
+    "ALIAS": [
+      {
+        "ALIAS_NAME": ""
+      },
+      {
+        "ALIAS_NAME": "Makaburi"
+      },
+      {
+        "ALIAS_NAME": "Sheikh Abubakar Ahmed"
+      },
+      {
+        "ALIAS_NAME": "Abubaker Shariff Ahmed"
+      },
+      {
+        "ALIAS_NAME": "Abu Makaburi Shariff"
+      },
+      {
+        "ALIAS_NAME": "Abubaker Shariff"
+      },
+      {
+        "ALIAS_NAME": "Abubakar Ahmed"
+      }
+    ],
+    "ADDRESS": [
+      {
+        "COUNTRY": "Kenya",
+        "CITY": "Majengo area, Mombasa"
+      }
+    ],
+    "DATE_OF_BIRTH": "",
+    "PLACE_OF_BIRTH": {
+      "COUNTRY": "Kenya"
+    },
+    "NAME_ORIGINAL_SCRIPT": "",
+    "TITLE": "",
+    "DESIGNATION": [
+      ""
+    ],
+    "NATIONALITY": "",
+    "COMMENTS": "INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals"
+  },
+  {
+    "TYPE": "individual",
+    "FIRST_NAME": "MAALIM",
+    "SECOND_NAME": "SALMAN",
+    "THIRD_NAME": "",
+    "ALIAS": [
+      {
+        "ALIAS_NAME": "Mu’alim Salman"
+      },
+      {
+        "ALIAS_NAME": "Mualem Suleiman"
+      },
+      {
+        "ALIAS_NAME": "Ameer Salman"
+      },
+      {
+        "ALIAS_NAME": "Ma’alim Suleiman"
+      },
+      {
+        "ALIAS_NAME": "Maalim Salman Ali"
+      },
+      {
+        "ALIAS_NAME": "Maalim Selman Ali"
+      },
+      {
+        "ALIAS_NAME": "Ma’alim Selman"
+      },
+      {
+        "ALIAS_NAME": "Ma’alin Sulayman"
+      }
+    ],
+    "ADDRESS": [
+      {
+        "COUNTRY": "Somalia"
+      }
+    ],
+    "DATE_OF_BIRTH": "",
+    "PLACE_OF_BIRTH": {
+      "CITY": "Nairobi",
+      "COUNTRY": "Kenya"
+    },
+    "NAME_ORIGINAL_SCRIPT": "",
+    "TITLE": "",
+    "DESIGNATION": [
+      ""
+    ],
+    "NATIONALITY": "",
+    "COMMENTS": "INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals"
+  },
+  {
+    "TYPE": "individual",
+    "FIRST_NAME": "AHMED",
+    "SECOND_NAME": "DIRIYE",
+    "THIRD_NAME": "",
+    "ALIAS": [
+      {
+        "ALIAS_NAME": "Sheikh Ahmed Umar Abu Ubaidah"
+      },
+      {
+        "ALIAS_NAME": "Sheikh Omar Abu Ubaidaha"
+      },
+      {
+        "ALIAS_NAME": "Sheikh Ahmed Umar"
+      },
+      {
+        "ALIAS_NAME": "Sheikh Mahad Omar Abdikarim"
+      },
+      {
+        "ALIAS_NAME": "Abu Ubaidah"
+      },
+      {
+        "ALIAS_NAME": "Abu Diriye"
+      }
+    ],
+    "ADDRESS": [
+      {
+        "COUNTRY": "Somalia"
+      }
+    ],
+    "DATE_OF_BIRTH": "",
+    "PLACE_OF_BIRTH": {
+      "COUNTRY": "Somalia"
+    },
+    "NAME_ORIGINAL_SCRIPT": "",
+    "TITLE": "",
+    "DESIGNATION": [
+      ""
+    ],
+    "NATIONALITY": "",
+    "COMMENTS": "INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals"
+  },
+  {
+    "TYPE": "individual",
+    "FIRST_NAME": "Ahmad",
+    "SECOND_NAME": "Iman",
+    "THIRD_NAME": "Ali",
+    "ALIAS": [
+      {
+        "ALIAS_NAME": ""
+      },
+      {
+        "ALIAS_NAME": "Sheikh Ahmed Iman Ali"
+      },
+      {
+        "ALIAS_NAME": "Shaykh Ahmad Iman Ali"
+      },
+      {
+        "ALIAS_NAME": "Ahmed Iman Ali"
+      },
+      {
+        "ALIAS_NAME": "Abu Zinira"
+      }
+    ],
+    "ADDRESS": [
+      {}
+    ],
+    "DATE_OF_BIRTH": "",
+    "PLACE_OF_BIRTH": {
+      "COUNTRY": "Kenya"
+    },
+    "NAME_ORIGINAL_SCRIPT": "",
+    "TITLE": "",
+    "DESIGNATION": [
+      ""
+    ],
+    "NATIONALITY": "Kenya",
+    "COMMENTS": "INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals"
+  },
+  {
+    "TYPE": "individual",
+    "FIRST_NAME": "Abdifatah",
+    "SECOND_NAME": "Abubakar",
+    "THIRD_NAME": "Abdi",
+    "ALIAS": [],
+    "ADDRESS": [
+      {
+        "COUNTRY": "Somalia"
+      },
+      {
+        "COUNTRY": "Kenya",
+        "CITY": "Mombasa"
+      }
+    ],
+    "DATE_OF_BIRTH": "",
+    "PLACE_OF_BIRTH": {
+      "COUNTRY": "Somalia"
+    },
+    "NAME_ORIGINAL_SCRIPT": "",
+    "TITLE": "",
+    "DESIGNATION": [
+      ""
+    ],
+    "NATIONALITY": "Somalia",
+    "COMMENTS": "INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals"
+  },
+  {
+    "TYPE": "individual",
+    "FIRST_NAME": "ABUKAR",
+    "SECOND_NAME": "ALI",
+    "THIRD_NAME": "ADAN",
+    "ALIAS": [
+      {
+        "ALIAS_NAME": ""
+      },
+      {
+        "ALIAS_NAME": ""
+      },
+      {
+        "ALIAS_NAME": "Abukar Ali Aden"
+      },
+      {
+        "ALIAS_NAME": "Ibrahim Afghan"
+      },
+      {
+        "ALIAS_NAME": "Sheikh Abukar"
+      }
+    ],
+    "ADDRESS": [
+      {}
+    ],
+    "DATE_OF_BIRTH": "",
+    "PLACE_OF_BIRTH": {
+      "COUNTRY": ""
+    },
+    "NAME_ORIGINAL_SCRIPT": "",
+    "TITLE": "",
+    "DESIGNATION": [
+      "Deputy leader of Al-Shabaab"
+    ],
+    "NATIONALITY": "",
+    "COMMENTS": "Listed pursuant to paragraph 8(a) of resolution 1844 (2008) as “Engaging in or providing support for acts that threaten the peace, security or stability of Somalia, including acts that threaten the Djibouti Agreement of 18 August 2008 or the political process, or threaten the TFIs or AMISOM by force.” Adan is also associated with Al-Qaida affiliates, Al-Qaida in the Arabian Peninsula (AQAP – QDe.129) and Al-Qaida in the Islamic Maghreb (AQIM – Qde.014). INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals"
+  },
+  {
+    "TYPE": "individual",
+    "FIRST_NAME": "MAALIM",
+    "SECOND_NAME": "AYMAN",
+    "THIRD_NAME": "",
+    "ALIAS": [
+      {
+        "ALIAS_NAME": ""
+      },
+      {
+        "ALIAS_NAME": "Ma’alim Ayman"
+      },
+      {
+        "ALIAS_NAME": "Mo’alim Ayman"
+      },
+      {
+        "ALIAS_NAME": "Nuh Ibrahim Abdi"
+      },
+      {
+        "ALIAS_NAME": "Ayman Kabo"
+      },
+      {
+        "ALIAS_NAME": "Abdiaziz Dubow Ali"
+      }
+    ],
+    "ADDRESS": [
+      {
+        "NOTE": "Kenya/Somalia border"
+      },
+      {
+        "COUNTRY": "Somalia",
+        "CITY": "Badamadow",
+        "STATE_PROVINCE": " Lower Juba Region"
+      }
+    ],
+    "DATE_OF_BIRTH": "",
+    "PLACE_OF_BIRTH": {
+      "COUNTRY": "Kenya"
+    },
+    "NAME_ORIGINAL_SCRIPT": "",
+    "TITLE": "",
+    "DESIGNATION": [
+      "Founder and leader of Jaysh Ayman, an al-Shabaab unit conducting attacks\n                and operations in Kenya and Somalia"
+    ],
+    "NATIONALITY": "",
+    "COMMENTS": "Listed pursuant to paragraph 8(a) of resolution 1844 (2008) as “Engaging in or providing support for acts that threaten the peace, security or stability of Somalia, including acts that threaten the Djibouti Agreement of 18 August 2008 or the political process, or threaten the TFIs or AMISOM by force.” Ayman helped with preparations for the 5 January 2020 attack on Camp Simba in Lamu County, Kenya.  INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals"
+  },
+  {
+    "TYPE": "individual",
+    "FIRST_NAME": "MAHAD",
+    "SECOND_NAME": "KARATE",
+    "THIRD_NAME": "",
+    "ALIAS": [
+      {
+        "ALIAS_NAME": "Mahad Mohamed Ali Karate"
+      },
+      {
+        "ALIAS_NAME": "Mahad Warsame Qalley Karate"
+      },
+      {
+        "ALIAS_NAME": "Abdirahim Mohamed Warsame"
+      }
+    ],
+    "ADDRESS": [
+      {
+        "COUNTRY": "Somalia"
+      }
+    ],
+    "DATE_OF_BIRTH": "",
+    "PLACE_OF_BIRTH": {
+      "STATE_PROVINCE": "Xararadheere",
+      "COUNTRY": "Somalia"
+    },
+    "NAME_ORIGINAL_SCRIPT": "",
+    "TITLE": "",
+    "DESIGNATION": [
+      ""
+    ],
+    "NATIONALITY": "",
+    "COMMENTS": "Listed pursuant to paragraph 8(a) of resolution 1844 (2008) as “Engaging in or providing support for acts that threaten the peace, security or stability of Somalia, including acts that threaten the Djibouti Agreement of 18 August 2008 or the political process, or threaten the TFIs or AMISOM by force.” Karate played a key role in the Amniyat, the wing of al-Shabaab responsible for the recent attack on Garissa University College in Kenya that resulted in nearly 150 deaths. The Amniyat is al-Shabaab’s intelligence wing, which plays a key role in the execution of suicide attacks and assassinations in Somalia, Kenya, and other countries in the region, and provides logistics and support for al-Shabaab’s terrorist activities.  INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals"
+  },
+  {
+    "TYPE": "individual",
+    "FIRST_NAME": "ALI",
+    "SECOND_NAME": "MOHAMED",
+    "THIRD_NAME": "RAGE",
+    "ALIAS": [
+      {
+        "ALIAS_NAME": "Ali Mohammed Rage"
+      },
+      {
+        "ALIAS_NAME": "Ali Dheere"
+      },
+      {
+        "ALIAS_NAME": "Ali Dhere"
+      },
+      {
+        "ALIAS_NAME": "Ali Mohamed Rage Cali Dheer"
+      },
+      {
+        "ALIAS_NAME": "Ali Mohamud Rage"
+      }
+    ],
+    "ADDRESS": [
+      {
+        "COUNTRY": "Somalia"
+      }
+    ],
+    "DATE_OF_BIRTH": "",
+    "PLACE_OF_BIRTH": {
+      "COUNTRY": "Somalia"
+    },
+    "NAME_ORIGINAL_SCRIPT": "",
+    "TITLE": "",
+    "DESIGNATION": [
+      "Spokesperson of Al-Shabaab"
+    ],
+    "NATIONALITY": "Somalia",
+    "COMMENTS": "Listed pursuant to paragraph 43(a) of resolution 2093 (2013) as “Engaging in or providing support for acts that threaten the peace, security or stability of Somalia, including acts that threaten the peace and reconciliation process in Somalia, or threaten the Federal Government of Somalia or AMISOM by force.” As a spokesperson for Al-Shabaab, Rage is involved in promulgating and supporting the group’s terrorist activities.  INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals"
+  },
+  {
+    "TYPE": "individual",
+    "FIRST_NAME": "ABDULLAHI",
+    "SECOND_NAME": "OSMAN",
+    "THIRD_NAME": "MOHAMED",
+    "ALIAS": [
+      {
+        "ALIAS_NAME": "Cabdullahi Cusman Maxamed Caddow"
+      },
+      {
+        "ALIAS_NAME": "Dhagacade"
+      },
+      {
+        "ALIAS_NAME": "Faracade"
+      },
+      {
+        "ALIAS_NAME": "Injineer Ismaaciil"
+      },
+      {
+        "ALIAS_NAME": "Eng. Ismail"
+      }
+    ],
+    "ADDRESS": [
+      {
+        "COUNTRY": "Somalia"
+      }
+    ],
+    "DATE_OF_BIRTH": "",
+    "PLACE_OF_BIRTH": {
+      "COUNTRY": ""
+    },
+    "NAME_ORIGINAL_SCRIPT": "",
+    "TITLE": "",
+    "DESIGNATION": [
+      ""
+    ],
+    "NATIONALITY": "Somalia",
+    "COMMENTS": "Gender: Male. INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals"
+  },
+  {
+    "TYPE": "individual",
+    "FIRST_NAME": "ABDIKADIR",
+    "SECOND_NAME": "MOHAMED",
+    "THIRD_NAME": "ABDIKADIR ",
+    "ALIAS": [
+      {
+        "ALIAS_NAME": "ABDUKADIR"
+      },
+      {
+        "ALIAS_NAME": "ABDUKADIR MOHAMED ABDUKADIR"
+      },
+      {
+        "ALIAS_NAME": "ABDULKADIR"
+      },
+      {
+        "ALIAS_NAME": "ABDULKADIR MOHAMED ABDULKADIR"
+      },
+      {
+        "ALIAS_NAME": "IKRIMA"
+      }
+    ],
+    "ADDRESS": [
+      {
+        "COUNTRY": "Somalia"
+      }
+    ],
+    "DATE_OF_BIRTH": "",
+    "PLACE_OF_BIRTH": {
+      "COUNTRY": "Somalia"
+    },
+    "NAME_ORIGINAL_SCRIPT": "",
+    "TITLE": "",
+    "DESIGNATION": [
+      "Designation: Senior Al-Shabaab leader"
+    ],
+    "NATIONALITY": "Somalia, Kenya",
+    "COMMENTS": "Gender: Male. Listed pursuant to paragraph 26(b) of resolution 2662 (2022): (i) participating in the financing, planning, facilitating, preparing, or perpetrating of acts or activities by, in conjunction with, under the name of, on behalf of, or in support of Al-Shabaab and\n(iii) recruiting for, or otherwise supporting acts or activities of Al-Shabaab or any cell, affiliate,\nsplinter group or derivative thereof."
+  },
+  {
+    "TYPE": "individual",
+    "FIRST_NAME": "MOHAMED",
+    "SECOND_NAME": " MOHAMUD ",
+    "THIRD_NAME": "MIRE",
+    "ALIAS": [],
+    "ADDRESS": [
+      {
+        "COUNTRY": "Somalia",
+        "STATE_PROVINCE": " Jilib"
+      },
+      {
+        "COUNTRY": "Somalia",
+        "STATE_PROVINCE": "Qunyo Barrow"
+      }
+    ],
+    "DATE_OF_BIRTH": "",
+    "PLACE_OF_BIRTH": {
+      "STATE_PROVINCE": "Kismayo",
+      "COUNTRY": "Somalia"
+    },
+    "NAME_ORIGINAL_SCRIPT": "",
+    "TITLE": "",
+    "DESIGNATION": [
+      "Previously in charge of Zakat; member of Shura of Al-Shabaab"
+    ],
+    "NATIONALITY": "Somalia",
+    "COMMENTS": "Gender: Male. Listed pursuant to paragraph 26 of resolution 2662 (2022): (a) having engaged in, or provided support for, acts that threatened the peace, security or stability of Somalia, including acts that threatened the peace and reconciliation process in Somalia, or threatened the Federal Government of Somalia or ATMIS by force; and (b)(i) participating in the financing, planning, facilitating, preparing, or perpetrating of acts or activities by, in conjunction with, under the name of, on behalf of, or in support of Al-Shabaab."
+  },
+  {
+    "TYPE": "individual",
+    "FIRST_NAME": "MOHAMED",
+    "SECOND_NAME": "OMAR ",
+    "THIRD_NAME": "MOHAMED",
+    "ALIAS": [
+      {
+        "ALIAS_NAME": "MA’D UMUROW"
+      },
+      {
+        "ALIAS_NAME": "MOHAMED OMAR HAJI"
+      },
+      {
+        "ALIAS_NAME": "MOHAMED OMAR MA’ALIN"
+      },
+      {
+        "ALIAS_NAME": "MOHAMED HAJI OMAR"
+      },
+      {
+        "ALIAS_NAME": "MO’ALIN"
+      }
+    ],
+    "ADDRESS": [
+      {
+        "COUNTRY": "Somalia",
+        "STREET": "Diinsor District, Bay Region"
+      },
+      {
+        "COUNTRY": "Somalia",
+        "STREET": "Buur Hakaba District, Bay Region"
+      }
+    ],
+    "DATE_OF_BIRTH": "",
+    "PLACE_OF_BIRTH": {
+      "COUNTRY": "Somalia"
+    },
+    "NAME_ORIGINAL_SCRIPT": "",
+    "TITLE": "Wali",
+    "DESIGNATION": [
+      "Leader (Wali) of the Al-Shabaab group in Diinsor"
+    ],
+    "NATIONALITY": "",
+    "COMMENTS": "Gender: Male. Listed pursuant to paragraph 26(b) of resolution 2662 (2022): (i) participating in the financing, planning, facilitating, preparing, or perpetrating of acts or activities by, in conjunction with, under the name of, on behalf of, or in support of Al-Shabaab; and (iii) recruiting for, or otherwise supporting acts or activities of Al-Shabaab or any cell, affiliate, splinter group or derivative thereof."
+  },
+  {
+    "TYPE": "entity",
+    "FIRST_NAME": "AL-SHABAAB",
+    "SECOND_NAME": "",
+    "THIRD_NAME": "",
+    "ALIAS": [
+      {
+        "ALIAS_NAME": "AL-SHABAB"
+      },
+      {
+        "ALIAS_NAME": "SHABAAB"
+      },
+      {
+        "ALIAS_NAME": "THE YOUTH"
+      },
+      {
+        "ALIAS_NAME": "MUJAHIDIN AL-SHABAAB MOVEMENT"
+      },
+      {
+        "ALIAS_NAME": "MUJAHIDEEN YOUTH MOVEMENT"
+      },
+      {
+        "ALIAS_NAME": "MUJAHIDIN YOUTH MOVEMENT"
+      },
+      {
+        "ALIAS_NAME": "MYM"
+      },
+      {
+        "ALIAS_NAME": "HARAKAT SHABAB AL-MUJAHIDIN"
+      },
+      {
+        "ALIAS_NAME": "HIZBUL SHABAAB"
+      },
+      {
+        "ALIAS_NAME": "HISB’UL SHABAAB"
+      },
+      {
+        "ALIAS_NAME": "AL-SHABAAB AL-ISLAMIYA"
+      },
+      {
+        "ALIAS_NAME": "YOUTH WING"
+      },
+      {
+        "ALIAS_NAME": "AL-SHABAAB AL-ISLAAM"
+      },
+      {
+        "ALIAS_NAME": "AL-SHABAAB AL-JIHAAD"
+      },
+      {
+        "ALIAS_NAME": "THE UNITY OF ISLAMIC YOUTH"
+      },
+      {
+        "ALIAS_NAME": "HARAKAT AL - SHABAAB AL - MUJAAHIDIIN"
+      },
+      {
+        "ALIAS_NAME": "HARAKATUL SHABAAB AL MUJAAHIDIIN"
+      },
+      {
+        "ALIAS_NAME": "MUJAAHIDIIN YOUTH MOVEMENT"
+      }
+    ],
+    "ADDRESS": [
+      {}
+    ],
+    "DATE_OF_BIRTH": "",
+    "PLACE_OF_BIRTH": {},
+    "NAME_ORIGINAL_SCRIPT": "",
+    "TITLE": "",
+    "DESIGNATION": [
+      ""
+    ],
+    "NATIONALITY": "",
+    "COMMENTS": "INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals"
+  }
+]

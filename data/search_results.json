@@ -1,0 +1,348 @@
+[
+  {
+    "item": {
+      "TYPE": "individual",
+      "FIRST_NAME": "ATIQULLAH",
+      "SECOND_NAME": "WALI MOHAMMAD",
+      "THIRD_NAME": "",
+      "ALIAS": [
+        {
+          "ALIAS_NAME": ""
+        },
+        {
+          "ALIAS_NAME": "Atiqullah"
+        }
+      ],
+      "ADDRESS": [
+        {
+          "COUNTRY": ""
+        }
+      ],
+      "DATE_OF_BIRTH": "",
+      "PLACE_OF_BIRTH": {
+        "CITY": "Tirin Kot District",
+        "STATE_PROVINCE": "Uruzgan Province",
+        "COUNTRY": "Afghanistan"
+      },
+      "NAME_ORIGINAL_SCRIPT": "عتیق الله ولی محمد",
+      "TITLE": "Haji, Mullah",
+      "DESIGNATION": [
+        "Director of Foreign Relations, Kandahar Province under the Taliban\nregime",
+        "Director of Public Works, Kandahar Province under the Taliban\nregime",
+        "First Deputy Minister of Agriculture under the Taliban\nregime",
+        "Deputy Minister of Public Works under the Taliban\nregime"
+      ],
+      "NATIONALITY": "Afghanistan",
+      "COMMENTS": "Originally from Uruzgan, settled and lived later in Kandahar. Was a\nmember of Taliban Supreme Council Political Commission in 2010. No specific role in the\nTaliban movement, active as a businessman in his personal capacity as of mid-2013.\nBelieved to be in Afghanistan/Pakistan border area. Belongs to Alizai tribe. Brother of\nAbdul Jalil Haqqani Wali Mohammad (TAi.034). Review pursuant to Security Council\nresolution 1822 (2008) was concluded on 27 Jul. 2010. INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals"
+    },
+    "refIndex": 48,
+    "score": 8.569061098350962e-12
+  },
+  {
+    "item": {
+      "TYPE": "individual",
+      "FIRST_NAME": "ABDUL JALIL",
+      "SECOND_NAME": "HAQQANI",
+      "THIRD_NAME": "WALI MOHAMMAD",
+      "ALIAS": [
+        {
+          "ALIAS_NAME": ""
+        },
+        {
+          "ALIAS_NAME": "Abdul Jalil Akhund"
+        },
+        {
+          "ALIAS_NAME": "Akhter Mohmad son of Noor Mohmad (اختر محمد ولد نور محمد\n),"
+        },
+        {
+          "ALIAS_NAME": "Haji Gulab Gul (حاجی گلاب گل ولد حاجی حضرت گل )"
+        },
+        {
+          "ALIAS_NAME": "Abdul Jalil Haqqani"
+        },
+        {
+          "ALIAS_NAME": "Nazar Jan"
+        }
+      ],
+      "ADDRESS": [
+        {
+          "COUNTRY": ""
+        }
+      ],
+      "DATE_OF_BIRTH": "",
+      "PLACE_OF_BIRTH": {
+        "CITY": "Khwaja Malik village, Arghandab District",
+        "STATE_PROVINCE": "Kandahar Province",
+        "COUNTRY": "Afghanistan"
+      },
+      "NAME_ORIGINAL_SCRIPT": "عبد الجليل حقانی ولی محمد",
+      "TITLE": "Maulavi, Mullah",
+      "DESIGNATION": [
+        "Deputy Minister of Foreign Affairs under the Taliban\nregime"
+      ],
+      "NATIONALITY": "Afghanistan",
+      "COMMENTS": "Believed to be in Afghanistan/Pakistan border area. Member of the Taliban\nSupreme Council as of May 2007. Member of the Financial Commission of the Taliban\nCouncil. Responsible for logistics for the Taliban and also active as a businessman in\nhis personal capacity as at mid-2013. Belongs to Alizai tribe. Brother of Atiqullah Wali\nMohammad (TAi.070). Review pursuant to Security Council resolution 1822 (2008) was\nconcluded on 21 Jul. 2010. INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals"
+    },
+    "refIndex": 59,
+    "score": 8.569061098350962e-12
+  },
+  {
+    "item": {
+      "TYPE": "individual",
+      "FIRST_NAME": "ABDUL LATIF",
+      "SECOND_NAME": "MANSUR",
+      "THIRD_NAME": "",
+      "ALIAS": [
+        {
+          "ALIAS_NAME": "Abdul Latif Mansoor"
+        },
+        {
+          "ALIAS_NAME": "Wali Mohammad"
+        },
+        {
+          "ALIAS_NAME": ""
+        }
+      ],
+      "ADDRESS": [
+        {
+          "COUNTRY": ""
+        }
+      ],
+      "DATE_OF_BIRTH": "",
+      "PLACE_OF_BIRTH": {
+        "CITY": "Zurmat District",
+        "STATE_PROVINCE": "Paktia Province",
+        "COUNTRY": "Afghanistan"
+      },
+      "NAME_ORIGINAL_SCRIPT": "عبد اللطيف منصور ",
+      "TITLE": "Maulavi",
+      "DESIGNATION": [
+        "Minister of Agriculture under the Taliban regime"
+      ],
+      "NATIONALITY": "Afghanistan",
+      "COMMENTS": "Taliban Shadow Governor for Logar Province as of late 2012. Believed to\nbe in Afghanistan/Pakistan border area. Belongs to Sahak tribe (Ghilzai). Review\npursuant to Security Council resolution 1822 (2008) was concluded on 27 Jul.\n2010. INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals"
+    },
+    "refIndex": 1,
+    "score": 1.4007047181242632e-9
+  },
+  {
+    "item": {
+      "TYPE": "individual",
+      "FIRST_NAME": "ALI",
+      "SECOND_NAME": "KONY",
+      "THIRD_NAME": "",
+      "ALIAS": [
+        {
+          "ALIAS_NAME": ""
+        },
+        {
+          "ALIAS_NAME": ""
+        },
+        {
+          "ALIAS_NAME": ""
+        },
+        {
+          "ALIAS_NAME": "Ali Lalobo"
+        },
+        {
+          "ALIAS_NAME": "Ali Mohammad Labolo"
+        },
+        {
+          "ALIAS_NAME": "Ali Mohammed"
+        },
+        {
+          "ALIAS_NAME": "Ali Mohammed Lalobo"
+        },
+        {
+          "ALIAS_NAME": "Ali Mohammed Kony"
+        },
+        {
+          "ALIAS_NAME": "Ali Mohammed Labola"
+        },
+        {
+          "ALIAS_NAME": "Ali Mohammed Salongo"
+        },
+        {
+          "ALIAS_NAME": "Ali Bashir Lalobo"
+        },
+        {
+          "ALIAS_NAME": "Ali Lalobo Bashir"
+        },
+        {
+          "ALIAS_NAME": "Otim Kapere"
+        },
+        {
+          "ALIAS_NAME": "“Bashir”"
+        },
+        {
+          "ALIAS_NAME": "“Caesar”"
+        },
+        {
+          "ALIAS_NAME": "“One-P”"
+        },
+        {
+          "ALIAS_NAME": "“1-P”"
+        }
+      ],
+      "ADDRESS": [
+        {
+          "STREET": "Kafia Kingi",
+          "NOTE": "a territory on the border of Sudan and South Sudan whose final status has yet to be determined"
+        }
+      ],
+      "DATE_OF_BIRTH": "",
+      "PLACE_OF_BIRTH": {
+        "COUNTRY": ""
+      },
+      "NAME_ORIGINAL_SCRIPT": "",
+      "TITLE": "",
+      "DESIGNATION": [
+        "Deputy, Lord’s Resistance Army"
+      ],
+      "NATIONALITY": "",
+      "COMMENTS": "Ali Kony is a deputy in the Lord’s Resistance Army (LRA) (CFe.002), a designated entity and the son of LRA leader Joseph Kony (CFi.009), a designated individual.  Ali was incorporated into the LRA’s leadership hierarchy in 2010.  He is part of a group of senior LRA officers who are based with Joseph Kony.   INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals"
+    },
+    "refIndex": 460,
+    "score": 0.003350091989094793
+  },
+  {
+    "item": {
+      "TYPE": "individual",
+      "FIRST_NAME": "MATI UR-REHMAN",
+      "SECOND_NAME": "ALI MUHAMMAD",
+      "THIRD_NAME": "",
+      "ALIAS": [
+        {
+          "ALIAS_NAME": "Mati-ur Rehman"
+        },
+        {
+          "ALIAS_NAME": "Mati ur Rehman"
+        },
+        {
+          "ALIAS_NAME": "Matiur Rahman"
+        },
+        {
+          "ALIAS_NAME": "Matiur Rehman"
+        },
+        {
+          "ALIAS_NAME": "Matti al-Rehman"
+        },
+        {
+          "ALIAS_NAME": "Abdul Samad"
+        },
+        {
+          "ALIAS_NAME": "Samad Sial"
+        },
+        {
+          "ALIAS_NAME": "Abdul Samad Sial"
+        },
+        {
+          "ALIAS_NAME": "Ustad Talha"
+        },
+        {
+          "ALIAS_NAME": "Qari Mushtaq"
+        },
+        {
+          "ALIAS_NAME": "Tariq"
+        },
+        {
+          "ALIAS_NAME": "Hussain"
+        }
+      ],
+      "ADDRESS": [
+        {
+          "COUNTRY": ""
+        }
+      ],
+      "DATE_OF_BIRTH": "",
+      "PLACE_OF_BIRTH": {
+        "CITY": "Chak number 36/DNB, Rajkan, Madina Colony",
+        "STATE_PROVINCE": "Bahawalpur District, Punjab Province",
+        "COUNTRY": "Pakistan"
+      },
+      "NAME_ORIGINAL_SCRIPT": "مطیع الرحمن علی محمد",
+      "TITLE": "",
+      "DESIGNATION": [
+        ""
+      ],
+      "NATIONALITY": "Pakistan",
+      "COMMENTS": "Physical description: 5 feet 2 inches; 157.4 cm. Name of father: Ali Muhammad. Mati ur-Rehman is the chief operational commander of Lashkar i Jhangvi (LJ) (QDe.096). Associated with Harakat-ul Jihad Islami (QDe.130). Reportedly deceased. Review pursuant to Security Council resolution 2368 (2017) was concluded on 24 November 2020. Review pursuant to Security Council resolution 2610 (2021) was concluded on 8 November 2022. INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals"
+    },
+    "refIndex": 196,
+    "score": 0.26623813160874804
+  },
+  {
+    "item": {
+      "TYPE": "individual",
+      "FIRST_NAME": "AREFULLAH",
+      "SECOND_NAME": "AREF",
+      "THIRD_NAME": "GHAZI MOHAMMAD",
+      "ALIAS": [],
+      "ADDRESS": [
+        {
+          "COUNTRY": ""
+        }
+      ],
+      "DATE_OF_BIRTH": "",
+      "PLACE_OF_BIRTH": {
+        "CITY": "Lawang (Lawand) village, Gelan District",
+        "STATE_PROVINCE": "Ghazni Province",
+        "COUNTRY": "Afghanistan"
+      },
+      "NAME_ORIGINAL_SCRIPT": "عارف الله عارف غازی محمد",
+      "TITLE": "Maulavi",
+      "DESIGNATION": [
+        "Deputy Minister of Finance under the Taliban regime",
+        "Governor of Ghazni Province under the Taliban regime",
+        "Governor of Paktia Province under the Taliban regime"
+      ],
+      "NATIONALITY": "Afghanistan",
+      "COMMENTS": "Directs Taliban \"front\" in Gelan District, Ghazni Province, Afghanistan\nas of mid-2013. Believed to be in Afghanistan/Pakistan border area. Belongs to Andar\ntribe. Review pursuant to Security Council resolution 1822 (2008) was concluded on 27\nJul. 2010. INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals"
+    },
+    "refIndex": 58,
+    "score": 0.27835974472817626
+  },
+  {
+    "item": {
+      "TYPE": "individual",
+      "FIRST_NAME": "ALI",
+      "SECOND_NAME": "MOHAMED",
+      "THIRD_NAME": "RAGE",
+      "ALIAS": [
+        {
+          "ALIAS_NAME": "Ali Mohammed Rage"
+        },
+        {
+          "ALIAS_NAME": "Ali Dheere"
+        },
+        {
+          "ALIAS_NAME": "Ali Dhere"
+        },
+        {
+          "ALIAS_NAME": "Ali Mohamed Rage Cali Dheer"
+        },
+        {
+          "ALIAS_NAME": "Ali Mohamud Rage"
+        }
+      ],
+      "ADDRESS": [
+        {
+          "COUNTRY": "Somalia"
+        }
+      ],
+      "DATE_OF_BIRTH": "",
+      "PLACE_OF_BIRTH": {
+        "COUNTRY": "Somalia"
+      },
+      "NAME_ORIGINAL_SCRIPT": "",
+      "TITLE": "",
+      "DESIGNATION": [
+        "Spokesperson of Al-Shabaab"
+      ],
+      "NATIONALITY": "Somalia",
+      "COMMENTS": "Listed pursuant to paragraph 43(a) of resolution 2093 (2013) as “Engaging in or providing support for acts that threaten the peace, security or stability of Somalia, including acts that threaten the peace and reconciliation process in Somalia, or threaten the Federal Government of Somalia or AMISOM by force.” As a spokesperson for Al-Shabaab, Rage is involved in promulgating and supporting the group’s terrorist activities.  INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals"
+    },
+    "refIndex": 552,
+    "score": 0.4214627480779021
+  }
+]

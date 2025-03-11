@@ -1,0 +1,172 @@
+[
+  {
+    "TYPE": "individual",
+    "FIRST_NAME": "GAFFAR",
+    "SECOND_NAME": "MOHAMMED",
+    "THIRD_NAME": "ELHASSAN",
+    "ALIAS": [],
+    "ADDRESS": [
+      {
+        "COUNTRY": "Sudan",
+        "STREET": "El Waha",
+        "CITY": "Omdurman"
+      }
+    ],
+    "DATE_OF_BIRTH": "",
+    "PLACE_OF_BIRTH": {
+      "COUNTRY": ""
+    },
+    "NAME_ORIGINAL_SCRIPT": "",
+    "TITLE": "",
+    "DESIGNATION": [
+      "Major-General and Commander of the Western Military Region for the\nSudanese Armed Forces (SAF)"
+    ],
+    "NATIONALITY": "na",
+    "COMMENTS": "Retired from the Sudanese Army. INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals"
+  },
+  {
+    "TYPE": "individual",
+    "FIRST_NAME": "MUSA",
+    "SECOND_NAME": "HILAL",
+    "THIRD_NAME": "ABDALLA",
+    "ALIAS": [
+      {
+        "ALIAS_NAME": "(Sheikh) Musa Hilal"
+      },
+      {
+        "ALIAS_NAME": "Abd Allah"
+      },
+      {
+        "ALIAS_NAME": "Abdallah"
+      },
+      {
+        "ALIAS_NAME": "AlNasim"
+      },
+      {
+        "ALIAS_NAME": "Al Nasim"
+      },
+      {
+        "ALIAS_NAME": "AlNaseem"
+      },
+      {
+        "ALIAS_NAME": "Al Naseem"
+      },
+      {
+        "ALIAS_NAME": "AlNasseem"
+      },
+      {
+        "ALIAS_NAME": "Al Nasseem"
+      },
+      {
+        "ALIAS_NAME": ""
+      }
+    ],
+    "ADDRESS": [
+      {
+        "COUNTRY": "Sudan",
+        "CITY": "Kabkabiya"
+      },
+      {
+        "COUNTRY": "Sudan",
+        "NOTE": "Resides in Kabkabiya and the city of Kutum, Northern Darfur and has resided in Khartoum.",
+        "CITY": "Kutum"
+      }
+    ],
+    "DATE_OF_BIRTH": "",
+    "PLACE_OF_BIRTH": {
+      "COUNTRY": ""
+    },
+    "NAME_ORIGINAL_SCRIPT": "",
+    "TITLE": "",
+    "DESIGNATION": [
+      "formerly Member of the National Assembly of Sudan from Al-Waha district",
+      "formerly special adviser to the Ministry of Federal Affairs",
+      "Paramount Chief of the Mahamid Tribe in North Darfur"
+    ],
+    "NATIONALITY": "Sudan",
+    "COMMENTS": "Photo available for inclusion in the INTERPOL-UN Security Council Special Notice.  INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals"
+  },
+  {
+    "TYPE": "individual",
+    "FIRST_NAME": "JIBRIL",
+    "SECOND_NAME": "ABDULKARIM",
+    "THIRD_NAME": "IBRAHIM",
+    "ALIAS": [
+      {
+        "ALIAS_NAME": "General Gibril Abdul Kareem Barey"
+      },
+      {
+        "ALIAS_NAME": "“Tek”"
+      },
+      {
+        "ALIAS_NAME": "Gabril Abdul Kareem Badri"
+      }
+    ],
+    "ADDRESS": [
+      {
+        "COUNTRY": "Sudan",
+        "NOTE": "Resides in Tine, on the Sudanese side of the border with Chad",
+        "CITY": "Tine"
+      }
+    ],
+    "DATE_OF_BIRTH": "",
+    "PLACE_OF_BIRTH": {
+      "CITY": "El-Fasher",
+      "STATE_PROVINCE": "North Darfur",
+      "NOTE": "Place of Birth: Nile District, El-Fasher, El- Fasher, North Darfur"
+    },
+    "NAME_ORIGINAL_SCRIPT": "",
+    "TITLE": "",
+    "DESIGNATION": [
+      "National Movement for Reform and Development (NMRD) Field\nCommander"
+    ],
+    "NATIONALITY": "Sudan, South Sudan",
+    "COMMENTS": "Photo available for inclusion in the INTERPOL-UN Security Council Special Notice.  INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals"
+  },
+  {
+    "TYPE": "individual",
+    "FIRST_NAME": "ABDEL",
+    "SECOND_NAME": "RAHMAN",
+    "THIRD_NAME": "JUMA",
+    "ALIAS": [],
+    "ADDRESS": [
+      {}
+    ],
+    "DATE_OF_BIRTH": "",
+    "PLACE_OF_BIRTH": {
+      "CITY": "Bahr Elarab",
+      "STATE_PROVINCE": "East Darfur",
+      "COUNTRY": "Sudan"
+    },
+    "NAME_ORIGINAL_SCRIPT": "",
+    "TITLE": "",
+    "DESIGNATION": [
+      "Rapid Support Forces (RSF) Major General and West Darfur Commander"
+    ],
+    "NATIONALITY": "Sudan",
+    "COMMENTS": "Gender: Male."
+  },
+  {
+    "TYPE": "individual",
+    "FIRST_NAME": "OSMAN",
+    "SECOND_NAME": "MOHAMED ",
+    "THIRD_NAME": "HAMID ",
+    "ALIAS": [],
+    "ADDRESS": [
+      {}
+    ],
+    "DATE_OF_BIRTH": "",
+    "PLACE_OF_BIRTH": {
+      "CITY": "Kadiqali",
+      "STATE_PROVINCE": "South Darfur",
+      "COUNTRY": "Sudan"
+    },
+    "NAME_ORIGINAL_SCRIPT": "",
+    "TITLE": "",
+    "DESIGNATION": [
+      "Rapid Support Forces (RSF) Major General and Head of RSF Operations"
+    ],
+    "NATIONALITY": "Sudan",
+    "COMMENTS": "Gender: Male."
+  }
+]

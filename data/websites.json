@@ -1,8 +1,9 @@
 [
   {
-    "siteName": "EU | Consolidated list of persons, groups and entities subject to EU financial sanctions",
-    "url": "https://webgate.ec.europa.eu/fsd/fsf/public/files/xmlFullSanctionsList_1_1/content?token=dG9rZW4tMjAxNw",
-    "lastCheckedDate": "2025-03-04T08-56-31-632Z",
-    "transformDataFunction": "transformEUToUN"
+    "siteName": "UN United Nations Security Council Consolidated List",
+    "url": "https://scsanctions.un.org/resources/xml/en/consolidated.xml",
+    "requirementFrom": "UN",
+    "lastCheckedDate": "2025-03-11T04-29-51-924Z",
+    "transformDataFunction": "transformUNToGeneric"
   }
 ]

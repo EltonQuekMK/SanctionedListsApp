@@ -7,7 +7,7 @@ const schemaPath = path.join(__dirname, 'data/jsonschema.json');
 const schema = JSON.parse(fs.readFileSync(schemaPath, 'utf8'));
 
 // Load the JSON data
-const dataPath = path.join(__dirname, 'data/2025-03-06_UN_1718___Democratic_People_s_Republic_of_Korea_data.json');
+const dataPath = path.join(__dirname, 'data/UN_1718_Democratic_People_s_Republic_of_Korea_data.json');
 const data = JSON.parse(fs.readFileSync(dataPath, 'utf8'));
 
 // Validate the JSON data
