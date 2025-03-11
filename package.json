@@ -1,5 +1,5 @@
 {
-  "name": "node-server-project",
+  "name": "sanctioned-list-server",
   "version": "1.0.0",
   "description": "A Node.js server project that runs a daily job to scrape a list of companies from a website.",
   "main": "src/server.js",
@@ -11,6 +11,7 @@
   "dependencies": {
     "axios": "^1.8.1",
     "cheerio": "^1.0.0",
+    "cors": "^2.8.5",
     "dotenv": "^16.4.7",
     "express": "^4.17.1",
     "fuse.js": "^7.1.0",

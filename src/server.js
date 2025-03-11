@@ -2,11 +2,15 @@ const cron = require('node-cron');
 const { runDailyJob } = require('./jobs/dailyJob');
 const express = require('express');
 const { initialize } = require('./api/webController');
+const cors = require('cors');
 
 const app = express();
 
 // Middleware to parse JSON bodies
 app.use(express.json());
+
+// Enable CORS
+app.use(cors());
 
 const PORT = process.env.PORT || 3001;
 

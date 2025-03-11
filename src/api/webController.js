@@ -15,11 +15,11 @@ const search = (req, res) => {
 
     const results = sortedFuzzySearch(data, query);
 
-    // Save results to a file
-    const resultsPath = path.join(__dirname, '../../data/search_results.json');
-    fs.writeFileSync(resultsPath, JSON.stringify(results, null, 2));
+    // Save results to a file (for testing)
+    // const resultsPath = path.join(__dirname, '../../data/search_results.json');
+    // fs.writeFileSync(resultsPath, JSON.stringify(results, null, 2));
 
-    res.json({ results, message: `Search results saved to ${resultsPath}` });
+    res.json({ results });
 };
 
 const initialize = (app) => {
