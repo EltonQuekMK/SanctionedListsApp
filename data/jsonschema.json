@@ -37,18 +37,7 @@
             "ADDRESS": {
                 "type": "array",
                 "items": {
-                    "type": "object",
-                    "properties": {
-                        "COUNTRY": {
-                            "type": "string"
-                        },
-                        "CITY": {
-                            "type": "string"
-                        },
-                        "STREET": {
-                            "type": "string"
-                        }
-                    }
+                    "type": "string"
                 }
             },
             "DATE_OF_BIRTH": {

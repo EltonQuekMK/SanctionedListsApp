@@ -41,7 +41,7 @@ const scrapeData = async (site) => {
             validationResult.errors.forEach(error => {
                 console.error(`Error: ${error.stack}`);
             });
-            throw error;
+            throw validationResult.toString();
         } else {
             console.log('Json validation passed')
             saveData(site, data);

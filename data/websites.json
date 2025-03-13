@@ -3,7 +3,7 @@
     "siteName": "UN United Nations Security Council Consolidated List",
     "url": "https://scsanctions.un.org/resources/xml/en/consolidated.xml",
     "requirementFrom": "UN",
-    "lastCheckedDate": "2025-03-11T04-29-51-924Z",
+    "lastCheckedDate": "2025-03-13T03-33-28-662Z",
     "transformDataFunction": "transformUNToGeneric"
   }
 ]

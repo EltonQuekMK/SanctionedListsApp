@@ -1,9 +1,6 @@
 const transformEUToGeneric = (euData) => {
     return euData.export.sanctionEntity.map(entity => {
-        const nameAlias = entity.nameAlias ? entity.nameAlias.map(alias => alias.$.wholeName).join(', ') : "";
         const nationality = entity.citizenship ? entity.citizenship.map(citizen => citizen.$.countryDescription).join(', ') : "";
-        const birthdate = entity.birthdate ? entity.birthdate.$.year : "";
-        const address = entity.address ? entity.address.map(addr => `${addr.$.street}, ${addr.$.city}, ${addr.$.countryDescription}`).join('; ') : "";
 
         return {
             TYPE: entity.subjectType.$.code === "person" ? "individual" : "entity",
@@ -21,6 +18,15 @@ const transformEUToGeneric = (euData) => {
             COMMENTS: entity.remark || ""
         };
     });
+};
+
+const transformAddress = (address) => {
+    const note = address.NOTE ?? "";
+    const street = address.STREET ?? "";
+    const city = address.CITY ?? "";
+    const country = address.COUNTRY ?? "";
+
+    return [note, street, city, country].filter(part => part !== "").join(", ");
 };
 
 const transformUNToGeneric = (data) => {
@@ -44,27 +50,31 @@ const transformUNToGeneric = (data) => {
             const nationality = Array.isArray(individual.NATIONALITY)
                 ? individual.NATIONALITY.map(n => n.VALUE).join(', ')
                 : (individual.NATIONALITY && Array.isArray(individual.NATIONALITY.VALUE))
-                    ? individual.NATIONALITY.VALUE.join(', ')
+                    ? individual.NATIONALITY.VALUE.filter(value => value !== "").join(', ')
                     : (individual.NATIONALITY ? individual.NATIONALITY.VALUE : "");
 
             const title = Array.isArray(individual.TITLE)
                 ? individual.TITLE.map(t => t.VALUE).join(', ')
                 : (individual.TITLE && Array.isArray(individual.TITLE.VALUE))
-                    ? individual.TITLE.VALUE.join(', ')
+                    ? individual.TITLE.VALUE.filter(value => value !== "").join(', ')
                     : (individual.TITLE ? individual.TITLE.VALUE : "");
+
+            const address = Array.isArray(individual.INDIVIDUAL_ADDRESS)
+                ? individual.INDIVIDUAL_ADDRESS.map(transformAddress).filter(add => Object.keys(add).length > 0)
+                : [transformAddress(individual.INDIVIDUAL_ADDRESS || {})];
 
             simplifiedData.push({
                 TYPE: "individual",
                 FIRST_NAME: individual.FIRST_NAME || "",
                 SECOND_NAME: individual.SECOND_NAME || "",
                 THIRD_NAME: individual.THIRD_NAME || "",
-                ALIAS: Array.isArray(individual.INDIVIDUAL_ALIAS) ? individual.INDIVIDUAL_ALIAS.map(alias => ({ ALIAS_NAME: alias.ALIAS_NAME })) : [],
-                ADDRESS: Array.isArray(individual.INDIVIDUAL_ADDRESS) ? individual.INDIVIDUAL_ADDRESS : [individual.INDIVIDUAL_ADDRESS || {}],
+                ALIAS: Array.isArray(individual.INDIVIDUAL_ALIAS) ? individual.INDIVIDUAL_ALIAS.map(alias => ({ ALIAS_NAME: alias.ALIAS_NAME })).filter(alias => alias.ALIAS_NAME !== "") : [],
+                ADDRESS: address,
                 DATE_OF_BIRTH: dateOfBirth,
                 PLACE_OF_BIRTH: placeOfBirth,
                 NAME_ORIGINAL_SCRIPT: individual.NAME_ORIGINAL_SCRIPT || "",
                 TITLE: title,
-                DESIGNATION: Array.isArray(individual.DESIGNATION) ? individual.DESIGNATION.flatMap(d => d.VALUE) : (individual.DESIGNATION && Array.isArray(individual.DESIGNATION.VALUE) ? individual.DESIGNATION.VALUE : [individual.DESIGNATION ? individual.DESIGNATION.VALUE : ""]),
+                DESIGNATION: Array.isArray(individual.DESIGNATION) ? individual.DESIGNATION.flatMap(d => d.VALUE).filter(value => value !== "") : (individual.DESIGNATION && Array.isArray(individual.DESIGNATION.VALUE) ? individual.DESIGNATION.VALUE.filter(value => value !== "") : [individual.DESIGNATION ? individual.DESIGNATION.VALUE : ""]),
                 NATIONALITY: nationality,
                 COMMENTS: individual.COMMENTS1 || ""
             });
@@ -89,27 +99,31 @@ const transformUNToGeneric = (data) => {
             const nationality = Array.isArray(entity.NATIONALITY)
                 ? entity.NATIONALITY.map(n => n.VALUE).join(', ')
                 : (entity.NATIONALITY && Array.isArray(entity.NATIONALITY.VALUE))
-                    ? entity.NATIONALITY.VALUE.join(', ')
+                    ? entity.NATIONALITY.VALUE.filter(value => value !== "").join(', ')
                     : (entity.NATIONALITY ? entity.NATIONALITY.VALUE : "");
 
             const title = Array.isArray(entity.TITLE)
                 ? entity.TITLE.map(t => t.VALUE).join(', ')
                 : (entity.TITLE && Array.isArray(entity.TITLE.VALUE))
-                    ? entity.TITLE.VALUE.join(', ')
+                    ? entity.TITLE.VALUE.filter(value => value !== "").join(', ')
                     : (entity.TITLE ? entity.TITLE.VALUE : "");
+
+            const address = Array.isArray(entity.ENTITY_ADDRESS)
+                ? entity.ENTITY_ADDRESS.map(transformAddress).filter(add => Object.keys(add).length > 0)
+                : [transformAddress(entity.ENTITY_ADDRESS || {})];
 
             simplifiedData.push({
                 TYPE: "entity",
                 FIRST_NAME: entity.FIRST_NAME || "",
                 SECOND_NAME: entity.SECOND_NAME || "",
                 THIRD_NAME: entity.THIRD_NAME || "",
-                ALIAS: Array.isArray(entity.ENTITY_ALIAS) ? entity.ENTITY_ALIAS.map(alias => ({ ALIAS_NAME: alias.ALIAS_NAME })) : [],
-                ADDRESS: Array.isArray(entity.ENTITY_ADDRESS) ? entity.ENTITY_ADDRESS : [entity.ENTITY_ADDRESS || {}],
+                ALIAS: Array.isArray(entity.ENTITY_ALIAS) ? entity.ENTITY_ALIAS.map(alias => ({ ALIAS_NAME: alias.ALIAS_NAME })).filter(alias => alias.ALIAS_NAME !== "") : [],
+                ADDRESS: address,
                 DATE_OF_BIRTH: dateOfBirth,
                 PLACE_OF_BIRTH: placeOfBirth,
                 NAME_ORIGINAL_SCRIPT: entity.NAME_ORIGINAL_SCRIPT || "",
                 TITLE: title,
-                DESIGNATION: Array.isArray(entity.DESIGNATION) ? entity.DESIGNATION.flatMap(d => d.VALUE) : (entity.DESIGNATION && Array.isArray(entity.DESIGNATION.VALUE) ? entity.DESIGNATION.VALUE : [entity.DESIGNATION ? entity.DESIGNATION.VALUE : ""]),
+                DESIGNATION: Array.isArray(entity.DESIGNATION) ? entity.DESIGNATION.flatMap(d => d.VALUE).filter(value => value !== "") : (entity.DESIGNATION && Array.isArray(entity.DESIGNATION.VALUE) ? entity.DESIGNATION.VALUE.filter(value => value !== "") : [entity.DESIGNATION ? entity.DESIGNATION.VALUE : ""]),
                 NATIONALITY: nationality,
                 COMMENTS: entity.COMMENTS1 || ""
             });
@@ -126,7 +140,7 @@ const notRequired = (data) => {
 // Transform Strategy
 const transformers = {
     'notRequired': notRequired,
-    'transformUNToGeneric' : transformUNToGeneric,
+    'transformUNToGeneric': transformUNToGeneric,
     'transformEUToGeneric': transformEUToGeneric
 };
 
