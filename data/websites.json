@@ -4,7 +4,7 @@
     "url": "https://scsanctions.un.org/xml/en/dprk",
     "fileName": "un_korea.json",
     "requirementFrom": "MAS",
-    "lastCheckedDate": "2025-03-18T06-26-07-273Z",
+    "lastCheckedDate": "2025-03-15T06-26-07-273Z",
     "transformDataFunction": "transformUNToGeneric"
   },
   {

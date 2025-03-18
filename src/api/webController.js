@@ -42,8 +42,17 @@ const search = (req, res) => {
     res.json({ results });
 };
 
-const initialize = (app) => {
-    app.post('/search', search);
+const getWebsitesList = (req, res) => {
+    const dataPath = path.join(__dirname, '../../data/websites.json');
+    const rawData = fs.readFileSync(dataPath);
+    const data = JSON.parse(rawData);
+
+    res.json({ data });
 };
 
-module.exports = { search, initialize };
+const initialize = (app) => {
+    app.post('/search', search);
+    app.get('/websitesList', getWebsitesList);
+};
+
+module.exports = { search, getWebsitesList, initialize };
