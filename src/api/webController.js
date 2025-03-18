@@ -1,6 +1,6 @@
 const fs = require('fs');
 const path = require('path');
-const { sortedFuzzySearch } = require('../utils/fuzzySearch.js');
+const { fuzzySearch } = require('../utils/fuzzySearch.js');
 
 const search = (req, res) => {
     const { query } = req.body;
@@ -9,11 +9,31 @@ const search = (req, res) => {
         return res.status(400).json({ error: 'Query is required' });
     }
 
-    const dataPath = path.join(__dirname, '../../data/UN_United_Nations_Security_Council_Consolidated_List_data.json');
-    const rawData = fs.readFileSync(dataPath);
-    const data = JSON.parse(rawData);
+    // for each website in websites.json
+    // get the data from the fileName associated with the website
+    // perform a fuzzy search on the data
+    // return the results with the where the requirement are from (requirementFrom)
+    const websitesPath = path.join(__dirname, '../../data/websites.json');
+    const rawData = fs.readFileSync(websitesPath);
+    const websites = JSON.parse(rawData);
 
-    const results = sortedFuzzySearch(data, query);
+    const results = [];
+
+    for (const site of websites) {
+        const dataPath = path.join(__dirname, '../../data', site.fileName);
+        const rawData = fs.readFileSync(dataPath);
+        const data = JSON.parse(rawData);
+
+        const siteResults = fuzzySearch(data, query);
+        siteResults.forEach(result => {
+            result.requirementFrom = site.requirementFrom;
+            result.siteName = site.siteName;
+            result.url = site.url;
+        });
+        results.push(...siteResults);
+    }
+
+    results.sort((a, b) => b.score - a.score);
 
     // Save results to a file (for testing)
     // const resultsPath = path.join(__dirname, '../../data/search_results.json');

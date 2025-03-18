@@ -2,6 +2,7 @@
   {
     "siteName": "UN 1718 Democratic People’s Republic of Korea",
     "url": "https://scsanctions.un.org/xml/en/dprk",
+    "fileName": "un_korea.json",
     "requirementFrom": "MAS",
     "lastCheckedDate": "2025-03-06T02-46-01-904Z",
     "transformDataFunction": "transformUNToGeneric"
@@ -9,6 +10,7 @@
   {
     "siteName": "UN 1533 Democratic Republic of the Congo",
     "url": "https://scsanctions.un.org/xml/en/drc",
+    "fileName": "un_congo.json",
     "requirementFrom": "MAS",
     "lastCheckedDate": "2025-03-06T02-46-03-794Z",
     "transformDataFunction": "transformUNToGeneric"
@@ -16,6 +18,7 @@
   {
     "siteName": "UN 1970 Libya",
     "url": "https://scsanctions.un.org/xml/en/libya",
+    "fileName": "un_libya.json",
     "requirementFrom": "MAS",
     "lastCheckedDate": "2025-03-06T02-46-05-385Z",
     "transformDataFunction": "transformUNToGeneric"
@@ -23,6 +26,7 @@
   {
     "siteName": "UN 1844 Somalia",
     "url": "https://scsanctions.un.org/xml/en/somalia",
+    "fileName": "un_somalia.json",
     "requirementFrom": "MAS",
     "lastCheckedDate": "2025-03-06T02-46-07-046Z",
     "transformDataFunction": "transformUNToGeneric"
@@ -30,6 +34,7 @@
   {
     "siteName": "UN 2066 South Sudan",
     "url": "https://scsanctions.un.org/xml/en/southsudan",
+    "fileName": "un_south_sudan.json",
     "requirementFrom": "MAS",
     "lastCheckedDate": "2025-03-06T02-46-08-369Z",
     "transformDataFunction": "transformUNToGeneric"
@@ -37,6 +42,7 @@
   {
     "siteName": "UN 1591 Sudan",
     "url": "https://scsanctions.un.org/xml/en/sudan",
+    "fileName": "un_sudan.json",
     "requirementFrom": "MAS",
     "lastCheckedDate": "2025-03-06T02-46-09-692Z",
     "transformDataFunction": "transformUNToGeneric"
@@ -44,6 +50,7 @@
   {
     "siteName": "UN 2140 Yemen",
     "url": "https://scsanctions.un.org/xml/en/yemen",
+    "fileName": "un_yemen.json",
     "requirementFrom": "MAS",
     "lastCheckedDate": "2025-03-06T02-46-11-004Z",
     "transformDataFunction": "transformUNToGeneric"
@@ -51,6 +58,7 @@
   {
     "siteName": "UN ISIL (Da'esh) & Al-Qaida Sanctions",
     "url": "https://scsanctions.un.org/xml/en/al-qaida",
+    "fileName": "un_isil.json",
     "requirementFrom": "MAS",
     "lastCheckedDate": "2025-03-06T02-46-14-865Z",
     "transformDataFunction": "transformUNToGeneric"
@@ -58,6 +66,7 @@
   {
     "siteName": "UN 1988 Taliban",
     "url": "https://scsanctions.un.org/xml/en/taliban",
+    "fileName": "un_taliban.json",
     "requirementFrom": "MAS",
     "lastCheckedDate": "2025-03-06T02-46-17-405Z",
     "transformDataFunction": "transformUNToGeneric"
@@ -65,6 +74,7 @@
   {
     "siteName": "EU Consolidated list of persons, groups and entities subject to EU financial sanctions",
     "url": "https://webgate.ec.europa.eu/fsd/fsf/public/files/xmlFullSanctionsList_1_1/content?token=dG9rZW4tMjAxNw",
+    "fileName": "eu_financial.json",
     "requirementFrom": "EU",
     "lastCheckedDate": "2025-03-04T08-56-31-632Z",
     "transformDataFunction": "transformEUToGeneric"
@@ -72,6 +82,7 @@
   {
     "siteName": "EU Consolidated list of persons subject, under EU sanctions, to travel restrictions",
     "url": "https://www.sanctionsmap.eu/api/v1/travelbans/file/89",
+    "fileName": "eu_travel.json",
     "requirementFrom": "EU",
     "lastCheckedDate": "2025-03-04T08-56-34-156Z",
     "transformDataFunction": "transformEUToGeneric"
@@ -79,6 +90,7 @@
   {
     "siteName": "UN United Nations Security Council Consolidated List",
     "url": "https://scsanctions.un.org/resources/xml/en/consolidated.xml",
+    "fileName": "un_consolidated.json",
     "requirementFrom": "UN",
     "lastCheckedDate": "2025-03-06T02-46-36-954Z",
     "transformDataFunction": "transformUNToGeneric"
@@ -86,6 +98,7 @@
   {
     "siteName": "USA International Trade Administration Consolidated Screening List ",
     "url": "https://data.trade.gov/downloadable_consolidated_screening_list/v1/consolidated.json",
+    "fileName": "usa_trade.json",
     "requirementFrom": "USA",
     "lastCheckedDate": "",
     "transformDataFunction": "transformITAToGeneric"

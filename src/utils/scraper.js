@@ -57,9 +57,7 @@ const scrapeData = async (site) => {
 
 const saveData = (siteData, data) => {
     // Save the data to a file
-    const sanitizedSiteName = siteData.siteName.replace(/[^a-zA-Z0-9]/g, '_');
-    const fileName = `${sanitizedSiteName}_data.json`;
-    const filePath = path.join(__dirname, '../../data', fileName);
+    const filePath = path.join(__dirname, '../../data', siteData.fileName);
 
     fs.mkdirSync(path.dirname(filePath), { recursive: true });
 

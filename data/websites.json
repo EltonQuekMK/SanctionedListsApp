@@ -1,9 +1,34 @@
 [
   {
+    "siteName": "UN 1718 Democratic People’s Republic of Korea",
+    "url": "https://scsanctions.un.org/xml/en/dprk",
+    "fileName": "un_korea.json",
+    "requirementFrom": "MAS",
+    "lastCheckedDate": "2025-03-18T06-26-07-273Z",
+    "transformDataFunction": "transformUNToGeneric"
+  },
+  {
+    "siteName": "UN 1533 Democratic Republic of the Congo",
+    "url": "https://scsanctions.un.org/xml/en/drc",
+    "fileName": "un_congo.json",
+    "requirementFrom": "MAS",
+    "lastCheckedDate": "2025-03-18T06-26-09-321Z",
+    "transformDataFunction": "transformUNToGeneric"
+  },
+  {
+    "siteName": "UN 1970 Libya",
+    "url": "https://scsanctions.un.org/xml/en/libya",
+    "fileName": "un_libya.json",
+    "requirementFrom": "MAS",
+    "lastCheckedDate": "2025-03-18T06-26-10-896Z",
+    "transformDataFunction": "transformUNToGeneric"
+  },
+  {
     "siteName": "UN United Nations Security Council Consolidated List",
     "url": "https://scsanctions.un.org/resources/xml/en/consolidated.xml",
+    "fileName": "un_consolidated.json",
     "requirementFrom": "UN",
-    "lastCheckedDate": "2025-03-13T03-33-28-662Z",
+    "lastCheckedDate": "2025-03-18T06-26-15-950Z",
     "transformDataFunction": "transformUNToGeneric"
   }
 ]
