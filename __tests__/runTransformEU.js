@@ -1,6 +1,6 @@
 const fs = require('fs');
 const path = require('path');
-const { transformEUToGeneric } = require('./src/utils/scraper');
+const { transformEUToGeneric } = require('../src/utils/scraper');
 
 // Load the EU JSON data
 const euDataPath = path.join(__dirname, 'data/2025-03-04_EU___Consolidated_list_of_persons_subject__under_EU_sanctions__to_travel_restrictions_data.json');

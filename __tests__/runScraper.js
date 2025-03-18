@@ -1,6 +1,6 @@
 const fs = require('fs');
 const path = require('path');
-const { scrapeData } = require('./src/utils/scraper');
+const { scrapeData } = require('../src/utils/scraper');
 
 const run = async () => {
     const filePath = path.join(__dirname, 'data/websites.json');

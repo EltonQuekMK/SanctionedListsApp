@@ -17,11 +17,7 @@ const PORT = process.env.PORT || 3001;
 // Initialize routes
 initialize(app);
 
-// Schedule the daily job to run at midnight
-// cron.schedule('0 0 * * *', () => {
-//     console.log('Running daily job...');
-//     runDailyJob();
-// });
+runDailyJob();
 
 // Start the server
 app.listen(PORT, () => {

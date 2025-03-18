@@ -1,6 +1,6 @@
 const fs = require('fs');
 const path = require('path');
-const { sortedFuzzySearch } = require('./src/utils/fuzzySearch.js');
+const { sortedFuzzySearch } = require('../src/utils/fuzzySearch.js');
 
 const search = (query) => {
     const dataPath = path.join(__dirname, 'data', 'UN_United_Nations_Security_Council_Consolidated_List_data.json');
