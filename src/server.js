@@ -12,14 +12,14 @@ app.use(express.json());
 // Enable CORS
 app.use(cors());
 
-const PORT = process.env.PORT || 3001;
-
 // Initialize routes
 initialize(app);
 
 runDailyJob();
 
-// Start the server
-app.listen(PORT, () => {
-    console.log(`Server is running on port ${PORT}`);
+app.get('/', function (_req, res) {
+	res.send('<h1>Server is running</h1>');
 });
+
+// Start the server
+app.listen(3000, () => console.log("Server ready on port 3000."));

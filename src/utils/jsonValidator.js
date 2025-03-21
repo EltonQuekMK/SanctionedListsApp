@@ -3,7 +3,7 @@ const path = require('path');
 const { Validator } = require('jsonschema');
 
 // Utility function to validate JSON data against a schema
-const validateJson = (data, schemaPath) => {
+const validateJson = (data) => {
     // Load the JSON schema
     const schemaPath = path.join(__dirname, '../../data/jsonschema.json');
     const schema = JSON.parse(fs.readFileSync(schemaPath, 'utf8'));

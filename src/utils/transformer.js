@@ -21,10 +21,10 @@ const transformEUToGeneric = (euData) => {
 };
 
 const transformAddress = (address) => {
-    const note = address.NOTE ?? "";
-    const street = address.STREET ?? "";
-    const city = address.CITY ?? "";
-    const country = address.COUNTRY ?? "";
+    const note = address.NOTE || "";
+    const street = address.STREET || "";
+    const city = address.CITY || "";
+    const country = address.COUNTRY || "";
 
     return [note, street, city, country].filter(part => part !== "").join(", ");
 };
@@ -40,7 +40,7 @@ const transformUNToGeneric = (data) => {
 
         individuals.forEach(individual => {
             const dateOfBirth = Array.isArray(individual.INDIVIDUAL_DATE_OF_BIRTH)
-                ? individual.INDIVIDUAL_DATE_OF_BIRTH.find(dob => dob.TYPE_OF_DATE === "EXACT")?.DATE || ""
+                ? (individual.INDIVIDUAL_DATE_OF_BIRTH.find(dob => dob.TYPE_OF_DATE === "EXACT") || {}).DATE || ""
                 : "";
 
             const placeOfBirth = Array.isArray(individual.INDIVIDUAL_PLACE_OF_BIRTH)
@@ -89,7 +89,7 @@ const transformUNToGeneric = (data) => {
 
         entities.forEach(entity => {
             const dateOfBirth = Array.isArray(entity.ENTITY_DATE_OF_BIRTH)
-                ? entity.ENTITY_DATE_OF_BIRTH.find(dob => dob.TYPE_OF_DATE === "EXACT")?.DATE || ""
+                ? (entity.ENTITY_DATE_OF_BIRTH.find(dob => dob.TYPE_OF_DATE === "EXACT") || {}).DATE || ""
                 : "";
 
             const placeOfBirth = Array.isArray(entity.ENTITY_PLACE_OF_BIRTH)
