@@ -58,7 +58,7 @@
       "Kabkabiya, Sudan",
       "Resides in Kabkabiya and the city of Kutum, Northern Darfur and has resided in Khartoum., Kutum, Sudan"
     ],
-    "DATE_OF_BIRTH": "",
+    "DATE_OF_BIRTH": "1964-01-01",
     "PLACE_OF_BIRTH": {
       "COUNTRY": ""
     },
@@ -131,8 +131,8 @@
   {
     "TYPE": "individual",
     "FIRST_NAME": "OSMAN",
-    "SECOND_NAME": "MOHAMED ",
-    "THIRD_NAME": "HAMID ",
+    "SECOND_NAME": "MOHAMED",
+    "THIRD_NAME": "HAMID",
     "ALIAS": [],
     "ADDRESS": [
       ""

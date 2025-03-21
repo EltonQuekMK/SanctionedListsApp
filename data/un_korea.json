@@ -138,15 +138,11 @@
     "FIRST_NAME": "CHANG",
     "SECOND_NAME": "MYONG-CHIN",
     "THIRD_NAME": "",
-    "ALIAS": [
-      {
-        "ALIAS_NAME": "Jang Myong-Jin"
-      }
-    ],
+    "ALIAS": [],
     "ADDRESS": [
       ""
     ],
-    "DATE_OF_BIRTH": "",
+    "DATE_OF_BIRTH": "1968-02-19",
     "PLACE_OF_BIRTH": {
       "COUNTRY": ""
     },
@@ -481,11 +477,7 @@
     "FIRST_NAME": "KIM",
     "SECOND_NAME": "JUNG JONG",
     "THIRD_NAME": "",
-    "ALIAS": [
-      {
-        "ALIAS_NAME": "Kim Chung Chong"
-      }
-    ],
+    "ALIAS": [],
     "ADDRESS": [
       ""
     ],
@@ -572,7 +564,7 @@
     "THIRD_NAME": "",
     "ALIAS": [
       {
-        "ALIAS_NAME": "Kim\n                        Yong-Chol"
+        "ALIAS_NAME": "Kim Yong-Chol"
       },
       {
         "ALIAS_NAME": "Kim Young-Chol"
@@ -709,15 +701,11 @@
     "FIRST_NAME": "KIM",
     "SECOND_NAME": "SONG CHOL",
     "THIRD_NAME": "",
-    "ALIAS": [
-      {
-        "ALIAS_NAME": "Kim Hak Song"
-      }
-    ],
+    "ALIAS": [],
     "ADDRESS": [
       ""
     ],
-    "DATE_OF_BIRTH": "",
+    "DATE_OF_BIRTH": "1968-03-26",
     "PLACE_OF_BIRTH": {
       "COUNTRY": ""
     },
@@ -1042,11 +1030,7 @@
     "FIRST_NAME": "KIM",
     "SECOND_NAME": "KYONG OK",
     "THIRD_NAME": "",
-    "ALIAS": [
-      {
-        "ALIAS_NAME": "Kim Kyong Ok"
-      }
-    ],
+    "ALIAS": [],
     "ADDRESS": [
       "Pyongyang, Democratic People's Republic of Korea"
     ],
@@ -2128,7 +2112,7 @@
         "ALIAS_NAME": "SAEINGP'IL COMPANY"
       },
       {
-        "ALIAS_NAME": "National Resources Development and Investment\nCorporation"
+        "ALIAS_NAME": "National Resources Development and Investment Corporation"
       },
       {
         "ALIAS_NAME": "Saeng Pil Trading Corporation"
@@ -2890,10 +2874,10 @@
     "THIRD_NAME": "",
     "ALIAS": [
       {
-        "ALIAS_NAME": "Choson International Chemicals Joint Operation\nCompany"
+        "ALIAS_NAME": "Choson International Chemicals Joint Operation Company"
       },
       {
-        "ALIAS_NAME": "Chosun International Chemicals Joint Operation\nCompany"
+        "ALIAS_NAME": "Chosun International Chemicals Joint Operation Company"
       },
       {
         "ALIAS_NAME": "International Chemical Joint Venture Company"
@@ -3169,7 +3153,7 @@
   },
   {
     "TYPE": "entity",
-    "FIRST_NAME": "CENTRAL MILITARY COMMISSION OF THE WORKERS’ PARTY OF KOREA\n(CMC)",
+    "FIRST_NAME": "CENTRAL MILITARY COMMISSION OF THE WORKERS’ PARTY OF KOREA (CMC)",
     "SECOND_NAME": "",
     "THIRD_NAME": "",
     "ALIAS": [],
@@ -3226,7 +3210,7 @@
   },
   {
     "TYPE": "entity",
-    "FIRST_NAME": "MINISTRY OF NATIONAL DEFENCE ",
+    "FIRST_NAME": "MINISTRY OF NATIONAL DEFENCE",
     "SECOND_NAME": "",
     "THIRD_NAME": "",
     "ALIAS": [

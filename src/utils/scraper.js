@@ -5,6 +5,25 @@ const { Validator } = require('jsonschema');
 const { parsers } = require('./parser.js')
 const { transformers } = require('./transformer.js')
 
+const processWebsiteScraping = async () => {
+    const filePath = path.join(__dirname, '../../data/websites.json');
+
+    // Read the websites.json file
+    const rawData = fs.readFileSync(filePath);
+    const websites = JSON.parse(rawData);
+
+    for (const site of websites) {
+        try {
+            console.log(`Scraping data from: ${site.url}`);
+            const result = await scrapeData(site);
+            console.log('Scraped data');
+
+        } catch (error) {
+            console.error(`Error scraping ${site.url}:`, error);
+        }
+    }
+}
+
 // Load the JSON schema
 const schemaPath = path.join(__dirname, '../../data/jsonschema.json');
 const schema = JSON.parse(fs.readFileSync(schemaPath, 'utf8'));
@@ -102,4 +121,4 @@ const saveLastChecked = (siteData) => {
     console.log('lastCheckedDate updated')
 }
 
-module.exports = { scrapeData, saveLastChecked };
+module.exports = { processWebsiteScraping, scrapeData, saveLastChecked };

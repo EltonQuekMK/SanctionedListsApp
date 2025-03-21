@@ -24,7 +24,7 @@
     "ADDRESS": [
       ""
     ],
-    "DATE_OF_BIRTH": "",
+    "DATE_OF_BIRTH": "1963-04-11",
     "PLACE_OF_BIRTH": {
       "STATE_PROVINCE": "Monufia Governate",
       "COUNTRY": "Egypt"
@@ -505,7 +505,7 @@
     "ADDRESS": [
       "United States of America"
     ],
-    "DATE_OF_BIRTH": "",
+    "DATE_OF_BIRTH": "1974-03-14",
     "PLACE_OF_BIRTH": {
       "CITY": "Zanzibar",
       "COUNTRY": "United Republic of Tanzania"
@@ -593,7 +593,7 @@
     "ADDRESS": [
       "since July 2013, Jordan"
     ],
-    "DATE_OF_BIRTH": "",
+    "DATE_OF_BIRTH": "1960-12-30",
     "PLACE_OF_BIRTH": {
       "CITY": "Bethlehem",
       "STATE_PROVINCE": "West Bank",
@@ -721,7 +721,7 @@
     "ADDRESS": [
       ""
     ],
-    "DATE_OF_BIRTH": "",
+    "DATE_OF_BIRTH": "1939-04-15",
     "PLACE_OF_BIRTH": {
       "COUNTRY": ""
     },
@@ -823,7 +823,7 @@
         "ALIAS_NAME": "‘Abd al-Rahman"
       },
       {
-        "ALIAS_NAME": "Abdel Ilah Sabri (false identity related to fraudulent\n                        South African identification number 6910275240086 linked to South African\n                        passport number 434021161, both documents have been confiscated)"
+        "ALIAS_NAME": "Abdel Ilah Sabri (false identity related to fraudulent South African identification number 6910275240086 linked to South African passport number 434021161, both documents have been confiscated)"
       },
       {
         "ALIAS_NAME": "Al-Libi"
@@ -1224,11 +1224,7 @@
     "FIRST_NAME": "ISAM",
     "SECOND_NAME": "ALI",
     "THIRD_NAME": "MOHAMED",
-    "ALIAS": [
-      {
-        "ALIAS_NAME": "Mansour Thaer"
-      }
-    ],
+    "ALIAS": [],
     "ADDRESS": [
       ""
     ],
@@ -1321,7 +1317,7 @@
     "ADDRESS": [
       ""
     ],
-    "DATE_OF_BIRTH": "",
+    "DATE_OF_BIRTH": "1972-05-01",
     "PLACE_OF_BIRTH": {
       "CITY": "Gheil Bawazir",
       "STATE_PROVINCE": "Hadramawt",
@@ -1679,7 +1675,7 @@
     "ADDRESS": [
       ""
     ],
-    "DATE_OF_BIRTH": "",
+    "DATE_OF_BIRTH": "1957-04-25",
     "PLACE_OF_BIRTH": {
       "COUNTRY": "Indonesia"
     },
@@ -2835,7 +2831,7 @@
     "ADDRESS": [
       "London, United Kingdom of Great Britain and Northern Ireland"
     ],
-    "DATE_OF_BIRTH": "",
+    "DATE_OF_BIRTH": "1961-03-01",
     "PLACE_OF_BIRTH": {
       "CITY": "Qaylubiyah",
       "COUNTRY": "Egypt"
@@ -2906,7 +2902,7 @@
       "previous location until 2016, Philippines",
       "location since 2016, Philippines"
     ],
-    "DATE_OF_BIRTH": "",
+    "DATE_OF_BIRTH": "1966-03-18",
     "PLACE_OF_BIRTH": {
       "CITY": "Bulanza, Lantawan",
       "STATE_PROVINCE": "Basilan",
@@ -3217,7 +3213,7 @@
     "ADDRESS": [
       ""
     ],
-    "DATE_OF_BIRTH": "",
+    "DATE_OF_BIRTH": "1969-04-04",
     "PLACE_OF_BIRTH": {
       "CITY": "Bengasi",
       "COUNTRY": "Libya"
@@ -3249,7 +3245,7 @@
     "ADDRESS": [
       "Heimdalsgate 36-V, Oslo, Norway"
     ],
-    "DATE_OF_BIRTH": "",
+    "DATE_OF_BIRTH": "1956-07-07",
     "PLACE_OF_BIRTH": {
       "CITY": "Olaqloo Sharbajer",
       "STATE_PROVINCE": "Al-Sulaymaniyah Governorate",
@@ -4175,7 +4171,7 @@
     "ADDRESS": [
       ""
     ],
-    "DATE_OF_BIRTH": "",
+    "DATE_OF_BIRTH": "1965-03-01",
     "PLACE_OF_BIRTH": {
       "CITY": "Faisalabad",
       "COUNTRY": "Pakistan"
@@ -4210,7 +4206,7 @@
     "ADDRESS": [
       "Saudi Arabia"
     ],
-    "DATE_OF_BIRTH": "",
+    "DATE_OF_BIRTH": "1943-08-17",
     "PLACE_OF_BIRTH": {
       "COUNTRY": "India"
     },
@@ -4472,7 +4468,7 @@
     "TYPE": "individual",
     "FIRST_NAME": "MUTHANNA",
     "SECOND_NAME": "HARITH",
-    "THIRD_NAME": "SALMAN ",
+    "THIRD_NAME": "SALMAN",
     "ALIAS": [
       {
         "ALIAS_NAME": "Dr. Muthanna Al Dari"
@@ -4678,7 +4674,7 @@
     "ADDRESS": [
       ""
     ],
-    "DATE_OF_BIRTH": "",
+    "DATE_OF_BIRTH": "1971-04-21",
     "PLACE_OF_BIRTH": {
       "CITY": "Las Cruces",
       "STATE_PROVINCE": "New Mexico",
@@ -4732,7 +4728,7 @@
     "ADDRESS": [
       ""
     ],
-    "DATE_OF_BIRTH": "",
+    "DATE_OF_BIRTH": "1981-02-05",
     "PLACE_OF_BIRTH": {
       "COUNTRY": ""
     },
@@ -4763,7 +4759,7 @@
     "ADDRESS": [
       ""
     ],
-    "DATE_OF_BIRTH": "",
+    "DATE_OF_BIRTH": "1964-04-13",
     "PLACE_OF_BIRTH": {
       "CITY": "Kharsenoy Village",
       "STATE_PROVINCE": "Shatoyskiy (Sovetskiy) District, Chechenskaya Respublika",
@@ -4823,7 +4819,7 @@
     "ADDRESS": [
       "Yemen"
     ],
-    "DATE_OF_BIRTH": "",
+    "DATE_OF_BIRTH": "1982-04-19",
     "PLACE_OF_BIRTH": {
       "CITY": "Riyadh",
       "COUNTRY": "Saudi Arabia"
@@ -4940,7 +4936,7 @@
     "ADDRESS": [
       "Indonesia"
     ],
-    "DATE_OF_BIRTH": "",
+    "DATE_OF_BIRTH": "1977-11-16",
     "PLACE_OF_BIRTH": {
       "CITY": "Solo",
       "COUNTRY": "Indonesia"
@@ -5038,7 +5034,7 @@
       "Jalan M. Saidi RT 010 RW 001 Pesanggrahan, South Petukangan, South Jakarta, Indonesia",
       "Jalan Nakula of Witana Harja Complex Block C, Pamulang, Indonesia"
     ],
-    "DATE_OF_BIRTH": "",
+    "DATE_OF_BIRTH": "1984-05-28",
     "PLACE_OF_BIRTH": {
       "CITY": "East Lombok",
       "STATE_PROVINCE": "West Nusa Tenggara",
@@ -5119,7 +5115,7 @@
     "THIRD_NAME": "OULD MUHAMMAD SALIM",
     "ALIAS": [
       {
-        "ALIAS_NAME": "Abdarrahmane ould Mohamed el Houcein ould Mohamed\nSalem"
+        "ALIAS_NAME": "Abdarrahmane ould Mohamed el Houcein ould Mohamed Salem"
       },
       {
         "ALIAS_NAME": "شيخ يونس الموريتاني"
@@ -5258,7 +5254,7 @@
       "A2, City Computer Plaza, Shar-e-Now, Kabul, Afghanistan (previous address)",
       "previous address, Microrayan 3rd, Apt. 45, block 21, Kabul, Afghanistan"
     ],
-    "DATE_OF_BIRTH": "",
+    "DATE_OF_BIRTH": "1974-01-05",
     "PLACE_OF_BIRTH": {
       "CITY": "Kabul",
       "COUNTRY": "Afghanistan"
@@ -5296,7 +5292,7 @@
     "ADDRESS": [
       "Jalan Ir. H. Juanda 8/10, RT/RW 002/001, Jodipan, Blimbing, Indonesia"
     ],
-    "DATE_OF_BIRTH": "",
+    "DATE_OF_BIRTH": "1948-05-04",
     "PLACE_OF_BIRTH": {
       "CITY": "Tulungagung",
       "COUNTRY": "Indonesia"
@@ -5776,7 +5772,7 @@
     "ADDRESS": [
       "Egypt"
     ],
-    "DATE_OF_BIRTH": "",
+    "DATE_OF_BIRTH": "1964-01-01",
     "PLACE_OF_BIRTH": {
       "CITY": "Cairo",
       "COUNTRY": "Egypt"
@@ -6151,7 +6147,7 @@
     "ADDRESS": [
       ""
     ],
-    "DATE_OF_BIRTH": "",
+    "DATE_OF_BIRTH": "1971-12-04",
     "PLACE_OF_BIRTH": {
       "CITY": "Kharj",
       "COUNTRY": "Saudi Arabia"
@@ -6873,7 +6869,7 @@
     "ADDRESS": [
       "located in as at Dec. 2014, Syrian Arab Republic"
     ],
-    "DATE_OF_BIRTH": "",
+    "DATE_OF_BIRTH": "1986-01-11",
     "PLACE_OF_BIRTH": {
       "CITY": "Akhmeta, Village Birkiani",
       "COUNTRY": "Georgia"
@@ -7609,7 +7605,7 @@
     "ADDRESS": [
       "location as at Sep. 2015, Syrian Arab Republic"
     ],
-    "DATE_OF_BIRTH": "",
+    "DATE_OF_BIRTH": "1975-05-14",
     "PLACE_OF_BIRTH": {
       "STATE_PROVINCE": "Varzob area",
       "COUNTRY": "Tajikistan"
@@ -7627,15 +7623,11 @@
     "FIRST_NAME": "NUSRET",
     "SECOND_NAME": "IMAMOVIC",
     "THIRD_NAME": "",
-    "ALIAS": [
-      {
-        "ALIAS_NAME": "Nusret Sulejman Imamovic"
-      }
-    ],
+    "ALIAS": [],
     "ADDRESS": [
       "location as at Sep. 2015, Syrian Arab Republic"
     ],
-    "DATE_OF_BIRTH": "",
+    "DATE_OF_BIRTH": "1971-09-26",
     "PLACE_OF_BIRTH": {
       "CITY": "Miljanovci",
       "STATE_PROVINCE": "Kalesija Municipality",
@@ -8023,7 +8015,7 @@
     "ADDRESS": [
       "Egypt"
     ],
-    "DATE_OF_BIRTH": "",
+    "DATE_OF_BIRTH": "1988-09-22",
     "PLACE_OF_BIRTH": {
       "CITY": "Alexandria",
       "COUNTRY": "Egypt"
@@ -8285,10 +8277,10 @@
         "ALIAS_NAME": "Abu Muhammad (original script: Абу Мухаммад)"
       },
       {
-        "ALIAS_NAME": "Abu Muhammad Al-Kadari (original script: Абу\n                        Мухаммад Аль-Кадари)"
+        "ALIAS_NAME": "Abu Muhammad Al-Kadari (original script: Абу Мухаммад Аль-Кадари)"
       },
       {
-        "ALIAS_NAME": "Muhamadmuhtar (original script:\n                        Мухамадмухтар)"
+        "ALIAS_NAME": "Muhamadmuhtar (original script: Мухамадмухтар)"
       }
     ],
     "ADDRESS": [
@@ -8327,7 +8319,7 @@
     "ADDRESS": [
       "Southern. Location as of July 2016, Syrian Arab Republic"
     ],
-    "DATE_OF_BIRTH": "",
+    "DATE_OF_BIRTH": "1969-01-01",
     "PLACE_OF_BIRTH": {
       "CITY": "Qalamun",
       "STATE_PROVINCE": "Damascus Province",
@@ -8788,7 +8780,7 @@
     "ADDRESS": [
       "Al-Qaim, Iraq"
     ],
-    "DATE_OF_BIRTH": "",
+    "DATE_OF_BIRTH": "1967-06-16",
     "PLACE_OF_BIRTH": {
       "CITY": "Al-Qaim",
       "STATE_PROVINCE": "Al-Anbar Province",
@@ -8854,7 +8846,7 @@
       "previous address, Jeddah, Saudi Arabia",
       "previous address, Daina, Saudi Arabia"
     ],
-    "DATE_OF_BIRTH": "",
+    "DATE_OF_BIRTH": "1965-03-03",
     "PLACE_OF_BIRTH": {
       "CITY": "Tuburan",
       "STATE_PROVINCE": "Basilan Province",
@@ -8875,7 +8867,7 @@
     "THIRD_NAME": "AL-SAHRAOUI",
     "ALIAS": [
       {
-        "ALIAS_NAME": "Lahbib Idrissi ould Sidi Abdi ould Said ould El\nBachir"
+        "ALIAS_NAME": "Lahbib Idrissi ould Sidi Abdi ould Said ould El Bachir"
       },
       {
         "ALIAS_NAME": "Adnan Abu Walid al-Sahrawi"
@@ -8898,7 +8890,7 @@
     ],
     "DATE_OF_BIRTH": "",
     "PLACE_OF_BIRTH": {
-      "COUNTRY": ""
+      "CITY": "Laayoune"
     },
     "NAME_ORIGINAL_SCRIPT": "عدنان أبو وليد الصحراوي ",
     "TITLE": "",
@@ -9158,7 +9150,7 @@
     "ADDRESS": [
       ""
     ],
-    "DATE_OF_BIRTH": "",
+    "DATE_OF_BIRTH": "1968-07-10",
     "PLACE_OF_BIRTH": {
       "CITY": "Bahawalpur",
       "STATE_PROVINCE": "Punjab Province",
@@ -9220,7 +9212,7 @@
     "ADDRESS": [
       ""
     ],
-    "DATE_OF_BIRTH": "",
+    "DATE_OF_BIRTH": "1958-01-01",
     "PLACE_OF_BIRTH": {
       "COUNTRY": ""
     },
@@ -9280,34 +9272,34 @@
     "THIRD_NAME": "Abdal-Rahman",
     "ALIAS": [
       {
-        "ALIAS_NAME": "Abu Ibrahim al-Hashimi\n                                                  al-Qurashi"
+        "ALIAS_NAME": "Abu Ibrahim al-Hashimi al-Qurashi"
       },
       {
         "ALIAS_NAME": "Hajji Abdallah"
       },
       {
-        "ALIAS_NAME": "Abu ‘Umar\n                                                  al-Turkmani"
+        "ALIAS_NAME": "Abu ‘Umar al-Turkmani"
       },
       {
-        "ALIAS_NAME": "Abdullah\n                                                  Qardash"
+        "ALIAS_NAME": "Abdullah Qardash"
       },
       {
-        "ALIAS_NAME": "Abu ‘Abdullah\n                                                  Qardash"
+        "ALIAS_NAME": "Abu ‘Abdullah Qardash"
       },
       {
-        "ALIAS_NAME": "al-Hajj Abdullah\n                                                  Qardash"
+        "ALIAS_NAME": "al-Hajj Abdullah Qardash"
       },
       {
-        "ALIAS_NAME": "Hajji Abdullah\n                                                  Al-Afari"
+        "ALIAS_NAME": "Hajji Abdullah Al-Afari"
       },
       {
-        "ALIAS_NAME": "`Abdul Amir Muhammad\n                                                  Sa'id Salbi"
+        "ALIAS_NAME": "`Abdul Amir Muhammad Sa'id Salbi"
       },
       {
-        "ALIAS_NAME": "Muhammad Sa'id\n                                                  `Abd-al-Rahman al-Mawla"
+        "ALIAS_NAME": "Muhammad Sa'id `Abd-al-Rahman al-Mawla"
       },
       {
-        "ALIAS_NAME": "Amir Muhammad Sa’id\n                                                  ‘Abd-al-Rahman Muhammad al-Mula"
+        "ALIAS_NAME": "Amir Muhammad Sa’id ‘Abd-al-Rahman Muhammad al-Mula"
       },
       {
         "ALIAS_NAME": "Al-Ustadh"
@@ -9316,7 +9308,7 @@
         "ALIAS_NAME": "Ustadh Ahmad"
       },
       {
-        "ALIAS_NAME": "Amir Muhammad Sa’id\n                                                  Abdal-Rahman al-Mawla"
+        "ALIAS_NAME": "Amir Muhammad Sa’id Abdal-Rahman al-Mawla"
       }
     ],
     "ADDRESS": [
@@ -9324,7 +9316,7 @@
       "previous address, near Shahid Mazen Mosque and al-Khansa Hospital, Mosul, Iraq",
       "Idlib, Syrian Arab Republic"
     ],
-    "DATE_OF_BIRTH": "",
+    "DATE_OF_BIRTH": "1976-10-05",
     "PLACE_OF_BIRTH": {
       "STATE_PROVINCE": "Tall’Afar",
       "COUNTRY": "Iraq"
@@ -9340,7 +9332,7 @@
   {
     "TYPE": "individual",
     "FIRST_NAME": "NOOR",
-    "SECOND_NAME": "WALI ",
+    "SECOND_NAME": "WALI",
     "THIRD_NAME": "MEHSUD",
     "ALIAS": [],
     "ADDRESS": [
@@ -9388,7 +9380,7 @@
       "Syrian Arab Republic",
       "Arsal, Lebanon"
     ],
-    "DATE_OF_BIRTH": "",
+    "DATE_OF_BIRTH": "1972-08-17",
     "PLACE_OF_BIRTH": {
       "CITY": "Benghazi",
       "COUNTRY": "Libya"
@@ -9436,7 +9428,7 @@
       "since 2016, Gazantiep, Turkey",
       "Raqqa, Syrian Arab Republic"
     ],
-    "DATE_OF_BIRTH": "",
+    "DATE_OF_BIRTH": "1983-10-01",
     "PLACE_OF_BIRTH": {
       "CITY": "Raqqa",
       "COUNTRY": "Syrian Arab Republic"
@@ -9737,7 +9729,7 @@
         "ALIAS_NAME": "The Islamic Army for the Liberation of Holy Places"
       },
       {
-        "ALIAS_NAME": "The World Islamic Front for Jihad Against Jews and\nCrusaders"
+        "ALIAS_NAME": "The World Islamic Front for Jihad Against Jews and Crusaders"
       },
       {
         "ALIAS_NAME": "Usama Bin Laden Network"
@@ -10655,22 +10647,22 @@
         "ALIAS_NAME": "Dzem'ijjetul Furqan"
       },
       {
-        "ALIAS_NAME": "Association for Citizens Rights and Resistance to\n                        Lies"
+        "ALIAS_NAME": "Association for Citizens Rights and Resistance to Lies"
       },
       {
         "ALIAS_NAME": "Dzemijetul Furkan"
       },
       {
-        "ALIAS_NAME": "Association of Citizens for the Support of Truth and\n                        Supression of Lies"
+        "ALIAS_NAME": "Association of Citizens for the Support of Truth and Supression of Lies"
       },
       {
         "ALIAS_NAME": "Sirat"
       },
       {
-        "ALIAS_NAME": "Association for Education, Culture and Building\n                        Society-Sirat"
+        "ALIAS_NAME": "Association for Education, Culture and Building Society-Sirat"
       },
       {
-        "ALIAS_NAME": "Association for Education, Cultural, and to Create Society\n                        -Sirat"
+        "ALIAS_NAME": "Association for Education, Cultural, and to Create Society -Sirat"
       },
       {
         "ALIAS_NAME": "Istikamet"
@@ -10679,7 +10671,7 @@
         "ALIAS_NAME": "In Siratel"
       },
       {
-        "ALIAS_NAME": "Citizens’ Association for Support and Prevention of lies –\n                        Furqan"
+        "ALIAS_NAME": "Citizens’ Association for Support and Prevention of lies – Furqan"
       }
     ],
     "ADDRESS": [
@@ -11182,13 +11174,13 @@
     "THIRD_NAME": "",
     "ALIAS": [
       {
-        "ALIAS_NAME": "Al-Qaida of Jihad Organization in the Arabian\n                        Peninsula"
+        "ALIAS_NAME": "Al-Qaida of Jihad Organization in the Arabian Peninsula"
       },
       {
         "ALIAS_NAME": "Tanzim Qa’idat al-Jihad fi Jazirat al-Arab"
       },
       {
-        "ALIAS_NAME": "Al-Qaida Organization in the Arabian Peninsula\n                        (AQAP)"
+        "ALIAS_NAME": "Al-Qaida Organization in the Arabian Peninsula (AQAP)"
       },
       {
         "ALIAS_NAME": "Al-Qaida in the South Arabian Peninsula"
@@ -11348,7 +11340,7 @@
   },
   {
     "TYPE": "entity",
-    "FIRST_NAME": "MOUVEMENT POUR\n                                                  L’UNIFICATION ET LE JIHAD EN AFRIQUE DE L’OUEST\n                                                  (MUJAO)",
+    "FIRST_NAME": "MOUVEMENT POUR L’UNIFICATION ET LE JIHAD EN AFRIQUE DE L’OUEST (MUJAO)",
     "SECOND_NAME": "",
     "THIRD_NAME": "",
     "ALIAS": [],
@@ -11424,13 +11416,13 @@
     "THIRD_NAME": "",
     "ALIAS": [
       {
-        "ALIAS_NAME": "Hay’at Tahrir al-Sham (HTS) (هيئة تحرير الشام\n                        (original script); Hay’at Tahrir al-Sham; Hay’et Tahrir al-Sham; Hayat\n                        Tahrir al-Sham; Assembly for the Liberation of Syria; Assembly for the\n                        Liberation of the Levant; Liberation of al-Sham Commission; Liberation of\n                        the Levant Organisation Tahrir al-Sham; Tahrir al-Sham Hay’at)"
+        "ALIAS_NAME": "Hay’at Tahrir al-Sham (HTS) (هيئة تحرير الشام (original script); Hay’at Tahrir al-Sham; Hay’et Tahrir al-Sham; Hayat Tahrir al-Sham; Assembly for the Liberation of Syria; Assembly for the Liberation of the Levant; Liberation of al-Sham Commission; Liberation of the Levant Organisation Tahrir al-Sham; Tahrir al-Sham Hay’at)"
       },
       {
-        "ALIAS_NAME": "جبهة النصرة (the Victory Front; Jabhat al-Nusrah;\n                        Jabhet al-Nusra; Al-Nusrah Front; Al-Nusra Front)"
+        "ALIAS_NAME": "جبهة النصرة (the Victory Front; Jabhat al-Nusrah; Jabhet al-Nusra; Al-Nusrah Front; Al-Nusra Front)"
       },
       {
-        "ALIAS_NAME": "جبهة فتح الشام (Jabhat Fath al Sham; Jabhat Fath\n                        al-Sham; Jabhat Fatah al-Sham; Jabhat Fateh Al-Sham; Fatah al-Sham Front;\n                        Fateh al-Sham Front)"
+        "ALIAS_NAME": "جبهة فتح الشام (Jabhat Fath al Sham; Jabhat Fath al-Sham; Jabhat Fatah al-Sham; Jabhat Fateh Al-Sham; Fatah al-Sham Front; Fateh al-Sham Front)"
       },
       {
         "ALIAS_NAME": "Conquest of the Levant Front"
@@ -11448,10 +11440,10 @@
         "ALIAS_NAME": "Front for the Conquest of Syria"
       },
       {
-        "ALIAS_NAME": "شبكة أنصار المجاهدين (Ansar al-Mujahideen Network -\n                        sub-unit name)"
+        "ALIAS_NAME": "شبكة أنصار المجاهدين (Ansar al-Mujahideen Network - sub-unit name)"
       },
       {
-        "ALIAS_NAME": "مجاهدو الشام في ساحات الجهاد (Levantine Mujahideen\n                        on the Battlefields of Jihad - sub-unit name)"
+        "ALIAS_NAME": "مجاهدو الشام في ساحات الجهاد (Levantine Mujahideen on the Battlefields of Jihad - sub-unit name)"
       }
     ],
     "ADDRESS": [
@@ -11602,13 +11594,13 @@
         "ALIAS_NAME": "Jama’atu Ansarul Muslimina fi Biladis-Sudan (JAMBS)"
       },
       {
-        "ALIAS_NAME": "Jamma’atu Ansarul Muslimina fi Biladis-Sudan\n(JAMBS)"
+        "ALIAS_NAME": "Jamma’atu Ansarul Muslimina fi Biladis-Sudan (JAMBS)"
       },
       {
-        "ALIAS_NAME": "Vanguards for the Protection of Muslims in Black\nAfrica"
+        "ALIAS_NAME": "Vanguards for the Protection of Muslims in Black Africa"
       },
       {
-        "ALIAS_NAME": "Vanguard for the Protection of Muslims in Black\nAfrica"
+        "ALIAS_NAME": "Vanguard for the Protection of Muslims in Black Africa"
       }
     ],
     "ADDRESS": [
@@ -11749,7 +11741,7 @@
         "ALIAS_NAME": "Ansar al-Sharia Benghazi"
       },
       {
-        "ALIAS_NAME": "أنصار الشريعة بليبيا (Ansar al Charia in Libya\n(ASL))"
+        "ALIAS_NAME": "أنصار الشريعة بليبيا (Ansar al Charia in Libya (ASL))"
       },
       {
         "ALIAS_NAME": "كتيبة أنصار الشريعة (Katibat Ansar al Charia)"
@@ -11916,7 +11908,7 @@
         "ALIAS_NAME": "Soldiers of the Caliphate of Algeria"
       },
       {
-        "ALIAS_NAME": "Soldiers of the Caliphate in the Land of\n                        Algeria"
+        "ALIAS_NAME": "Soldiers of the Caliphate in the Land of Algeria"
       }
     ],
     "ADDRESS": [
@@ -11964,7 +11956,7 @@
   },
   {
     "TYPE": "entity",
-    "FIRST_NAME": "HANIFA MONEY EXCHANGE OFFICE (BRANCH LOCATED IN ALBU KAMAL,\nSYRIAN ARAB REPUBLIC)",
+    "FIRST_NAME": "HANIFA MONEY EXCHANGE OFFICE (BRANCH LOCATED IN ALBU KAMAL, SYRIAN ARAB REPUBLIC)",
     "SECOND_NAME": "",
     "THIRD_NAME": "",
     "ALIAS": [
@@ -12237,13 +12229,13 @@
         "ALIAS_NAME": "SOUTH ASIAN CHAPTER OF ISIL"
       },
       {
-        "ALIAS_NAME": "The Islamic State of Iraq and ash-Sham—Khorasan\n                        Province"
+        "ALIAS_NAME": "The Islamic State of Iraq and ash-Sham—Khorasan Province"
       },
       {
         "ALIAS_NAME": "The Islamic State of Iraq and Syria—Khorasan"
       },
       {
-        "ALIAS_NAME": "Islamic State of Iraq and Levant in Khorasan\n                        Province"
+        "ALIAS_NAME": "Islamic State of Iraq and Levant in Khorasan Province"
       },
       {
         "ALIAS_NAME": "Islamic State Khurasan"
@@ -12527,7 +12519,7 @@
   },
   {
     "TYPE": "entity",
-    "FIRST_NAME": "Islamic State In Iraq And the Levant In South-East Asia\n                (ISIL-SEA, ISIL-South East Asia)",
+    "FIRST_NAME": "Islamic State In Iraq And the Levant In South-East Asia (ISIL-SEA, ISIL-South East Asia)",
     "SECOND_NAME": "",
     "THIRD_NAME": "",
     "ALIAS": [

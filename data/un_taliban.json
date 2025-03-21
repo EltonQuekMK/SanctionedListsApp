@@ -582,11 +582,7 @@
     "FIRST_NAME": "ABDUL RAUF",
     "SECOND_NAME": "KHADEM",
     "THIRD_NAME": "",
-    "ALIAS": [
-      {
-        "ALIAS_NAME": "Mullah Abdul Rauf Aliza"
-      }
-    ],
+    "ALIAS": [],
     "ADDRESS": [
       ""
     ],
@@ -609,11 +605,7 @@
     "FIRST_NAME": "AMIR KHAN",
     "SECOND_NAME": "MOTAQI",
     "THIRD_NAME": "",
-    "ALIAS": [
-      {
-        "ALIAS_NAME": "Amir Khan Muttaqi"
-      }
-    ],
+    "ALIAS": [],
     "ADDRESS": [
       ""
     ],
@@ -767,7 +759,7 @@
         "ALIAS_NAME": "Abdul Jalil Akhund"
       },
       {
-        "ALIAS_NAME": "Akhter Mohmad son of Noor Mohmad (اختر محمد ولد نور محمد\n),"
+        "ALIAS_NAME": "Akhter Mohmad son of Noor Mohmad (اختر محمد ولد نور محمد ),"
       },
       {
         "ALIAS_NAME": "Haji Gulab Gul (حاجی گلاب گل ولد حاجی حضرت گل )"
@@ -823,11 +815,7 @@
     "FIRST_NAME": "ABDUL BAQI",
     "SECOND_NAME": "BASIR",
     "THIRD_NAME": "AWAL SHAH",
-    "ALIAS": [
-      {
-        "ALIAS_NAME": "Abdul Baqi"
-      }
-    ],
+    "ALIAS": [],
     "ADDRESS": [
       ""
     ],
@@ -1031,11 +1019,7 @@
     "FIRST_NAME": "ABDULHAI",
     "SECOND_NAME": "MOTMAEN",
     "THIRD_NAME": "",
-    "ALIAS": [
-      {
-        "ALIAS_NAME": "Abdul Haq son of M. Anwar Khan (عبد الحق ولد محمد انور\nخان)"
-      }
-    ],
+    "ALIAS": [],
     "ADDRESS": [
       ""
     ],
@@ -1088,7 +1072,10 @@
     ],
     "DATE_OF_BIRTH": "",
     "PLACE_OF_BIRTH": {
-      "COUNTRY": ""
+      "CITY": "Spin Boldak District",
+      "STATE_PROVINCE": "Kandahar Province",
+      "COUNTRY": "Afghanistan",
+      "NOTE": "in the area bordering Chaman District, Quetta, Pakistan"
     },
     "NAME_ORIGINAL_SCRIPT": "عبد الرزاق آخوند لا لا آخوند",
     "TITLE": "Mullah",
@@ -1334,11 +1321,7 @@
     "FIRST_NAME": "ATIQULLAH",
     "SECOND_NAME": "WALI MOHAMMAD",
     "THIRD_NAME": "",
-    "ALIAS": [
-      {
-        "ALIAS_NAME": "Atiqullah"
-      }
-    ],
+    "ALIAS": [],
     "ADDRESS": [
       ""
     ],
@@ -1370,7 +1353,9 @@
     ],
     "DATE_OF_BIRTH": "",
     "PLACE_OF_BIRTH": {
-      "COUNTRY": ""
+      "CITY": "Shigal District",
+      "STATE_PROVINCE": "Kunar Province",
+      "COUNTRY": "Afghanistan"
     },
     "NAME_ORIGINAL_SCRIPT": "نجیب الله حقانی هدايت الله",
     "TITLE": "Maulavi",
@@ -1466,11 +1451,7 @@
     "FIRST_NAME": "MOHAMMAD WALI",
     "SECOND_NAME": "MOHAMMAD EWAZ",
     "THIRD_NAME": "",
-    "ALIAS": [
-      {
-        "ALIAS_NAME": "Mohammad Wali"
-      }
-    ],
+    "ALIAS": [],
     "ADDRESS": [
       ""
     ],
@@ -1721,15 +1702,11 @@
     "FIRST_NAME": "NURULLAH",
     "SECOND_NAME": "NURI",
     "THIRD_NAME": "",
-    "ALIAS": [
-      {
-        "ALIAS_NAME": "Norullah Noori"
-      }
-    ],
+    "ALIAS": [],
     "ADDRESS": [
       "Qatar"
     ],
-    "DATE_OF_BIRTH": "",
+    "DATE_OF_BIRTH": "1967-01-01",
     "PLACE_OF_BIRTH": {
       "CITY": "Shahjoe District",
       "STATE_PROVINCE": "Zabul Province",
@@ -1749,11 +1726,7 @@
     "FIRST_NAME": "JANAN",
     "SECOND_NAME": "AGHA",
     "THIRD_NAME": "",
-    "ALIAS": [
-      {
-        "ALIAS_NAME": "Abdullah Jan Agha"
-      }
-    ],
+    "ALIAS": [],
     "ADDRESS": [
       ""
     ],
@@ -1776,11 +1749,7 @@
     "FIRST_NAME": "DOST MOHAMMAD",
     "SECOND_NAME": "",
     "THIRD_NAME": "",
-    "ALIAS": [
-      {
-        "ALIAS_NAME": "Doost Mohammad"
-      }
-    ],
+    "ALIAS": [],
     "ADDRESS": [
       ""
     ],
@@ -1808,7 +1777,7 @@
         "ALIAS_NAME": "Mullah Khairullah Khairkhwah"
       },
       {
-        "ALIAS_NAME": "Khirullah Said Wali Khairkhwa, born in Kandahar on 01\nJan.1967"
+        "ALIAS_NAME": "Khirullah Said Wali Khairkhwa, born in Kandahar on 01 Jan.1967"
       }
     ],
     "ADDRESS": [
@@ -1888,11 +1857,7 @@
     "FIRST_NAME": "MOHAMMAD HASAN",
     "SECOND_NAME": "RAHMANI",
     "THIRD_NAME": "",
-    "ALIAS": [
-      {
-        "ALIAS_NAME": "Gud Mullah Mohammad Hassan"
-      }
-    ],
+    "ALIAS": [],
     "ADDRESS": [
       ""
     ],
@@ -2564,11 +2529,7 @@
     "FIRST_NAME": "ABDUL GHAFAR",
     "SECOND_NAME": "QURISHI",
     "THIRD_NAME": "ABDUL GHANI",
-    "ALIAS": [
-      {
-        "ALIAS_NAME": "Abdul Ghaffar Qureshi"
-      }
-    ],
+    "ALIAS": [],
     "ADDRESS": [
       "Khairkhana Section Number 3, Kabul, Afghanistan"
     ],
@@ -3019,7 +2980,7 @@
     "ADDRESS": [
       ""
     ],
-    "DATE_OF_BIRTH": "",
+    "DATE_OF_BIRTH": "1963-10-15",
     "PLACE_OF_BIRTH": {
       "CITY": "Yatimchai village, Musa Qala District",
       "STATE_PROVINCE": "Helmand Province",
@@ -3038,11 +2999,7 @@
     "FIRST_NAME": "SALEH",
     "SECOND_NAME": "MOHAMMAD",
     "THIRD_NAME": "KAKAR",
-    "ALIAS": [
-      {
-        "ALIAS_NAME": "Saleh Mohammad"
-      }
-    ],
+    "ALIAS": [],
     "ADDRESS": [
       "Daman District, Afghanistan"
     ],
@@ -3082,7 +3039,7 @@
       "Kayla Village, near Miram Shah, North Waziristan Agency (NWA), Federally Administered Tribal Areas (FATA), Pakistan",
       "Sarana Zadran Village, Afghanistan"
     ],
-    "DATE_OF_BIRTH": "",
+    "DATE_OF_BIRTH": "1966-01-01",
     "PLACE_OF_BIRTH": {
       "CITY": "Sarana Village, Garda Saray area, Waza Zadran District",
       "STATE_PROVINCE": "Paktia Province",
@@ -3146,7 +3103,7 @@
     "THIRD_NAME": "",
     "ALIAS": [
       {
-        "ALIAS_NAME": "حاجى مالك نورزى (Hajji Malik Noorzai; Hajji Malak Noorzai;\nHaji Malek Noorzai)"
+        "ALIAS_NAME": "حاجى مالك نورزى (Hajji Malik Noorzai; Hajji Malak Noorzai; Haji Malek Noorzai)"
       },
       {
         "ALIAS_NAME": "Haji Maluk"
@@ -3547,7 +3504,7 @@
     "ADDRESS": [
       "Quetta, Pakistan"
     ],
-    "DATE_OF_BIRTH": "",
+    "DATE_OF_BIRTH": "1985-01-01",
     "PLACE_OF_BIRTH": {
       "CITY": "Quetta",
       "COUNTRY": "Pakistan"

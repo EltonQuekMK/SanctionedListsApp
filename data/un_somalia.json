@@ -460,7 +460,7 @@
     "ADDRESS": [
       ""
     ],
-    "DATE_OF_BIRTH": "",
+    "DATE_OF_BIRTH": "1960-11-11",
     "PLACE_OF_BIRTH": {
       "CITY": "Lamu Island",
       "COUNTRY": "Kenya"
@@ -835,7 +835,7 @@
     "TYPE": "individual",
     "FIRST_NAME": "ABDIKADIR",
     "SECOND_NAME": "MOHAMED",
-    "THIRD_NAME": "ABDIKADIR ",
+    "THIRD_NAME": "ABDIKADIR",
     "ALIAS": [
       {
         "ALIAS_NAME": "ABDUKADIR"
@@ -871,7 +871,7 @@
   {
     "TYPE": "individual",
     "FIRST_NAME": "MOHAMED",
-    "SECOND_NAME": " MOHAMUD ",
+    "SECOND_NAME": "MOHAMUD",
     "THIRD_NAME": "MIRE",
     "ALIAS": [],
     "ADDRESS": [
@@ -894,7 +894,7 @@
   {
     "TYPE": "individual",
     "FIRST_NAME": "MOHAMED",
-    "SECOND_NAME": "OMAR ",
+    "SECOND_NAME": "OMAR",
     "THIRD_NAME": "MOHAMED",
     "ALIAS": [
       {

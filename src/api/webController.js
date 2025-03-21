@@ -1,6 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 const { fuzzySearch } = require('../utils/fuzzySearch.js');
+const { processWebsiteScraping } = require('../utils/scraper.js');
 
 const search = (req, res) => {
     const { query } = req.body;
@@ -50,9 +51,16 @@ const getWebsitesList = (req, res) => {
     res.json({ data });
 };
 
+const manualTriggerScrape = (req, res) => {
+    // Trigger the scrape job manually
+    processWebsiteScraping();
+
+    res.json({ message: 'Scrape job triggered manually' });
+}
 const initialize = (app) => {
     app.post('/search', search);
     app.get('/websitesList', getWebsitesList);
+    app.get('/scrape', manualTriggerScrape);
 };
 
 module.exports = { search, getWebsitesList, initialize };

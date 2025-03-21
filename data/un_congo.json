@@ -307,7 +307,7 @@
     "ADDRESS": [
       "As of June 2011., Gisenyi, Rwanda"
     ],
-    "DATE_OF_BIRTH": "",
+    "DATE_OF_BIRTH": "1965-12-28",
     "PLACE_OF_BIRTH": {
       "CITY": "Bashali",
       "STATE_PROVINCE": "Masisi",
@@ -488,11 +488,7 @@
     "FIRST_NAME": "IGNACE",
     "SECOND_NAME": "MURWANASHYAKA",
     "THIRD_NAME": "",
-    "ALIAS": [
-      {
-        "ALIAS_NAME": "Dr. Ignace"
-      }
-    ],
+    "ALIAS": [],
     "ADDRESS": [
       "in prison, Germany"
     ],
@@ -569,15 +565,11 @@
     "FIRST_NAME": "BAUDOIN",
     "SECOND_NAME": "NGARUYE WA MYAMURO",
     "THIRD_NAME": "",
-    "ALIAS": [
-      {
-        "ALIAS_NAME": "Colonel Baudoin NGARUYE"
-      }
-    ],
+    "ALIAS": [],
     "ADDRESS": [
       "Rubavu / Mudende, Rwanda"
     ],
-    "DATE_OF_BIRTH": "",
+    "DATE_OF_BIRTH": "1978-04-01",
     "PLACE_OF_BIRTH": {
       "CITY": "Bibwe",
       "COUNTRY": "Democratic Republic of the Congo"
@@ -677,7 +669,7 @@
     "ADDRESS": [
       ""
     ],
-    "DATE_OF_BIRTH": "",
+    "DATE_OF_BIRTH": "1967-02-06",
     "PLACE_OF_BIRTH": {
       "CITY": "Rutshuru",
       "STATE_PROVINCE": "North Kivu",
@@ -696,11 +688,7 @@
     "FIRST_NAME": "FELICIEN",
     "SECOND_NAME": "NSANZUBUKIRE",
     "THIRD_NAME": "",
-    "ALIAS": [
-      {
-        "ALIAS_NAME": "Fred Irakeza"
-      }
-    ],
+    "ALIAS": [],
     "ADDRESS": [
       "As of June 2016, Democratic Republic of the Congo"
     ],
@@ -943,15 +931,11 @@
     "FIRST_NAME": "INNOCENT",
     "SECOND_NAME": "ZIMURINDA",
     "THIRD_NAME": "",
-    "ALIAS": [
-      {
-        "ALIAS_NAME": "Zimulinda"
-      }
-    ],
+    "ALIAS": [],
     "ADDRESS": [
       ""
     ],
-    "DATE_OF_BIRTH": "",
+    "DATE_OF_BIRTH": "1972-09-01",
     "PLACE_OF_BIRTH": {
       "CITY": "Ngungu",
       "STATE_PROVINCE": "Masisi territory, North Kivu",
@@ -1054,7 +1038,8 @@
     ],
     "DATE_OF_BIRTH": "",
     "PLACE_OF_BIRTH": {
-      "COUNTRY": ""
+      "STATE_PROVINCE": "Katanga Province",
+      "NOTE": "(now Tanganyika Province)"
     },
     "NAME_ORIGINAL_SCRIPT": "",
     "TITLE": "",
@@ -1377,7 +1362,7 @@
         "ALIAS_NAME": "Allied Democratic Forces"
       },
       {
-        "ALIAS_NAME": "Forces Démocratiques Alliées-Armée Nationale de Libération de\nl’Ouganda"
+        "ALIAS_NAME": "Forces Démocratiques Alliées-Armée Nationale de Libération de l’Ouganda"
       },
       {
         "ALIAS_NAME": "ADF/NALU"
@@ -1420,7 +1405,7 @@
   },
   {
     "TYPE": "entity",
-    "FIRST_NAME": "COMPAGNIE AERIENNE DES GRANDS LACS (CAGL) ; GREAT LAKES BUSINESS\nCOMPANY (GLBC)",
+    "FIRST_NAME": "COMPAGNIE AERIENNE DES GRANDS LACS (CAGL) ; GREAT LAKES BUSINESS COMPANY (GLBC)",
     "SECOND_NAME": "",
     "THIRD_NAME": "",
     "ALIAS": [],
