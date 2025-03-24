@@ -4,6 +4,9 @@ const path = require('path');
 const { Validator } = require('jsonschema');
 const { parsers } = require('./parser.js')
 const { transformers } = require('./transformer.js')
+const createLogger = require('./logger');
+
+const logger = createLogger(__filename);
 
 const processWebsiteScraping = async () => {
     const filePath = path.join(__dirname, '../../data/websites.json');
@@ -14,12 +17,12 @@ const processWebsiteScraping = async () => {
 
     for (const site of websites) {
         try {
-            console.log(`Scraping data from: ${site.url}`);
+            logger.info(`Scraping data from: ${site.url}`);
             const result = await scrapeData(site);
-            console.log('Scraped data');
+            logger.info('Scraped data');
 
         } catch (error) {
-            console.error(`Error scraping ${site.url}:`, error);
+            logger.error(`Error scraping ${site.url}:`, error);
         }
     }
 }
@@ -56,20 +59,20 @@ const scrapeData = async (site) => {
         const validationResult = validator.validate(data, schema);
 
         if (validationResult.errors.length > 0) {
-            console.error('Validation errors:', validationResult.errors.length);
+            logger.error('Validation errors:', validationResult.errors.length);
             validationResult.errors.forEach(error => {
-                console.error(`Error: ${error.stack}`);
+                logger.error(`Error: ${error.stack}`);
             });
             throw validationResult.toString();
         } else {
-            console.log('Json validation passed')
+            logger.info('Json validation passed')
             saveData(site, data);
             saveLastChecked(site);
         }
 
         return data;
     } catch (error) {
-        console.error('Error scraping data from', site.url, ':', error);
+        logger.error('Error scraping data from', site.url, ':', error);
         throw error;
     }
 };
@@ -81,7 +84,7 @@ const saveData = (siteData, data) => {
     fs.mkdirSync(path.dirname(filePath), { recursive: true });
 
     fs.writeFileSync(filePath, JSON.stringify(data, null, 2));
-    console.log('Data saved')
+    logger.info('Data saved')
 }
 
 const saveLastChecked = (siteData) => {
@@ -118,7 +121,7 @@ const saveLastChecked = (siteData) => {
 
     // Write the updated data back to the file
     fs.writeFileSync(filePath, JSON.stringify(websites, null, 2));
-    console.log('lastCheckedDate updated')
+    logger.info('lastCheckedDate updated')
 }
 
 module.exports = { processWebsiteScraping, scrapeData, saveLastChecked };

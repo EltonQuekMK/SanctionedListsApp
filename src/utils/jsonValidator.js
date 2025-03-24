@@ -1,6 +1,9 @@
 const fs = require('fs');
 const path = require('path');
 const { Validator } = require('jsonschema');
+const createLogger = require('./logger');
+
+const logger = createLogger(__filename);
 
 // Utility function to validate JSON data against a schema
 const validateJson = (data) => {
@@ -13,10 +16,10 @@ const validateJson = (data) => {
     const validationResult = validator.validate(data, schema);
 
     if (validationResult.errors.length > 0) {
-        console.error('Validation errors:', validationResult.errors.length);
+        logger.error('Validation errors:', validationResult.errors.length);
         return false;
     } else {
-        console.log('JSON data is valid.');
+        logger.info('JSON data is valid.');
         return true;
     }
 };

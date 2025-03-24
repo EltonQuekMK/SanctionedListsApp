@@ -3,6 +3,9 @@ const { runDailyJob } = require('./jobs/dailyJob');
 const express = require('express');
 const { initialize } = require('./api/webController');
 const cors = require('cors');
+const createLogger = require('./utils/logger');
+
+const logger = createLogger(__filename);
 
 const app = express();
 
@@ -22,4 +25,4 @@ app.get('/', function (_req, res) {
 });
 
 // Start the server
-app.listen(3000, () => console.log("Server ready on port 3000."));
+app.listen(3000, () => logger.info("Server ready on port 3000."));

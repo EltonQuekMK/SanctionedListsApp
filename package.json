@@ -22,6 +22,8 @@
     "node-cron": "^2.0.3",
     "pdf-parse": "^1.1.1",
     "uglifyjs-folder": "^3.3.0",
+    "winston": "^3.17.0",
+    "winston-daily-rotate-file": "^5.0.0",
     "xml2js": "^0.6.2",
     "yarn": "^1.22.22"
   },

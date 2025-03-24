@@ -4,7 +4,7 @@
     "url": "https://scsanctions.un.org/xml/en/dprk",
     "fileName": "un_korea.json",
     "requirementFrom": "MAS",
-    "lastCheckedDate": "2025-03-21T03-30-32-204Z",
+    "lastCheckedDate": "2025-03-24T05-14-03-734Z",
     "transformDataFunction": "transformUNToGeneric"
   },
   {
@@ -12,7 +12,7 @@
     "url": "https://scsanctions.un.org/xml/en/drc",
     "fileName": "un_congo.json",
     "requirementFrom": "MAS",
-    "lastCheckedDate": "2025-03-21T03-30-34-162Z",
+    "lastCheckedDate": "2025-03-24T05-14-05-654Z",
     "transformDataFunction": "transformUNToGeneric"
   },
   {
@@ -20,7 +20,7 @@
     "url": "https://scsanctions.un.org/xml/en/libya",
     "fileName": "un_libya.json",
     "requirementFrom": "MAS",
-    "lastCheckedDate": "2025-03-21T03-30-35-696Z",
+    "lastCheckedDate": "2025-03-24T05-14-07-259Z",
     "transformDataFunction": "transformUNToGeneric"
   },
   {
@@ -28,7 +28,7 @@
     "url": "https://scsanctions.un.org/xml/en/somalia",
     "fileName": "un_somalia.json",
     "requirementFrom": "MAS",
-    "lastCheckedDate": "2025-03-21T03-30-37-280Z",
+    "lastCheckedDate": "2025-03-24T05-14-09-111Z",
     "transformDataFunction": "transformUNToGeneric"
   },
   {
@@ -36,7 +36,7 @@
     "url": "https://scsanctions.un.org/xml/en/southsudan",
     "fileName": "un_south_sudan.json",
     "requirementFrom": "MAS",
-    "lastCheckedDate": "2025-03-21T03-30-38-561Z",
+    "lastCheckedDate": "2025-03-24T05-14-10-433Z",
     "transformDataFunction": "transformUNToGeneric"
   },
   {
@@ -44,7 +44,7 @@
     "url": "https://scsanctions.un.org/xml/en/sudan",
     "fileName": "un_sudan.json",
     "requirementFrom": "MAS",
-    "lastCheckedDate": "2025-03-21T03-30-39-593Z",
+    "lastCheckedDate": "2025-03-24T05-14-11-742Z",
     "transformDataFunction": "transformUNToGeneric"
   },
   {
@@ -52,7 +52,7 @@
     "url": "https://scsanctions.un.org/xml/en/yemen",
     "fileName": "un_yemen.json",
     "requirementFrom": "MAS",
-    "lastCheckedDate": "2025-03-21T03-30-40-885Z",
+    "lastCheckedDate": "2025-03-24T05-14-13-073Z",
     "transformDataFunction": "transformUNToGeneric"
   },
   {
@@ -60,7 +60,7 @@
     "url": "https://scsanctions.un.org/xml/en/al-qaida",
     "fileName": "un_isil.json",
     "requirementFrom": "MAS",
-    "lastCheckedDate": "2025-03-21T03-30-44-707Z",
+    "lastCheckedDate": "2025-03-24T05-14-16-995Z",
     "transformDataFunction": "transformUNToGeneric"
   },
   {
@@ -68,7 +68,7 @@
     "url": "https://scsanctions.un.org/xml/en/taliban",
     "fileName": "un_taliban.json",
     "requirementFrom": "MAS",
-    "lastCheckedDate": "2025-03-21T03-30-47-064Z",
+    "lastCheckedDate": "2025-03-24T05-14-19-472Z",
     "transformDataFunction": "transformUNToGeneric"
   },
   {
@@ -76,7 +76,7 @@
     "url": "https://scsanctions.un.org/resources/xml/en/consolidated.xml",
     "fileName": "un_consolidated.json",
     "requirementFrom": "UN",
-    "lastCheckedDate": "2025-03-21T03-30-51-936Z",
+    "lastCheckedDate": "2025-03-24T05-14-24-458Z",
     "transformDataFunction": "transformUNToGeneric"
   }
 ]
