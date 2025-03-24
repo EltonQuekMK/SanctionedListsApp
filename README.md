@@ -1,6 +1,6 @@
 # Node Server Project
 
-This project is a Node.js application that sets up a server using Express and includes a scheduled job that runs daily to scrape a list of companies from a specified website. The extracted data is stored locally.
+This project is a Node.js application that sets up a server using Express and includes a scheduled job that runs daily to scrape data from specified websites. The extracted data is stored locally.
 
 ## Project Structure
 
@@ -40,7 +40,7 @@ node-server-project
 
 ## Usage
 
-The server will start and the daily job will be scheduled to run at a specified time each day. The job will scrape the list of companies from the target website and store the data locally.
+The server will start and the daily job will be scheduled to run at a specified time each day. The job will scrape data from the target websites and store the data locally.
 
 ## Daily Job
 
@@ -48,7 +48,7 @@ The daily job is defined in `src/jobs/dailyJob.js` and utilizes the `scraper.js`
 
 ## Scraping Functionality
 
-The scraping logic is implemented in `src/utils/scraper.js`, which uses `Axios` for making HTTP requests and `Cheerio` for parsing the HTML content to extract company information.
+The scraping logic is implemented in `src/utils/scraper.js`, which uses `Axios` for making HTTP requests and various parsers for handling different content types (JSON, HTML, XML, PDF).
 
 ## License
 
