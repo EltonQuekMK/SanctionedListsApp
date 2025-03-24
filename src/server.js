@@ -21,8 +21,20 @@ initialize(app);
 runDailyJob();
 
 app.get('/', function (_req, res) {
-	res.send('<h1>Server is running</h1>');
+    res.send('<h1>Server is running</h1>');
+});
+
+// Error handling middleware
+app.use((err, req, res, next) => {
+    logger.error(err.stack);
+    res.status(500).send('Something broke!');
 });
 
 // Start the server
-app.listen(3000, () => logger.info("Server ready on port 3000."));
+app.listen(3000, (err) => {
+    if (err) {
+        logger.error('Failed to start server:', err);
+    } else {
+        logger.info("Server ready on port 3000.");
+    }
+});
